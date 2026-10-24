@@ -1,0 +1,1854 @@
+{
+  "repo": "awesome-nano-banana-2-1-prompts",
+  "project": "chatimg",
+  "kind": "image",
+  "title": "Awesome Nano Banana 2.1 Prompts",
+  "titleZh": "Nano Banana 2.1 提示词与作品精选",
+  "description": "A curated collection of Google Nano Banana 2.1 (gemini-nano-banana-2.1) images shared on X — portraits, posters, photo remixes, illustration and same-prompt model comparisons — credited to each creator, with verbatim public prompts you can open on ChatImg in one click.",
+  "descriptionZh": "收集 X 上的 Google Nano Banana 2.1（gemini-nano-banana-2.1）作品：人像大片、海报排版、照片改造、插画与同提示词模型对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
+  "model": "Nano Banana 2.1",
+  "collectedOn": "2026-10-25",
+  "publicationCutoffUtc": "2026-10-06T00:00:00Z",
+  "topics": [
+    "nano-banana",
+    "nano-banana-2-1",
+    "gemini",
+    "google-gemini",
+    "gemini-api",
+    "ai-image",
+    "image-generation",
+    "text-to-image",
+    "ai-art",
+    "prompt-engineering",
+    "image-prompts",
+    "chatimg"
+  ],
+  "site": {
+    "name": "ChatImg",
+    "host": "chatimg.ai",
+    "landingUrl": "https://chatimg.ai/image?model=nanobanana-2.1",
+    "landingUrlZh": "https://chatimg.ai/zh/image?model=nanobanana-2.1",
+    "cta": "Try Nano Banana 2.1 on ChatImg",
+    "ctaZh": "在 ChatImg 直接用 Nano Banana 2.1 出图",
+    "promptUrl": "https://chatimg.ai/image?model=nanobanana-2.1",
+    "promptParam": "q"
+  },
+  "mediaHosts": [
+    "bibigpt-apps.chatvid.ai"
+  ],
+  "categories": [
+    {
+      "id": "official",
+      "en": "Launch & official samples",
+      "zh": "发布与官方样张"
+    },
+    {
+      "id": "portrait",
+      "en": "Portraits & fashion editorials",
+      "zh": "人像与时尚大片"
+    },
+    {
+      "id": "remix",
+      "en": "Photo remixes (bring your own photo)",
+      "zh": "照片改造（上传自己的照片）"
+    },
+    {
+      "id": "poster",
+      "en": "Posters, ads & typography",
+      "zh": "海报、广告与排版"
+    },
+    {
+      "id": "illustration",
+      "en": "Illustration & characters",
+      "zh": "插画与角色"
+    },
+    {
+      "id": "scenes",
+      "en": "Scenes & worldbuilding",
+      "zh": "场景与世界观"
+    },
+    {
+      "id": "comparison",
+      "en": "Same-prompt model comparisons",
+      "zh": "同提示词模型对比"
+    }
+  ],
+  "entries": [
+    {
+      "id": "dandelion-dew-launch-set",
+      "title": "Dew-Covered Dandelion Launch Set",
+      "titleZh": "发布官图：沾满露珠的蒲公英",
+      "category": "official",
+      "author": {
+        "name": "Nano Banana 2.1",
+        "handle": "NanoBanana",
+        "url": "https://x.com/NanoBanana"
+      },
+      "sourceUrl": "https://x.com/NanoBanana/status/2107521202466046453",
+      "publishedAt": "2026-10-06T17:19:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107521202466046453-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107521202466046453-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107521202466046453-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107521202466046453-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107521202466046453-4.webp"
+      ]
+    },
+    {
+      "id": "chrome-banana-render",
+      "title": "Chrome \"Nano Banana 2.1\" Banana Render",
+      "titleZh": "铬金属质感香蕉渲染",
+      "category": "poster",
+      "author": {
+        "name": "fofr",
+        "handle": "fofrAI",
+        "url": "https://x.com/fofrAI"
+      },
+      "sourceUrl": "https://x.com/fofrAI/status/2107504488047059073",
+      "publishedAt": "2026-10-06T16:13:20Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107504488047059073-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107504488047059073-1.webp"
+      ]
+    },
+    {
+      "id": "kingfisher-dive-vs-chatgpt",
+      "title": "Kingfisher Dive vs ChatGPT Image 2.5",
+      "titleZh": "翠鸟入水 vs ChatGPT Image 2.5",
+      "category": "comparison",
+      "author": {
+        "name": "Nova",
+        "handle": "NovaXCode",
+        "url": "https://x.com/NovaXCode"
+      },
+      "sourceUrl": "https://x.com/NovaXCode/status/2107749753606009148",
+      "publishedAt": "2026-10-07T08:27:56Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107749753606009148-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107749753606009148-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107749753606009148-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "launch-samples-text-and-scenes",
+      "title": "Launch Samples: Latte Art, Coastal Town, Snack Packaging",
+      "titleZh": "发布样张：拉花、海边小镇、零食包装",
+      "category": "official",
+      "author": {
+        "name": "Philipp Schmid",
+        "handle": "_philschmid",
+        "url": "https://x.com/_philschmid"
+      },
+      "sourceUrl": "https://x.com/_philschmid/status/2107502894685749672",
+      "publishedAt": "2026-10-06T16:07:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107502894685749672-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107502894685749672-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107502894685749672-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107502894685749672-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107502894685749672-4.webp"
+      ]
+    },
+    {
+      "id": "node-based-web-design-boards",
+      "title": "Node-Based Web Design Boards",
+      "titleZh": "节点式网页设计画板",
+      "category": "poster",
+      "author": {
+        "name": "Meng To",
+        "handle": "MengTo",
+        "url": "https://x.com/MengTo"
+      },
+      "sourceUrl": "https://x.com/MengTo/status/2108460238752116754",
+      "publishedAt": "2026-10-09T07:31:08Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108460238752116754-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108460238752116754-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108460238752116754-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108460238752116754-3.webp"
+      ]
+    },
+    {
+      "id": "photo-to-ink-editorial-poster",
+      "title": "Photo-to-Ink Editorial Poster",
+      "titleZh": "照片转黑白墨线编辑海报",
+      "category": "remix",
+      "author": {
+        "name": "K",
+        "handle": "ChillaiKalan__",
+        "url": "https://x.com/ChillaiKalan__"
+      },
+      "sourceUrl": "https://x.com/ChillaiKalan__/status/2110581440085987751",
+      "publishedAt": "2026-10-15T04:00:02Z",
+      "prompt": "Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.\n\nDivide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.\n\n1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH\n\nUse the uploaded reference photograph directly in the upper 50% of the poster.\n\nPreserve its original photographic quality, sharpness, natural lighting, and color relationships.\n\nAllow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.\n\nIf required, naturally extend a small portion of the surrounding environment to fit the composition.\n\nDo not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.\n\nDo not introduce black borders, white margins, or empty edges.\n\n2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION\n\nUse a warm, near-white ivory paper background with an extremely subtle paper texture.\n\nAnalyze the main subject and visual story of the uploaded reference image.\n\nExtract only the primary subject, preserving one or two essential identifying elements.\n\nRemove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.\n\nTransform the primary subject into a sophisticated black-ink editorial illustration.\n\nILLUSTRATION STYLE:\n\nUse natural, clean pen strokes with varied line weight.\n\nPreserve an authentic hand-drawn appearance with expressive but controlled linework.\n\nAvoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.\n\nPlace a large, nearly pure-black rectangular ink block behind the illustrated subject.\n\nThe rectangular block should have subtly imperfect, handmade print-style edges.\n\nKeep the black background clean, with only fine paper grain and minimal noise.\n\nAvoid obvious hatching, scratches, architectural lines, or complex textures.\n\nILLUSTRATION SCALE AND COMPOSITION:\n\nThe illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.\n\nMaintain a clear visual focal point with generous negative space surrounding the illustration.\n\n3. COLOR RULES\n\nThe bottom illustration must follow a strictly black-and-white color palette by default.\n\nPreserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.\n\nOrdinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.\n\nAny preserved accent color must remain strictly localized to the relevant subject or area.\n\nNever allow accent colors to spread across the entire illustration.\n\n4. TYPOGRAPHY AND EDITORIAL LAYOUT\n\nAutomatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.\n\nThe typography must resemble handwritten editorial annotations from an independent art publication.\n\nTOP-LEFT CORNER:\n\nGenerate a short handwritten title consisting of 2–5 words, arranged across two lines.\n\nDirectly beneath the title, include three short English action verbs relevant to the photograph.\n\nTOP-RIGHT CORNER:\n\nDisplay only two lines of geographic coordinates:\n\nLatitude\nLongitude\n\nDo not include any additional text in this area.\n\nBOTTOM-LEFT CORNER:\n\nDisplay the location name followed by the word \"DIARY.\"\n\nDirectly beneath it, add one short descriptive English sentence inspired by the photograph.\n\nTYPOGRAPHY STYLE:\n\nUse a rough, upright, slightly irregular handwritten typeface.\n\nMaintain subtle imperfections and a natural editorial annotation aesthetic.\n\nAvoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.\n\n5. FINAL ART DIRECTION\n\nThe finished poster must combine:\n\nAuthentic, high-quality photography.\nMinimalist black-and-white editorial illustration.\nGenerous negative space.\nIndependent art publication aesthetics.\nQuiet, restrained, sophisticated visual storytelling.\nNatural handwritten typography.\nA balanced relationship between documentary realism and expressive hand-drawn artwork.\n\nThe overall result should resemble a carefully designed, collectible editorial art print.\n\n6. FINAL OUTPUT REQUIREMENTS\n\nASPECT RATIO:\n2:3 vertical.\n\nRESOLUTION:\nHigh-resolution, sharp, print-quality output.\n\nCOMPOSITION:\n\nExactly 50% original reference photography on top.\n\nExactly 50% editorial illustration on the bottom.\n\nOne perfectly straight horizontal dividing line.\n\nOne complete, standalone poster.\n\nRESTRICTIONS:\n\nNo collages.\nNo multi-poster layouts.\nNo combined images.\nNo unnecessary decorative elements.\nNo modifications to the original subject's identity or appearance.\nNo excessive illustration details.\nNo changes to the original photograph's natural color relationships.\n\nFINAL GOAL:\n\nCreate a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.",
+      "promptSourceUrl": "https://x.com/ChillaiKalan__/status/2110581440085987751",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110581440085987751-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110581440085987751-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110581440085987751-2.webp"
+      ]
+    },
+    {
+      "id": "cobalt-ring-fashion-editorial",
+      "title": "Cobalt Ring Fashion Editorial",
+      "titleZh": "钴蓝圆环时尚大片",
+      "category": "portrait",
+      "author": {
+        "name": "Emma",
+        "handle": "Emmma___0",
+        "url": "https://x.com/Emmma___0"
+      },
+      "sourceUrl": "https://x.com/Emmma___0/status/2109146295252459682",
+      "publishedAt": "2026-10-11T04:57:17Z",
+      "prompt": "Create an ultra-realistic, high-end fashion editorial photoshoot featuring a beautiful young adult woman with short, tousled platinum-blonde bob hair, delicate facial features, fair skin, natural rosy lips, light-colored eyes, and a calm, confident expression.\n\nScene and Environment: A futuristic minimalist architectural studio featuring a massive sculptural circular opening with thick, smooth, curved white walls. The interior of the circular structure is a rich cobalt-blue or vibrant cyan-blue, creating a striking contrast against the white architectural frame. Clean geometric shapes, curved surfaces, and a contemporary art-gallery aesthetic.\n\nOutfit and Styling: The model wears a sophisticated, oversized black knit sweater or elegant black long-sleeved top paired with tailored black or ivory trousers. Minimal makeup, natural skin texture, understated accessories, and effortless luxury styling.\n\nPose and Composition: The model poses naturally within and around the giant circular opening. Create a series of artistic editorial poses: a close-up portrait leaning forward through the circular frame, a full-body seated pose inside the sculptural ring with one knee raised, and a standing or seated three-quarter portrait with one hand resting on the curved white surface. Relaxed hands, graceful posture, elongated silhouette, and direct eye contact with the camera.\n\nLighting: Soft natural daylight entering from one side, creating beautiful directional highlights on the platinum hair, subtle shadows across the face, realistic skin tones, and soft gradients on the white architectural surfaces. Cinematic interplay between cool blue ambient light and warm sunlight.\n\nColor Palette: Vivid cobalt blue, turquoise, icy cyan, pure white, deep black, and platinum blonde. Clean, cool-toned color grading with balanced highlights and rich shadows.\n\nPhotography Style: Luxury fashion magazine editorial, contemporary avant-garde photography, minimalist Scandinavian design, architectural fashion campaign, medium-format camera aesthetics, 85mm portrait lens, subtle depth of field, precise focus on the eyes, realistic hair strands, detailed knit fabric, natural skin texture, sophisticated framing, and premium commercial photography quality.\n\nImage Quality: Photorealistic, ultra-detailed, 8K appearance, professional art direction, anatomically accurate hands, realistic proportions, elegant negative space, clean architectural geometry, natural facial expression, crisp details, refined composition, no artificial-looking skin, no excessive retouching.\n\nVertical portrait composition, 2:3 aspect ratio.",
+      "promptSourceUrl": "https://x.com/Emmma___0/status/2109146295252459682",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109146295252459682-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109146295252459682-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109146295252459682-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109146295252459682-3.webp"
+      ]
+    },
+    {
+      "id": "macro-texture-detail-tests",
+      "title": "Native 4K Macro Texture Tests",
+      "titleZh": "原生 4K 微距质感测试",
+      "category": "scenes",
+      "author": {
+        "name": "Christopher Fryant",
+        "handle": "cfryant",
+        "url": "https://x.com/cfryant"
+      },
+      "sourceUrl": "https://x.com/cfryant/status/2107849002259784148",
+      "publishedAt": "2026-10-07T15:02:18Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107849002259784148-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107849002259784148-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107849002259784148-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107849002259784148-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107849002259784148-4.webp"
+      ]
+    },
+    {
+      "id": "half-face-name-typography-portrait",
+      "title": "Half-Face Name Typography Portrait",
+      "titleZh": "半张脸 + 名字字母拼贴人像",
+      "category": "remix",
+      "author": {
+        "name": "Emma",
+        "handle": "Emmma___0",
+        "url": "https://x.com/Emmma___0"
+      },
+      "sourceUrl": "https://x.com/Emmma___0/status/2108777847800426542",
+      "publishedAt": "2026-10-10T04:33:12Z",
+      "prompt": "Transform the uploaded image into a modern studio portrait. Preserve the subject’s identity and features. Show half the face on the left; stack [NAME] vertically on the right, with each letter filled by matching details from the hidden half. Seamless alignment, [BACKGROUND] backdrop, [LIGHTING], modern typography.",
+      "promptSourceUrl": "https://x.com/Emmma___0/status/2108777847800426542",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108777847800426542-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108777847800426542-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108777847800426542-2.webp"
+      ]
+    },
+    {
+      "id": "full-wine-glass-clock-test",
+      "title": "Full Wine Glass and a 3:30 Clock",
+      "titleZh": "满杯红酒与 3:30 的时钟",
+      "category": "scenes",
+      "author": {
+        "name": "Philipp Schmid",
+        "handle": "_philschmid",
+        "url": "https://x.com/_philschmid"
+      },
+      "sourceUrl": "https://x.com/_philschmid/status/2107767838094344258",
+      "publishedAt": "2026-10-07T09:39:47Z",
+      "prompt": "A completely filled up glass of wine and a clock at 3:30pm",
+      "promptSourceUrl": "https://x.com/_philschmid/status/2107767838094344258",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107767838094344258-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107767838094344258-1.webp"
+      ]
+    },
+    {
+      "id": "flat-illustration-to-street-photo",
+      "title": "Flat Illustration to Street Photo",
+      "titleZh": "扁平插画变街拍实景",
+      "category": "illustration",
+      "author": {
+        "name": "Ege",
+        "handle": "egeberkina",
+        "url": "https://x.com/egeberkina"
+      },
+      "sourceUrl": "https://x.com/egeberkina/status/2107830742332121114",
+      "publishedAt": "2026-10-07T13:49:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107830742332121114-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107830742332121114-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107830742332121114-2.webp"
+      ]
+    },
+    {
+      "id": "google-flow-lettering-set",
+      "title": "Food & Craft Lettering Set from Google Flow",
+      "titleZh": "Google Flow 官方示例：食物与手工字体",
+      "category": "official",
+      "author": {
+        "name": "Google Flow",
+        "handle": "FlowbyGoogle",
+        "url": "https://x.com/FlowbyGoogle"
+      },
+      "sourceUrl": "https://x.com/FlowbyGoogle/status/2112630399759475052",
+      "publishedAt": "2026-10-20T19:41:52Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112630399759475052-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112630399759475052-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112630399759475052-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112630399759475052-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112630399759475052-4.webp"
+      ]
+    },
+    {
+      "id": "photo-to-sketch-artbook-spread",
+      "title": "Photo-to-Sketch Artbook Spread",
+      "titleZh": "照片到素描的画册跨页",
+      "category": "remix",
+      "author": {
+        "name": "Sharon Riley",
+        "handle": "Just_sharon7",
+        "url": "https://x.com/Just_sharon7"
+      },
+      "sourceUrl": "https://x.com/Just_sharon7/status/2107574724041769179",
+      "publishedAt": "2026-10-06T20:52:25Z",
+      "prompt": "Create a nostalgic, magazine-inspired photo-and-illustration artbook spread using the reference image as the visual foundation. Maintain the original subjects, identities, poses, expressions, wardrobe, framing, and emotional tone without altering their recognizable appearance.\n\nDesign the composition as two vertically flowing interpretations of the same moment.\n\nIn the upper portion, recreate the reference as an intimate cinematic photograph. Use gentle natural light, realistic skin and fabric textures, muted authentic colors, delicate analog film grain, soft background separation, and shallow depth of field. The image should feel spontaneous and personal, like a quiet memory captured on film rather than a staged portrait.\n\nIn the lower portion, reinterpret that identical moment as a raw black-and-white ink drawing printed on warm ivory sketchbook paper. Preserve the characters, pose, proportions, and composition while replacing photographic detail with expressive hand-drawn linework, irregular pen strokes, loose cross-hatching, unfinished contours, and restrained shading. Allow small imperfections so the illustration feels genuinely handmade rather than digitally traced.\n\nBlend both sections naturally so the photograph appears to dissolve into the drawing, creating the impression of a memory gradually becoming an illustration.\n\nSurround the lower artwork with restrained editorial design elements: a small numbered chapter heading, a brief poetic handwritten annotation, tiny archival or documentary notes, and subtle typographic details. Keep all typography secondary to the imagery.\n\nUse generous cream-toned negative space, tactile paper grain, faint printing imperfections, understated vintage publishing details, and an elegant minimalist layout inspired by contemporary photography journals and Japanese visual diaries.\n\nOverall mood: nostalgic, intimate, poetic, cinematic, handcrafted, sophisticated, and emotionally warm.\n\nMaintain realistic anatomy, natural body proportions, recognizable faces, believable hands, and consistent clothing throughout both versions. High-detail editorial finish, cohesive photo-to-sketch transition, no branding, no logos, and no watermark.",
+      "promptSourceUrl": "https://x.com/Just_sharon7/status/2107574724041769179",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107574724041769179-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107574724041769179-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107574724041769179-2.webp"
+      ]
+    },
+    {
+      "id": "tiny-people-giant-world",
+      "title": "Tiny People in a Giant World",
+      "titleZh": "巨物世界里的小人",
+      "category": "scenes",
+      "author": {
+        "name": "Christopher Fryant",
+        "handle": "cfryant",
+        "url": "https://x.com/cfryant"
+      },
+      "sourceUrl": "https://x.com/cfryant/status/2107552426148745491",
+      "publishedAt": "2026-10-06T19:23:49Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107552426148745491-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107552426148745491-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107552426148745491-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107552426148745491-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107552426148745491-4.webp"
+      ]
+    },
+    {
+      "id": "newspaper-collage-portrait",
+      "title": "Newspaper Collage Portrait",
+      "titleZh": "报纸拼贴人像",
+      "category": "remix",
+      "author": {
+        "name": "Kōda",
+        "handle": "aimikoda",
+        "url": "https://x.com/aimikoda"
+      },
+      "sourceUrl": "https://x.com/aimikoda/status/2108682052665290854",
+      "publishedAt": "2026-10-09T22:12:33Z",
+      "prompt": "recreate this image as a collage made from newspaper parts.",
+      "promptSourceUrl": "https://x.com/aimikoda/status/2108682052665290854",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108682052665290854-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108682052665290854-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108682052665290854-2.webp"
+      ]
+    },
+    {
+      "id": "chiaroscuro-close-up-portrait",
+      "title": "Chiaroscuro Close-Up Portrait",
+      "titleZh": "明暗对照特写人像",
+      "category": "portrait",
+      "author": {
+        "name": "Heisenberg",
+        "handle": "rovvmut_",
+        "url": "https://x.com/rovvmut_"
+      },
+      "sourceUrl": "https://x.com/rovvmut_/status/2107691827323392159",
+      "publishedAt": "2026-10-07T04:37:45Z",
+      "prompt": "A hyper-realistic, 8K resolution cinematic close-up portrait of the person in the uploaded image. The image features dramatic chiaroscuro lighting, heavily illuminating the left side of his face while casting deep, moody shadows on the right against a solid black background. He has an intense, direct gaze, dark brown eyes with square catchlights, and textured, wet-styled hair. He is wearing a plain black t-shirt. Render with 35mm film grain and a shallow depth of field, prioritizing extreme character consistency and highly detailed skin texture, including visible pores.",
+      "promptSourceUrl": "https://x.com/rovvmut_/status/2107691827323392159",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107691827323392159-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107691827323392159-1.webp"
+      ]
+    },
+    {
+      "id": "beauty-portrait-vs-midjourney",
+      "title": "Beauty Portrait vs Midjourney 8.2",
+      "titleZh": "美妆人像 vs Midjourney 8.2",
+      "category": "comparison",
+      "author": {
+        "name": "Melis✨",
+        "handle": "miilesus",
+        "url": "https://x.com/miilesus"
+      },
+      "sourceUrl": "https://x.com/miilesus/status/2107553705327218860",
+      "publishedAt": "2026-10-06T19:28:54Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107553705327218860-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107553705327218860-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107553705327218860-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "screen-print-lighthouse-four-models",
+      "title": "Screen-Print Lighthouse, Four Models",
+      "titleZh": "丝网印刷灯塔：四模型对比",
+      "category": "comparison",
+      "author": {
+        "name": "Hakm",
+        "handle": "hakmgpt",
+        "url": "https://x.com/hakmgpt"
+      },
+      "sourceUrl": "https://x.com/hakmgpt/status/2107535382183387282",
+      "publishedAt": "2026-10-06T18:16:05Z",
+      "prompt": "A spectacular vintage screen-print illustration of a tall colorful lighthouse standing alone on a dark rocky island in a vast nighttime ocean. The lighthouse has geometric blocks of cream, hot pink, yellow and cobalt blue, with a dark blue roof. Its powerful yellow beam sweeps across the sky in a huge curved arc. Deep blue ocean with stylized white waves fills the bottom of the image. Dense halftone dots cover every surface, with rough paper texture and imperfect ink registration. Limited retro CMYK palette, flat graphic shapes, 1970s children's storybook screen-print aesthetic, mysterious and magical atmosphere, no text, 16:9.",
+      "promptSourceUrl": "https://x.com/hakmgpt/status/2107535382183387282",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107535382183387282-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107535382183387282-1.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "podcast-studio-realism-test",
+      "title": "Podcast Studio Realism Test vs GPT 2.5 Sunburst",
+      "titleZh": "播客录音棚写实测试 vs GPT 2.5 Sunburst",
+      "category": "comparison",
+      "author": {
+        "name": "Stav Zilbershtein",
+        "handle": "mightyking",
+        "url": "https://x.com/mightyking"
+      },
+      "sourceUrl": "https://x.com/mightyking/status/2107509752561369089",
+      "publishedAt": "2026-10-06T16:34:15Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107509752561369089-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107509752561369089-1.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "impasto-moonlit-lake",
+      "title": "Impasto Moonlit Lake with Black Swans",
+      "titleZh": "厚涂油画：月下黑天鹅湖",
+      "category": "comparison",
+      "author": {
+        "name": "Viki",
+        "handle": "churvikv",
+        "url": "https://x.com/churvikv"
+      },
+      "sourceUrl": "https://x.com/churvikv/status/2107856173839872397",
+      "publishedAt": "2026-10-07T15:30:48Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107856173839872397-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107856173839872397-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107856173839872397-2.webp"
+      ],
+      "note": "Creator compared Nano Banana 2.1, GPT Image 2.5 Sunburst and Seedream v5 Pro; the second image is Nano Banana 2.1 per its alt text. The published prompt is labelled for the video step, so it is not listed here as the image prompt."
+    },
+    {
+      "id": "black-and-white-vogue-portrait",
+      "title": "Black-and-White Vogue Portrait",
+      "titleZh": "黑白 Vogue 编辑人像",
+      "category": "portrait",
+      "author": {
+        "name": "Eesha",
+        "handle": "MissDelulu9",
+        "url": "https://x.com/MissDelulu9"
+      },
+      "sourceUrl": "https://x.com/MissDelulu9/status/2113862505504407630",
+      "publishedAt": "2026-10-24T05:17:49Z",
+      "prompt": "Ultra-realistic cinematic black-and-white Vogue editorial portrait of a beautiful Japanese woman. Three-quarter profile pose, shoulders turned away from the camera, head gently tilted upward and looking off-frame with a calm, dreamy expression and softly parted lips. Long, naturally wavy black hair with loose strands flowing across the face. Elegant off-shoulder white satin blouse, delicate sparkling earrings.\n\nDramatic hard side lighting casting bold diagonal shadows across the eyes and face, high-contrast chiaroscuro, minimal dark studio background. 85mm lens, shallow depth of field, razor-sharp eyes, hyper-detailed natural skin texture, subtle film grain, luxury fashion photography, timeless editorial aesthetic, ultra-photorealistic, 8K.",
+      "promptSourceUrl": "https://x.com/MissDelulu9/status/2113862505504407630",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113862505504407630-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113862505504407630-1.webp"
+      ]
+    },
+    {
+      "id": "giant-cat-on-campus-meme",
+      "title": "Giant Cat on the Ring Campus",
+      "titleZh": "趴在环形园区上的巨猫",
+      "category": "scenes",
+      "author": {
+        "name": "Todd Dailey",
+        "handle": "twid",
+        "url": "https://x.com/twid"
+      },
+      "sourceUrl": "https://x.com/twid/status/2107521868639183233",
+      "publishedAt": "2026-10-06T17:22:24Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107521868639183233-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107521868639183233-1.webp"
+      ]
+    },
+    {
+      "id": "luxury-watch-product-shot",
+      "title": "Luxury Watch Product Shot vs GPT Image 2",
+      "titleZh": "奢侈腕表产品图 vs GPT Image 2",
+      "category": "comparison",
+      "author": {
+        "name": "Pankaj Kumar",
+        "handle": "pankajkumar_dev",
+        "url": "https://x.com/pankajkumar_dev"
+      },
+      "sourceUrl": "https://x.com/pankajkumar_dev/status/2107518782432494073",
+      "publishedAt": "2026-10-06T17:10:08Z",
+      "prompt": "{\n  \"prompt\": \"A photorealistic luxury product photograph of a stainless-steel mechanical wristwatch resting on a slightly scratched dark wooden desk beside an open notebook, a fountain pen, a pair of reading glasses and a ceramic coffee cup. The watch is positioned at a slight natural angle, with its polished steel case, brushed metal surfaces, sapphire crystal, crown, hands, indices and fine bracelet links rendered with extremely precise mechanical detail.\",\n  \"scene\": {\n    \"environment\": \"A real upscale home office in the early morning, with a large window in the background and soft daylight entering from the left.\",\n    \"desk\": \"Dark walnut wood with subtle scratches, small dust particles, natural grain variation and slight signs of everyday use.\",\n    \"background\": \"A believable office environment with bookshelves, a desk lamp and softly blurred architectural details.\",\n    \"objects\": [\n      \"open cream-colored notebook with handwritten notes\",\n      \"black metal fountain pen\",\n      \"thin metal reading glasses\",\n      \"white ceramic coffee cup with a small amount of coffee visible\",\n      \"watch placed naturally in front of the notebook\"\n    ]\n  },\n  \"watch_details\": {\n    \"materials\": \"Polished stainless steel mixed with finely brushed surfaces, realistic sapphire crystal, engraved metal crown and detailed mechanical components.\",\n    \"dial\": \"Dark charcoal dial with subtle vertical texture, thin applied hour markers, elegant silver hands and a small date window.\",\n    \"movement\": \"The transparent caseback is partially visible and contains an intricate mechanical movement with tiny gears, screws, bridges and jeweled components.\",\n    \"condition\": \"Premium but realistically used, with extremely subtle micro-scratches and fingerprints on reflective metal surfaces.\"\n  },\n  \"reflection_test\": {\n    \"crystal\": \"The sapphire crystal must show physically accurate reflections of the window and surrounding room while remaining transparent enough to clearly see the dial beneath it.\",\n    \"metal\": \"Polished metal surfaces should reflect the environment differently from brushed metal surfaces.\",\n    \"glasses\": \"The reading glasses should show subtle realistic reflections without becoming opaque.\",\n    \"coffee\": \"The ceramic cup should have soft realistic highlights rather than artificial glossy CGI reflections.\"\n  },\n  \"human_element\": {\n    \"hands\": \"A realistic adult hand is reaching naturally into the frame to pick up the fountain pen beside the watch.\",\n    \"anatomy\": \"Accurate human anatomy, natural finger positions, realistic fingernails, skin pores and subtle imperfections.\",\n    \"interaction\": \"The hand must physically interact with the pen and cast a correct shadow onto the desk.\"\n  },\n  \"lighting\": {\n    \"source\": \"Soft natural morning window light from the left.\",\n    \"fill\": \"Very subtle ambient room illumination.\",\n    \"shadows\": \"Physically believable soft shadows under every object, with correct contact shadows.\",\n    \"highlights\": \"Controlled realistic specular highlights on polished steel, glass and ceramic.\",\n    \"atmosphere\": \"Natural photographic contrast without excessive HDR or artificial glow.\"\n  },\n  \"camera\": {\n    \"camera_type\": \"Professional full-frame mirrorless camera\",\n    \"lens\": \"85mm macro lens\",\n    \"aperture\": \"f/4\",\n    \"focus\": \"Critical focus on the watch dial and front edge of the case, with gradual natural falloff toward the background.\",\n    \"perspective\": \"True optical perspective with realistic proportions and no wide-angle distortion.\",\n    \"composition\": \"The watch is the clear hero subject but the surrounding objects remain naturally visible and spatially coherent.\"\n  },\n  \"photographic_realism\": {\n    \"materials\": \"Every material must have physically distinct surface properties.\",\n    \"imperfections\": \"Include subtle dust, tiny scratches, fingerprints, fabric fibers, wood grain irregularities and small environmental imperfections.\",\n    \"depth\": \"Natural depth of field rather than artificial blur.\",\n    \"color\": \"Neutral premium editorial photography with accurate skin tones and realistic material colors.\",\n    \"image_character\": \"It should look like a photograph captured by a professional product photographer, not a 3D render.\"\n  },\n  \"aspect_ratio\": \"3:2\",\n  \"negative_prompt\": \"3D render, CGI, illustration, plastic materials, fake reflections, excessive HDR, excessive bokeh, oversaturation, perfectly clean surfaces, distorted hands, extra fingers, malformed fingers, duplicated objects, warped watch geometry, inconsistent shadows, floating objects, unrealistic depth of field, fake metal, fake glass, text, logos, watermark\"\n}",
+      "promptSourceUrl": "https://x.com/pankajkumar_dev/status/2107519796552286338",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107518782432494073-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107518782432494073-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107518782432494073-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "mixed-media-storybook-kids",
+      "title": "Mixed-Media Storybook Kids and Pets",
+      "titleZh": "混合媒材绘本：孩子与小动物",
+      "category": "illustration",
+      "author": {
+        "name": "Eesha",
+        "handle": "MissDelulu9",
+        "url": "https://x.com/MissDelulu9"
+      },
+      "sourceUrl": "https://x.com/MissDelulu9/status/2112461761266032799",
+      "publishedAt": "2026-10-20T08:31:46Z",
+      "prompt": "Extreme close-up mixed-media storybook illustration of [HUMAN] with [ANIMAL] beside them in [SETTING]. Oversized tilted head, gigantic uneven blue-green eyes, thick eyebrows, tiny nose, coral-pink freckled cheeks, thin neck, and miniature hands. Irregular color planes, translucent watercolor, cut-paper layers, ink washes, chalk-pastel grain, and delicate pencil outlines. Sweeping graphic hair with white scribbles. Wearing [CLOTHING], in [COLORS]. Abstract organic background, smaller wide-eyed matching animal, playful asymmetry, intimate composition, and tactile painterly texture.",
+      "promptSourceUrl": "https://x.com/MissDelulu9/status/2112461761266032799",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112461761266032799-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112461761266032799-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112461761266032799-2.webp"
+      ]
+    },
+    {
+      "id": "monolith-above-the-city",
+      "title": "The Monolith Above the City",
+      "titleZh": "城市上空的巨石碑",
+      "category": "scenes",
+      "author": {
+        "name": "osama orabi",
+        "handle": "os_orabi",
+        "url": "https://x.com/os_orabi"
+      },
+      "sourceUrl": "https://x.com/os_orabi/status/2108105120101670957",
+      "publishedAt": "2026-10-08T08:00:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108105120101670957-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108105120101670957-1.webp"
+      ]
+    },
+    {
+      "id": "prompt-magazine-poster",
+      "title": "\"PROMPT\" Magazine Poster",
+      "titleZh": "「PROMPT」杂志海报",
+      "category": "poster",
+      "author": {
+        "name": "Poonam Soni",
+        "handle": "CodeByPoonam",
+        "url": "https://x.com/CodeByPoonam"
+      },
+      "sourceUrl": "https://x.com/CodeByPoonam/status/2107769327751709117",
+      "publishedAt": "2026-10-07T09:45:42Z",
+      "prompt": "Use the uploaded photo of me as the main subject. Keep my face, skin tone, hair and features exactly the same. Recreate the style and layout of the reference poster.\n\nScene: A vertical 4:5 editorial poster. I stand in the center, facing the camera with a calm, serious expression. My head is slightly tilted. I wear a flowy, elegant midi dress in a deep charcoal navy shade. The fabric has soft natural folds.\n\nBackground: A soft blue-grey studio wall with a cinematic teal and navy gradient. Two blurred, motion-smeared figures in dark oversized clothing stand on the left and right edges. They look like long-exposure ghosts. Keep them out of focus.\n\nLighting: Soft, moody natural light. Gentle rim light on my hair. Muted film tones, fine grain, shallow depth of field. Fashion editorial look.\n\nText layout:\n- Top center: small, wide-spaced white text \"SONI\"\n- Center, over the lower body: huge, bold, condensed white sans-serif text \"PROMPT\". It sits in front of the dress, slightly overlapping me.\n- Just below it: orange handwritten script text \"NanoBanana 2.1\", slightly tilted\n\nDo not add any arrow, button, oval or pill shape. Do not add any other text, logos or watermarks.\n\nStyle: premium magazine poster, clean typography, high contrast text, cinematic, photorealistic, 4:5  aspect ratio",
+      "promptSourceUrl": "https://x.com/CodeByPoonam/status/2107769341081211303",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107769327751709117-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107769327751709117-1.webp"
+      ]
+    },
+    {
+      "id": "schoolgirl-crosswalk-six-models",
+      "title": "Schoolgirl at the Crosswalk, Six Models",
+      "titleZh": "路口女学生：六模型对比",
+      "category": "comparison",
+      "author": {
+        "name": "cotton",
+        "handle": "ctn_imglab2",
+        "url": "https://x.com/ctn_imglab2"
+      },
+      "sourceUrl": "https://x.com/ctn_imglab2/status/2112546358913855689",
+      "publishedAt": "2026-10-20T14:07:55Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112546358913855689-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112546358913855689-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112546358913855689-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112546358913855689-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112546358913855689-4.webp"
+      ],
+      "note": "Six-model same-prompt comparison; the fourth image is Nano Banana 2.1."
+    },
+    {
+      "id": "cydonia-spaceport-mars",
+      "title": "Nightfall over Cydonia Spaceport, Mars",
+      "titleZh": "火星赛东尼亚太空港的夜幕",
+      "category": "scenes",
+      "author": {
+        "name": "Alex Utopia",
+        "handle": "alexutopia",
+        "url": "https://x.com/alexutopia"
+      },
+      "sourceUrl": "https://x.com/alexutopia/status/2113844889381179840",
+      "publishedAt": "2026-10-24T04:07:49Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113844889381179840-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113844889381179840-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113844889381179840-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113844889381179840-3.webp"
+      ]
+    },
+    {
+      "id": "sunrise-above-venus-clouds",
+      "title": "Sunrise above the Clouds of Venus",
+      "titleZh": "金星云层之上的日出",
+      "category": "scenes",
+      "author": {
+        "name": "Alex Utopia",
+        "handle": "alexutopia",
+        "url": "https://x.com/alexutopia"
+      },
+      "sourceUrl": "https://x.com/alexutopia/status/2110695776158359649",
+      "publishedAt": "2026-10-15T11:34:22Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110695776158359649-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110695776158359649-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110695776158359649-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110695776158359649-3.webp"
+      ]
+    },
+    {
+      "id": "vintage-travel-posters-japan-france-egypt",
+      "title": "Vintage Travel Posters: Japan, France, Egypt",
+      "titleZh": "复古旅行海报：日本、法国、埃及",
+      "category": "poster",
+      "author": {
+        "name": "Snow",
+        "handle": "iamrealsnow",
+        "url": "https://x.com/iamrealsnow"
+      },
+      "sourceUrl": "https://x.com/iamrealsnow/status/2109137161828401408",
+      "publishedAt": "2026-10-11T04:20:59Z",
+      "prompt": "1. Japan (deep indigo/red accent)\nVintage travel poster, tall portrait 4:5. Aged cream paper texture with grain and torn edges. Top: small spaced text \"WELCOME TO\", then huge distressed condensed sans-serif title \"JAPAN\" in deep red, with the tagline \"LAND OF TRADITION, HARMONY & INNOVATION\" below. Center: a sepia black-and-white halftone photo collage of Mount Fuji with a pagoda in front, a torii gate, a bullet train, and cherry blossom branches, with only the torii gate and train in red. Left side: a vertical Japanese title \"日本\" in brush-style type, a small Japanese flag, a red camellia illustration, and a small samurai-armor drawing. Right side: a vertical line of Japanese text, a small map outline of Japan, and a stamp badge reading \"EST. 660 BC\". Circular postmark stamp \"TOKYO, JAPAN\" with wavy cancellation lines. Footer: \"LIVE THE PAST • ENJOY THE PRESENT • INSPIRE THE FUTURE\" with small crown-style ornaments. Palette: cream, black, sepia, one red accent. Print-ready, crisp typography, no extra text.\n2. France (navy blue accent)\nVintage travel poster, tall portrait 4:5. Warm ivory paper with creases and ink wear. Top: \"BIENVENUE EN\" in small spaced letters, then giant distressed condensed title \"FRANCE\" in navy blue, with the tagline \"LAND OF ART, ELEGANCE & CULTURE\". Center: a monochrome sepia collage featuring the Eiffel Tower rising through clouds, a Parisian café with bistro chairs, a Haussmann-style street, and the Arc de Triomphe, with a navy-blue vintage Citroën 2CV in the foreground as the only color element. Left side: vertical text \"フランス\", a small tricolor flag, a fleur-de-lis illustration, and a baguette-and-wine sketch. Right side: vertical French text, a small map outline of France, and a boxed badge \"SINCE 1889 • PARIS\". Round postmark \"PARIS, FRANCE\" with wavy lines. A cursive caption reads \"Liberté, Égalité, Fraternité\". Footer: \"LIVE THE PAST • ENJOY THE PRESENT • INSPIRE THE FUTURE\". Palette: ivory, black, sepia, navy accent. Retro print texture, sharp typography.\n3. Egypt (terracotta/gold accent)\nVintage travel poster, tall portrait 4:5. Sand-colored aged paper with grain and stains. Top: \"WELCOME TO\", then huge weathered condensed title \"EGYPT\" in terracotta red, with the tagline \"LAND OF PHARAOHS, MYSTERY & ETERNITY\". Center: a sepia halftone collage of the Great Pyramids at sunset, a Sphinx, a felucca sailing on the Nile, and a camel caravan, with a golden pharaoh mask as the only accent color. Left side: vertical Arabic title \"مصر\", a small flag, a lotus flower illustration, and a small hieroglyph cartouche. Right side: vertical Arabic text, a small map outline of Egypt, and a stamp badge reading \"CAIRO • CIVILIZATION SINCE 3100 BC\". Circular postmark \"CAIRO, EGYPT\" with wavy cancellation lines. Footer: \"LIVE THE PAST • ENJOY THE PRESENT • INSPIRE THE FUTURE\". Palette: sand, black, sepia, terracotta, touches of gold. Crisp typography, vintage print finish.",
+      "promptSourceUrl": "https://x.com/iamrealsnow/status/2109137298587820344",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109137161828401408-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109137161828401408-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109137161828401408-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109137161828401408-3.webp"
+      ]
+    },
+    {
+      "id": "double-breasted-suit-street-portrait",
+      "title": "Double-Breasted Suit Street Portrait",
+      "titleZh": "双排扣西装街头人像",
+      "category": "portrait",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "url": "https://x.com/pictsbyai"
+      },
+      "sourceUrl": "https://x.com/pictsbyai/status/2112458298603479350",
+      "publishedAt": "2026-10-20T08:18:00Z",
+      "prompt": "A confident handsome male in his late twenties or early thirties stands in a classic 45-degree turn with his weight comfortably shifted and shoulders level. He wears a meticulously tailored charcoal grey double-breasted suit, paired with a crisp white dress shirt, a dark patterned tie, and a precise white pocket square. His thick hair is scissor-cut with a classic taper and a deep side part roughly an inch and a half from the right, left three to four inches long on top to showcase a naturally wavy texture. The styling eschews artificial smoothness in favor of organic volume and movement, revealing natural imperfections, slight flyaways, and varying wave directions held by a low-shine, natural-finish paste. His candid expression features relaxed eyebrows and a softly closed mouth as his eyes gaze away toward the open negative space on the left side of the frame. His left arm extends downward with the fingers of his hand curled naturally and organically inward, exposing a silver-tone dress watch with a light dial peeking from beneath his stark white shirt cuff, while his right arm bends cleanly at the elbow, tucked deeply into his trouser pocket. He is framed straight-on outdoors against a medium-depth urban backdrop, standing upon solid, dark gray horizontal stone steps. To his left in the midground, a vintage wrought-iron door features black painted metal with decorative circular and scrolling motifs, softly out of focus. Dominating the right background is a weathered architectural stone pillar crafted from raw carved masonry. This warm taupe-gray and beige stone wall bears the authentic marks of old city buildings, showcasing a matte surface textured with horizontal carved ridges, vertical corner framing, subtle water staining, natural pitting, and patchy accumulations of soot. The scene is enveloped in a sophisticated, timeless urban elegance, illuminated by a single soft, diffused natural light source cascading from above. This moderate-intensity overhead lighting creates an asymmetrically balanced, medium-contrast palette, casting soft-edged, gray shadows subtly under his chin, beneath the structured suit lapels, and deep within the architectural recesses of the stone building. Specular highlights are beautifully preserved across his forehead, the bridge of his nose, his cheekbone, and the textured crests of his hair waves, while a gentle ambient fill maintains the rich charcoal, warm stone, black, and crisp white dominant tones. Captured as a tack-sharp digital menswear editorial photograph influenced by classic Pitti Uomo street style, the cinematic portrait utilizes an 85mm lens at an f/2.8 aperture and 1/250s shutter speed at ISO 100 for a realistic medium depth of field. Post-processing enhances the composition through a subtle warm neutral color grade, deliberately desaturated background elements to isolate the subject, gentle dodging and burning to define the jawline and structured suit lapels, and a delicate layer of film grain, all seamlessly framed in a 9:16 aspect ratio.",
+      "promptSourceUrl": "https://x.com/pictsbyai/status/2112458298603479350",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112458298603479350-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112458298603479350-1.webp"
+      ]
+    },
+    {
+      "id": "twenty-four-prompt-shootout",
+      "title": "24-Prompt Shootout vs GPT 2.5",
+      "titleZh": "24 组提示词横评 vs GPT 2.5",
+      "category": "comparison",
+      "author": {
+        "name": "TechHalla",
+        "handle": "techhalla",
+        "url": "https://x.com/techhalla"
+      },
+      "sourceUrl": "https://x.com/techhalla/status/2107698181492310062",
+      "publishedAt": "2026-10-07T05:03:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107698181492310062-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107698181492310062-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107698181492310062-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107698181492310062-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107698181492310062-4.webp"
+      ],
+      "note": "Thread comparing Nano Banana 2.1 and GPT 2.5 across 24 prompts."
+    },
+    {
+      "id": "editorial-character-poster",
+      "title": "Editorial Character Poster from a Photo",
+      "titleZh": "照片生成编辑风角色海报",
+      "category": "remix",
+      "author": {
+        "name": "Harboris",
+        "handle": "harboriis",
+        "url": "https://x.com/harboriis"
+      },
+      "sourceUrl": "https://x.com/harboriis/status/2110238400163074321",
+      "publishedAt": "2026-10-14T05:16:55Z",
+      "prompt": "Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a sophisticated flat geometric illustration.\n3:4 VERTICAL\nFLAT GEOMETRIC\n6-COLOUR PALETTE\n01 | FORMAT LOCK\nVertical 3:4 composition. Edge-to-edge warm off-white paper background. One standalone poster. Clean editorial layout.\n02 | CHARACTER\nOne adult character constructed from a few oversized asymmetric geometric shapes. Slightly exaggerated proportions, small head, elongated capsule-like limbs, simple mitten-style hands, and one oversized object integrated naturally into the pose and silhouette. Preserve the subject's recognizable appearance while simplifying details into graphic shapes.\n03 | STYLE\nFlat geometric illustration, asymmetric proportions, crisp color blocks, soft airbrushed shading, subtle dark-to-color spray gradients where shapes overlap, fine print grain, delicate stippling mostly inside darker areas, refined contemporary editorial poster aesthetic.\n04 | FACE & EXPRESSION\nMinimal black cut-paper facial features: simple crescent eyes and minimal mouth. The emotion should be communicated primarily through the character's full-body gesture and silhouette rather than detailed facial expression.\n05 | PALETTE\nWarm off-white #F3F1EB, near-black #10100F, hot pink #F553D2, warm red #F42726, cobalt #293EA1, emerald #13785D. Keep colors flat and graphic with controlled soft gradients only where forms overlap.\nKeep the character and oversized object as the main visual focus. Use generous negative space and a balanced editorial arrangement. The object should visibly affect the overall silhouette and feel integrated into the character's pose.\n06 | NEGATIVE PROMPT\nNo extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark. Include a small rounded picture-in-picture card in the bottom right corner displaying the original reference photo",
+      "promptSourceUrl": "https://x.com/harboriis/status/2110238400163074321",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110238400163074321-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110238400163074321-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110238400163074321-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110238400163074321-3.webp"
+      ]
+    },
+    {
+      "id": "reality-to-illustration-magazine-poster",
+      "title": "Reality-to-Illustration Magazine Poster",
+      "titleZh": "现实到插画的杂志海报",
+      "category": "remix",
+      "author": {
+        "name": "𝗦𝗮𝗻𝗶𝗮",
+        "handle": "saniaspeaks_",
+        "url": "https://x.com/saniaspeaks_"
+      },
+      "sourceUrl": "https://x.com/saniaspeaks_/status/2113118463824671218",
+      "publishedAt": "2026-10-22T04:01:16Z",
+      "prompt": "Design a sophisticated vertical magazine-style poster built around a seamless transition from reality to illustration. At the top, present the subject as a highly realistic lifestyle photograph, naturally placed within the original environment. Use soft golden sunlight, lifelike skin and hair details, subtle facial expression, natural shadows, and a shallow cinematic focus for an authentic photographic feel.\n\nDirectly beneath it, reinterpret the very same moment as a refined hand-painted artwork. Keep the character instantly recognizable by matching the original composition, body position, hairstyle, outfit, smartphone, lighting direction, and surrounding environment. Give the artwork a gentle painterly finish with visible brushwork, soft edges, organic forms, muted pastel tones, and a nostalgic illustrated-magazine atmosphere.\n\nArrange both scenes within a carefully designed editorial layout surrounded by warm cream-colored paper with subtle grain and tactile print texture. Add a few delicate botanical or seasonal accents around the artwork without overwhelming the composition.\n\nUnder the illustrated panel, create a clean typography section with a centered uppercase headline: “[MAIN TITLE]”. Use elegant, widely tracked lettering with a refined fashion-editorial feel. Beneath it, place “[TAGLINE]” in a smaller, understated typeface with generous spacing. Finish the typography area with one short horizontal pastel accent rule.\n\nKeep the entire composition calm, premium, and visually cohesive. The photographic and illustrated versions should feel like two interpretations of the exact same moment rather than separate scenes.\n\nUse a vertical 3:4 poster format, high-resolution output, balanced negative space, soft natural color grading, polished print aesthetics, and contemporary editorial art direction.\n\nDo not introduce unnecessary text, dramatic borders, oversaturated colors, visual clutter, unrealistic anatomy, mismatched facial features, or changes to the subject’s identity and clothing.",
+      "promptSourceUrl": "https://x.com/saniaspeaks_/status/2113118463824671218",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113118463824671218-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113118463824671218-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113118463824671218-2.webp"
+      ]
+    },
+    {
+      "id": "storybook-wizard-animal-characters",
+      "title": "Storybook Wizard Animal Characters",
+      "titleZh": "绘本风魔法师小动物角色",
+      "category": "illustration",
+      "author": {
+        "name": "Snow",
+        "handle": "iamrealsnow",
+        "url": "https://x.com/iamrealsnow"
+      },
+      "sourceUrl": "https://x.com/iamrealsnow/status/2113141068929826897",
+      "publishedAt": "2026-10-22T05:31:05Z",
+      "prompt": "Cat\nA cute gray cat character with green eyes, wearing a simple teal hooded cape with a small silver crescent clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.\n\nSquirrel\nA cute orange-brown squirrel character with a big bushy tail, wearing a simple navy cape with a small gold leaf-shaped clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.\n\nRabbit\nA cute cream-colored rabbit character with tall ears, wearing a simple plum cape with a small gold round clasp. Standing pose, front view, full body, soft storybook illustration style, plain light background.",
+      "promptSourceUrl": "https://x.com/iamrealsnow/status/2113141068929826897",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113141068929826897-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113141068929826897-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113141068929826897-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113141068929826897-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113141068929826897-4.webp"
+      ]
+    },
+    {
+      "id": "layered-menswear-walk",
+      "title": "Layered Menswear Walk",
+      "titleZh": "层次感男装街拍",
+      "category": "portrait",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "url": "https://x.com/pictsbyai"
+      },
+      "sourceUrl": "https://x.com/pictsbyai/status/2113183073689125330",
+      "publishedAt": "2026-10-22T08:18:00Z",
+      "prompt": "A handsome male model walks confidently forward in a sophisticated, layered menswear ensemble, captured from a straight-on, chest-level perspective. His hair is a medium-length layered cut—shorter on the sides with three to four inches on top reaching his eyebrows—styled with a wet-look pomade that enhances its natural texture, featuring slight frizz and uneven clumping. A deep, off-center right part creates a deliberately disheveled look, allowing several loose, wavy S-curl strands to fall naturally across his forehead and right brow. His facial expression is composed and posed, with a closed neutral mouth, relaxed eyebrows, and a direct gaze framed by round tortoiseshell glasses. He wears a crisp white dress shirt with a visible collar and cuffs, paired with a brown tie and a chocolate dark espresso brown long-sleeve knit polo sweater featuring a buttoned placket. His lower half consists of dark brown double-pleated high-waisted trousers held by a cognac leather brown belt with a silver buckle, ending in black leather loafers. His left hand is tucked completely into his left front trouser pocket, pulling the fabric to create a subtle tension, while his right arm rests by his side, the hand securely gripping the dual leather handles of a large cognac brown leather tote bag with knuckles moderately visible. He strides across a foreground of worn, light gray-beige smooth concrete paving stones that bear subtle stains and natural texturing, grounding the scene in an authentic outdoor urban street setting. Behind him, the midground opens up into a slightly blurred, medium-depth classic European street featuring a warm stone beige limestone building facade. This pristine yet historically weathered ashlar masonry displays matte textures, horizontal block joints, and classical pilasters with structural reveals. To the mid-height right, a vintage black wrought-iron window balcony railing catches the eye with ornate gold and brass medallion detailing, beautifully contrasting the pale stone. The atmosphere evokes an elegant, quiet urban morning wrapped in a sophisticated monochromatic brown and neutral palette, illuminated by a single, large diffused source of open-sky daylight pouring in from above and slightly front-left. This soft, moderate-intensity outdoor light casts neutral ambient fill and short, gray shadows with soft gradual edges on the pavement beneath him, as well as subtle shading under his chin and the leather bag. Radiant, preserved specular highlights gently touch his forehead, the tip of his nose, the top curves of the leather tote bag, and the polished shoe leather, creating a dynamic, high-contrast visual hierarchy that draws the eye from his well-lit face down through the dark textures of his outfit. Rendered as tack-sharp digital photography reminiscent of high-end luxury menswear lookbooks and classic sartorial street style, the image utilizes an 85mm lens at f/2.8 with a 1/500s shutter speed to freeze motion while maintaining a crisp subject against the softened architectural backdrop, finalized with subtle warm color grading and selective clarity to enhance the intricate knitwear and leather textures, all beautifully framed in a 4:5 aspect ratio.",
+      "promptSourceUrl": "https://x.com/pictsbyai/status/2113183073689125330",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113183073689125330-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113183073689125330-1.webp"
+      ]
+    },
+    {
+      "id": "monochrome-studio-portraits",
+      "title": "Monochrome Studio Portraits",
+      "titleZh": "黑白棚拍人像组",
+      "category": "portrait",
+      "author": {
+        "name": "Heisenberg",
+        "handle": "rovvmut_",
+        "url": "https://x.com/rovvmut_"
+      },
+      "sourceUrl": "https://x.com/rovvmut_/status/2112066674287575217",
+      "publishedAt": "2026-10-19T06:21:50Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112066674287575217-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112066674287575217-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112066674287575217-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112066674287575217-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112066674287575217-4.webp"
+      ]
+    },
+    {
+      "id": "suede-jacket-menswear-editorial",
+      "title": "Suede Jacket Menswear Editorial",
+      "titleZh": "麂皮夹克男装大片",
+      "category": "portrait",
+      "author": {
+        "name": "Aijaz",
+        "handle": "iamsofiaijaz",
+        "url": "https://x.com/iamsofiaijaz"
+      },
+      "sourceUrl": "https://x.com/iamsofiaijaz/status/2112387493178020109",
+      "publishedAt": "2026-10-20T03:36:39Z",
+      "prompt": "Create an ultra-realistic luxury menswear editorial photograph of a stylish, handsome young man with thick, voluminous, swept-back dark brown hair, a neatly trimmed beard and mustache, and black rectangular sunglasses. He is leaning casually against a warm, textured beige sandstone wall, adjusting his sunglasses with one hand while keeping the other hand in his trouser pocket. His expression is calm, confident, masculine, and effortlessly sophisticated.\n\nOutfit: A premium taupe-beige suede zip-up overshirt jacket with a structured collar, double-ended metal zipper, large patch chest pocket, and relaxed tailored fit. Underneath, a crisp white button-down shirt with the collar slightly open and cuffs visible. Matching light beige tailored trousers with subtle pleats. A sophisticated luxury wristwatch with a black leather strap completes the outfit.\n\nPose and composition: Three-quarter to nearly full-body portrait, subject positioned slightly left of center, body leaning naturally against the wall, one elbow bent as he adjusts his sunglasses, the other hand resting inside his pocket. Relaxed posture with a refined fashion-model presence.\n\nEnvironment: Minimalist architectural setting with a warm sand-colored textured plaster wall, subtle natural imperfections, earthy brown and beige tones, and no distracting background elements.\n\nLighting: Soft natural golden-hour sunlight entering from the upper right, creating gentle highlights on the hair, face, suede jacket, and wall. Soft shadows, warm cinematic color grading, realistic skin texture, and beautiful tonal depth.\n\nPhotography style: High-end luxury fashion campaign, quiet luxury aesthetic, old-money menswear editorial, photorealistic skin and fabric textures, 85mm portrait lens, f/2.8, shallow depth of field, sophisticated neutral color palette, natural proportions, sharp facial details, premium magazine photography, vertical 2:3 composition, 8K detail.\n\nNegative prompt: cartoon, illustration, CGI, plastic skin, excessive retouching, distorted hands, extra fingers, asymmetrical sunglasses, unnatural body proportions, blurry face, oversaturated colors, harsh flash, artificial lighting, logos, text, watermark, cluttered background.",
+      "promptSourceUrl": "https://x.com/iamsofiaijaz/status/2112387493178020109",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112387493178020109-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112387493178020109-1.webp"
+      ]
+    },
+    {
+      "id": "mirror-camera-selfie-4k",
+      "title": "Camera Selfie in 4K",
+      "titleZh": "4K 相机自拍",
+      "category": "portrait",
+      "author": {
+        "name": "Heisenberg",
+        "handle": "rovvmut_",
+        "url": "https://x.com/rovvmut_"
+      },
+      "sourceUrl": "https://x.com/rovvmut_/status/2107800295149592880",
+      "publishedAt": "2026-10-07T11:48:46Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107800295149592880-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107800295149592880-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107800295149592880-2.webp"
+      ]
+    },
+    {
+      "id": "wine-and-water-physics-test",
+      "title": "Wine and Water Physics Torture Test",
+      "titleZh": "红酒与水的物理折磨测试",
+      "category": "comparison",
+      "author": {
+        "name": "Ankan Chowdhury",
+        "handle": "AnkanXplorer",
+        "url": "https://x.com/AnkanXplorer"
+      },
+      "sourceUrl": "https://x.com/AnkanXplorer/status/2107702287275884651",
+      "publishedAt": "2026-10-07T05:19:19Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107702287275884651-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107702287275884651-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107702287275884651-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "beanie-macro-portrait",
+      "title": "Logo Beanie Macro Portrait",
+      "titleZh": "印字毛线帽微距人像",
+      "category": "portrait",
+      "author": {
+        "name": "DANJI",
+        "handle": "DanjiTosaka",
+        "url": "https://x.com/DanjiTosaka"
+      },
+      "sourceUrl": "https://x.com/DanjiTosaka/status/2107534966561083882",
+      "publishedAt": "2026-10-06T18:14:26Z",
+      "prompt": "A super close-up view of a young woman with blonde hair, wearing a black ribbed beanie featuring a prominent white \"THE DANJI FACE\" in the style of the north face logo patch. She has brown eyes, full lips, pink blush, and long false eyelashes, posed in a macro landscape portrait orientation.",
+      "promptSourceUrl": "https://x.com/DanjiTosaka/status/2107534996521017584",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107534966561083882-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107534966561083882-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107534966561083882-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107534966561083882-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107534966561083882-4.webp"
+      ]
+    },
+    {
+      "id": "winter-street-fashion-editorial",
+      "title": "Winter Street Fashion Editorial",
+      "titleZh": "冬日街头时尚大片",
+      "category": "portrait",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "url": "https://x.com/pictsbyai"
+      },
+      "sourceUrl": "https://x.com/pictsbyai/status/2113545461860888960",
+      "publishedAt": "2026-10-23T08:18:00Z",
+      "prompt": "A realistic, straight-on, eye-level medium-full street fashion editorial portrait captures a young man from the thighs up, centrally positioned and caught mid-stride with his weight shifted forward onto his left leg, his body angled fifteen degrees to the right with level, relaxed shoulders. He features medium-length wavy light brown hair styled in a center part with curtain bangs extending to his cheekbones and nape, showcasing natural textured layers with slight flyaways held back by rectangular sunglasses resting on top of his head. His expression is calm, focused, and aloof in a posed candid manner, with relaxed neutral eyebrows, lowered eyelids gazing down at his coffee cup, and a closed, neutral mouth with relaxed lips. He is dressed in a sophisticated layered winter ensemble consisting of a jet-black turtleneck underneath a dark espresso brown leather collared shirt, topped with a cropped brown suede bomber jacket and paired with wide-leg black trousers. Both of his hands are clad in cool slate-gray leather gloves and raised to chest level with natural, functional tension; his right hand wraps firmly around the middle of a black disposable coffee cup featuring a subtle, partial bold modern sans-serif white logo while his right arm pins a new, folded white newspaper displaying regular editorial serif black text and a small visible image tightly against his ribs, and his left hand hovers with fingers curled lightly near the coffee lid as if about to adjust or open it. He walks along an outdoor European city street in winter, stepping across a dark charcoal-gray stone sidewalk and asphalt street covered in irregular patches of melting white snow, slush, and tire and foot tracks. In the bottom left midground, the rear bumper of a used black sedan is partially visible, showing dark paint, a red taillight, and a partial white license plate ending in the numbers 88. Directly behind him, a clean, well-maintained classic European building facade balances the symmetric composition, featuring a matte, rough-grained off-white stucco plaster wall with cool gray undertones, uniform color variation, carved horizontal and arched faux stone block grooves, decorative keystones above the arches, and a small metal basement grate on the lower left. Within the facade, the center and left background showcase medium-sized arched stone window frames fitted with pulled-down light gray horizontal slatted metal roller shutters, while the right background is dominated by a well-maintained vintage arched double entrance door crafted from warm medium-brown stained wood with four vertical rectangular glass panels in the upper section and an arched transom window above. The chilly, curated urban morning atmosphere is illuminated by moderate, soft, diffused natural overcast daylight from a single overhead sky source, supplemented by natural ambient bounce fill reflecting off the white building and snow. This cool-toned lighting creates a flat, low-contrast ratio with short, soft-edged gray shadows tucked under his chin, beneath the jacket folds, and slightly under the architectural ledges, alongside subtle highlights catching on his cheekbones, nose bridge, leather gloves, and snow patches. The color profile relies on a desaturated, medium-contrast palette of neutral earth tones and monochromatic darks, blending the off-white stucco, jet black, dark espresso brown, warm wood brown, and cool slate gray. Captured as tack-sharp digital photography using a 35mm or 50mm lens at f/4.0, 1/250s, and ISO 200 with a natural overcast white balance and deep depth of field that keeps both the subject and the architectural background in clear focus without any grain, the clean visual style channel influences of European menswear street style, old money aesthetics, and contemporary social media fashion, finished with post-processing that applies slight background desaturation, rich contrast in the blacks and browns, and a cool winter tone curve, all framed in a 2:3 aspect ratio.",
+      "promptSourceUrl": "https://x.com/pictsbyai/status/2113545461860888960",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113545461860888960-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113545461860888960-1.webp"
+      ]
+    },
+    {
+      "id": "me-and-my-chibi-photo-art",
+      "title": "Me and My Chibi: Photo Art",
+      "titleZh": "我和我的 Q 版小人：实拍合成",
+      "category": "remix",
+      "author": {
+        "name": "July/じゅらい",
+        "handle": "July_AI_Creator",
+        "url": "https://x.com/July_AI_Creator"
+      },
+      "sourceUrl": "https://x.com/July_AI_Creator/status/2112838116532953568",
+      "publishedAt": "2026-10-21T09:27:16Z",
+      "prompt": "添付画像を厳密な人物リファレンスとして使用し、元画像の人物と、その人物をモチーフにした2次元のチビキャラが一緒に楽しく遊んでいる、実写フォトアートを1枚生成してください。\n\n【1. 実写人物の一貫性：最重要】\n添付画像の人物本人を、実写の写真として忠実に再現する。顔立ち、目、鼻、口、輪郭、肌の色、髪型、髪色、表情、衣装、アクセサリーなど、元画像の特徴を可能な限り維持する。別人に変えたり、過度に美化したり、アニメ風に変換したりしない。肌は自然な毛穴や繊細な質感を持ち、現実のカメラで撮影した人物写真のようにリアルに仕上げる。\n\n【2. 2次元チビキャラの生成】\n実写人物をモデルにした、小さくてかわいい2次元のチビキャラを登場させる。チビキャラは元画像の人物と同じ髪型、髪色、目の特徴、衣装、アクセサリーを持ち、ひと目で同じ人物がモチーフだと分かるデザインにする。頭が大きく、体が小さい、デフォルメされた2〜3頭身のキャラクター。輪郭線がきれいな、完成度の高い日本の2次元アニメイラストとして描く。チビキャラは立体的な3Dフィギュアではなく、明確に平面的な2次元イラストとして表現する。\n\n【3. 2人が一緒に遊ぶシーン】\n実写の人物と2次元のチビキャラが、自然な距離感で一緒に遊んでいる様子を描く。チビキャラが人物の手の上にちょこんと座る、人物がチビキャラに優しく触れようとする、一緒に手を振る、顔を見合わせて笑うなど、画像全体に合う自然でかわいらしい交流を表現する。遊び方やポーズは元画像の雰囲気に合わせて選ぶ。チビキャラが単に横に配置されるだけでなく、実写人物と互いに反応し合っていることが明確に伝わる構図にする。人物の存在感と顔の見えやすさを保ち、チビキャラも十分に認識できる大きさにする。\n\n【4. 実写と2次元の美しい融合】\n人物は本物の写真と見分けがつかないほどリアルに、チビキャラは鮮明で美しい2次元イラストにする。異なる表現形式を意図的に組み合わせた、洗練されたハイブリッド・フォトアート。光の方向、色調、影、空間の奥行きを自然に統一し、チビキャラが実写空間の中で生き生きと遊んでいるように見せる。チビキャラには適度な接地影や自然な落ち影を加え、人物との位置関係を明確にする。ただし、チビキャラを実写の人形や3D CGに変えない。\n\n【5. 手指・身体の破綻防止：最重要】\n人物の手、指、腕、関節を解剖学的に自然で正確に描写する。手指はそれぞれ明確に分離し、自然な長さ、太さ、関節、曲がり方を維持する。指の本数は正確に5本とし、余分な指、欠損した指、融合した指、溶けた指、折れ曲がった不自然な指を生成しない。人物とチビキャラが触れ合う場面では、接触位置と指の配置を明確にする。チビキャラの手も、デザインに合った自然で一貫性のある形にする。手を無理に複雑なポーズにせず、必要に応じて手を軽く開く、手のひらに座らせるなど、破綻しにくいポーズを優先する。腕や指を増やさず、身体のつながりを正しく保つ。\n\n【6. 高画質・滑らかな仕上がり】\n高解像度、精細、滑らかでクリアな画質。人物の肌、髪の毛、衣装の繊維、目元などのディテールを自然かつ繊細に表現する。ノイズの少ない、透明感のある高品質な写真表現。過剰なシャープネス、輪郭のギザギザ、ブロック状の圧縮ノイズ、ザラザラした粒子、ガビガビした質感、低解像度、ぼやけ、不自然なディテールの強調を避ける。肌をプラスチックのように加工せず、自然な質感を維持する。チビキャラの輪郭線も滑らかで鮮明に描く。\n\n【7. 光・色彩・芸術性】\nプロのファッションフォトグラファーが撮影したような、上質な光、自然な陰影、美しい色彩、丁寧な構図を採用する。人物の魅力を最大限に引き出しながら、チビキャラとの交流がひと目で伝わる印象的な作品にする。背景は元画像の雰囲気を尊重し、人物とチビキャラが引き立つように整える。色彩は鮮やかさと上品さを両立させ、過度なエフェクトや不必要な装飾で画面を散らかさない。\n\n【8. 最終出力の条件】\n画像は1枚のみ。人物は実写、チビキャラは2次元イラストという表現の違いを明確に維持する。人物の顔や衣装の特徴を損なわず、2人が一緒に遊んでいる楽しさ、かわいらしさ、温かさが伝わる完成度の高いフォトアートにする。\n\n禁止事項：人物全体のアニメ化、チビキャラの3Dフィギュア化、人物の別人化、顔の過度な加工、手指の破綻、指の本数の異常、余分な腕や手、身体の融合、低解像度、過剰なノイズ、ガビガビした画質、不自然な輪郭、強すぎるシャープネス、安っぽいCG表現、不要な文字や透かし。",
+      "promptSourceUrl": "https://x.com/July_AI_Creator/status/2112838121473880094",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112838116532953568-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112838116532953568-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112838116532953568-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112838116532953568-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112838116532953568-4.webp"
+      ]
+    },
+    {
+      "id": "glow-in-the-dark-ghost-costume",
+      "title": "Glow-in-the-Dark Ghost Costume",
+      "titleZh": "夜光幽灵床单装扮",
+      "category": "remix",
+      "author": {
+        "name": "朝コーヒー",
+        "handle": "asakouhinomu",
+        "url": "https://x.com/asakouhinomu"
+      },
+      "sourceUrl": "https://x.com/asakouhinomu/status/2113250541220618489",
+      "publishedAt": "2026-10-22T12:46:05Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113250541220618489-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113250541220618489-1.webp"
+      ],
+      "note": "The creator publishes this prompt on their note page, linked from the post."
+    },
+    {
+      "id": "temple-of-the-eternal-light",
+      "title": "Temple of the Eternal Light",
+      "titleZh": "永恒之光神殿",
+      "category": "scenes",
+      "author": {
+        "name": "osama orabi",
+        "handle": "os_orabi",
+        "url": "https://x.com/os_orabi"
+      },
+      "sourceUrl": "https://x.com/os_orabi/status/2107903785943335393",
+      "publishedAt": "2026-10-07T18:40:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107903785943335393-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107903785943335393-1.webp"
+      ]
+    },
+    {
+      "id": "two-section-editorial-poster",
+      "title": "Two-Section Editorial Poster Template",
+      "titleZh": "上下分屏编辑海报模板",
+      "category": "remix",
+      "author": {
+        "name": "Aqsa",
+        "handle": "Aqsahere_",
+        "url": "https://x.com/Aqsahere_"
+      },
+      "sourceUrl": "https://x.com/Aqsahere_/status/2113482539570716831",
+      "publishedAt": "2026-10-23T04:07:58Z",
+      "prompt": "Design a sophisticated vertical editorial poster with a seamless two-section composition.\n\nIn the upper section, present a highly realistic photograph of [SUBJECT] in [SETTING]. Use warm, natural daylight, authentic facial expression, detailed skin texture, subtle highlights, realistic shadows, and cinematic depth of field for a polished photographic feel.\n\nIn the lower section, recreate the exact same moment as a refined hand-painted digital artwork. Keep the character instantly recognizable by matching the original pose, facial features, hairstyle, outfit, colors, lighting direction, and important background elements, while giving the scene a soft artistic interpretation.\n\nSurround the illustrated section with a warm ivory paper layout featuring subtle paper grain and elegant editorial spacing. The artwork should have delicate painterly strokes, organic shapes, muted pastel tones, gentle contours, and a nostalgic contemporary magazine aesthetic. Add a few minimal decorative botanical or seasonal details that naturally enhance the composition.\n\nUnder the artwork, place a centered editorial heading: “[MAIN TITLE]” using thin, sophisticated uppercase lettering with generous spacing. Beneath it, add “[TAGLINE]” in a smaller elegant typeface with subtle letter spacing, followed by a short delicate pastel accent line.\n\nKeep the entire design clean, balanced, refined, and visually cohesive. Use a vertical 3:4 format, high resolution, sophisticated print aesthetics, natural color grading, and a seamless transition from photography to illustration.\n\nAvoid visual clutter, excessive typography, thick borders, harsh saturation, distorted anatomy, inconsistent facial details, awkward proportions, or unnecessary graphic decorations.",
+      "promptSourceUrl": "https://x.com/Aqsahere_/status/2113482539570716831",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113482539570716831-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113482539570716831-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113482539570716831-2.webp"
+      ]
+    },
+    {
+      "id": "brutalist-megastructure-vs-uni",
+      "title": "Brutalist Megastructure vs Uni 1.1",
+      "titleZh": "粗野主义巨构 vs Uni 1.1",
+      "category": "comparison",
+      "author": {
+        "name": "A.I.Warper",
+        "handle": "AIWarper",
+        "url": "https://x.com/AIWarper"
+      },
+      "sourceUrl": "https://x.com/AIWarper/status/2107850490851856609",
+      "publishedAt": "2026-10-07T15:08:13Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107850490851856609-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107850490851856609-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107850490851856609-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "three-by-three-editorial-grid",
+      "title": "3x3 Editorial Portrait Grid",
+      "titleZh": "3x3 编辑人像九宫格",
+      "category": "portrait",
+      "author": {
+        "name": "Aijaz",
+        "handle": "iamsofiaijaz",
+        "url": "https://x.com/iamsofiaijaz"
+      },
+      "sourceUrl": "https://x.com/iamsofiaijaz/status/2107778017401647325",
+      "publishedAt": "2026-10-07T10:20:14Z",
+      "prompt": "3x3 photo grid showing various poses of the same man in a dramatic editorial portrait series. Confident man with dark wavy hair, thick beard, round black-tinted sunglasses, and a dark navy bomber jacket over a black shirt. Poses include: adjusting sunglasses, hand on chin thinking, arms crossed looking away, hand running through hair, head tilted down looking over sunglasses, and leaning against a dark wall. Intense red and orange studio backdrop with moody crimson shadows and strong rim lighting. Cinematic 85mm photography, high contrast, rich blacks, 1970s luxury fashion aesthetic.\n> \nOption 2: Single Focus Pose Variation (Adjusting Sunglasses)\n> Cinematic editorial portrait of a confident man with dark wavy hair and a full beard, wearing round vintage sunglasses and a navy bomber jacket. He is subtly lowering his sunglasses with one hand, looking directly into the camera with an intense, stoic expression. Close-up composition, dramatic red and orange background glow, strong rim light highlighting his hair and jacket collar. Deep shadows, rich color grading, shallow depth of field, 85mm lens, f/1.8, moody luxury fashion shoot.\n> \nOption 3: Profile / Looking Away Pose\n> Side-profile cinematic editorial portrait of a man with dark wavy hair, a thick beard, round black-tinted sunglasses, and a navy bomber jacket. He is looking off to the side with his hand thoughtfully on his chin. Deep crimson and orange atmospheric lighting behind him, creating a strong glowing contour along his profile and beard. High contrast, moody studio portrait, crisp focus, subtle film grain.",
+      "promptSourceUrl": "https://x.com/iamsofiaijaz/status/2107778117679083665",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107778017401647325-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107778017401647325-1.webp"
+      ]
+    },
+    {
+      "id": "minimalist-luxury-sunglasses-campaign",
+      "title": "Minimalist Luxury Sunglasses Campaign",
+      "titleZh": "极简奢华墨镜广告",
+      "category": "portrait",
+      "author": {
+        "name": "Weinberg",
+        "handle": "weiinberg",
+        "url": "https://x.com/weiinberg"
+      },
+      "sourceUrl": "https://x.com/weiinberg/status/2112776041064476736",
+      "publishedAt": "2026-10-21T05:20:36Z",
+      "prompt": "MINIMALIST MODERN LUXURY CAMPAIGN, FEMALE  MODEL as in <<<image_1>>> IN PROFILE, LOOKING BEHIND CAMERA, WEARING PREMIUM SUNGLASSES, FAST MOTION BLUR HAIR MOVEMENT, COOL GRADIENT BACKDROP, AIRY NEGATIVE SPACE, CALM CINEMATIC LIGHTING, MATTE TEXTURES, UNDERSTATED LUXURY FASHION AESTHETIC, HIGH-END EDITORIAL PHOTOGRAPHY, SHALLOW DEPTH OF FIELD",
+      "promptSourceUrl": "https://x.com/weiinberg/status/2112776041064476736",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112776041064476736-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112776041064476736-1.webp"
+      ]
+    },
+    {
+      "id": "black-and-white-chair-portrait",
+      "title": "Black-and-White Chair Portrait",
+      "titleZh": "黑白座椅男装人像",
+      "category": "portrait",
+      "author": {
+        "name": "Harboris",
+        "handle": "harboriis",
+        "url": "https://x.com/harboriis"
+      },
+      "sourceUrl": "https://x.com/harboriis/status/2112907381470539803",
+      "publishedAt": "2026-10-21T14:02:30Z",
+      "prompt": "Create an ultra-realistic black-and-white editorial fashion portrait of a young man sitting confidently in a chair, photographed from a slightly low angle. He has thick, naturally curly, voluminous dark hair falling loosely over his forehead, a defined masculine face, a clean-shaven appearance, and a calm, serious expression with direct eye contact.\n\nPose and Expression: The subject sits in a relaxed, slightly reclined position with his legs apart. His right hand is raised toward his face, with his index finger resting vertically near the bridge of his nose and forehead, while his other fingers curve naturally in front of his mouth. His left hand rests casually on his upper thigh. His shoulders are relaxed, creating a thoughtful, mysterious, confident mood.\n\nOutfit: He wears an oversized dark charcoal plaid blazer with subtle textured check patterns, broad structured shoulders, and classic notched lapels. Underneath is a fitted black high-neck turtleneck sweater. He wears light-wash, relaxed-fit denim jeans with visible seams and a black leather belt with a metallic buckle. The blazer sleeves feature small decorative buttons.\n\nComposition and Camera: Vertical 3:4 portrait format, framed from slightly above the knees to the top of the head. The subject is centered and occupies most of the frame. Use a slightly low camera angle to emphasize the face, hands, shoulders, and oversized blazer. The foreground jeans appear prominent due to perspective. Include the visible armrests of a dark chair at the lower edges of the frame.\n\nLighting and Background: Dramatic natural side lighting from the upper left creates strong highlights on the curly hair, forehead, fingers, and textured clothing, with deep shadows across the opposite side of the face and blazer. The background is a plain, light-colored plaster wall with subtle irregular brush textures and imperfections. Use high-contrast monochrome photography with rich blacks, luminous grays, detailed skin texture, realistic fabric grain, and soft natural tonal transitions.\n\nPhotography Style: Luxury menswear editorial, cinematic black-and-white photography, minimalist studio portrait, moody fine-art aesthetic, realistic anatomy, natural skin pores, crisp hair details, authentic hand proportions, subtle film grain, deep tonal range, professional DSLR quality, 85mm portrait lens aesthetic, sharp facial focus, soft background detail, photorealistic, high resolution.\n\nImportant: Maintain a natural, unretouched appearance. Avoid exaggerated facial features, artificial skin smoothing, excessive sharpening, distorted fingers, extra fingers, warped hands, colorful elements, text, logos, watermarks, or unnecessary background objects.",
+      "promptSourceUrl": "https://x.com/harboriis/status/2112907381470539803",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112907381470539803-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112907381470539803-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112907381470539803-2.webp"
+      ]
+    },
+    {
+      "id": "idol-group-stage-shot",
+      "title": "Idol Group Stage Shot vs ChatGPT",
+      "titleZh": "偶像团体舞台照 vs ChatGPT",
+      "category": "comparison",
+      "author": {
+        "name": "Sakata",
+        "handle": "sakatayasha",
+        "url": "https://x.com/sakatayasha"
+      },
+      "sourceUrl": "https://x.com/sakatayasha/status/2107709644890337712",
+      "publishedAt": "2026-10-07T05:48:33Z",
+      "prompt": "[Subject & Pose] A wide-angle action shot of an elite five-member professional idol group captured mid-performance during an intense, perfectly synchronized dance choreography routine. The members have dynamic, fierce facial expressions with subtle beads of sweat reflecting light.\n[Wardrobe & Texture] Matching high-fashion techwear performance outfits in matte black, silver chrome accents, and sheer mesh textures. Intricate garment details including functional zippers, tactical straps, and micro-textures on the fabric that show realism under harsh light.\n[Setting & Stage] A massive, high-production futuristic concert arena stage. The floor is a polished, reflective black stage that mirrors the performers and lights. The background features giant, towering LED screens displaying abstract flowing neon geometry.\n[Lighting & FX] High-contrast dramatic concert lighting. Sharp, volumetric laser beams in electric blue and crimson red cut through atmospheric stage haze and smoke. Powerful overhead white spotlights illuminate the performers, casting distinct shadows on the ground.\n[Camera & Lens] Shot on a professional high-speed cinema camera with a 24mm wide-angle anamorphic lens to capture the full group composition. Fast shutter speed (1/1000s) to freeze the sharp motion without blur. Ultra-realistic skin textures, sharp focus on all performers, subtle lens flare from the stage lights, and commercial concert photography quality",
+      "promptSourceUrl": "https://x.com/sakatayasha/status/2107709978526314659",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107709644890337712-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107709644890337712-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107709644890337712-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "seed-bead-relief-landscape",
+      "title": "Seed-Bead Relief Landscape",
+      "titleZh": "串珠浮雕风景",
+      "category": "illustration",
+      "author": {
+        "name": "Viki",
+        "handle": "churvikv",
+        "url": "https://x.com/churvikv"
+      },
+      "sourceUrl": "https://x.com/churvikv/status/2113559219874017464",
+      "publishedAt": "2026-10-23T09:12:40Z",
+      "prompt": "Sculpted seed-bead and glitter relief artwork, wide 16:9 panoramic composition, every surface built from millions of tiny raised beads, granules and foam-clay florets, matte and tactile. Edge to edge, no frame, no border.\n\nRIVER: a twisting blue river winds from the bottom edge up through the middle to a misty lake at the centre, its surface a mosaic of pale blue and turquoise bead-water dotted with scattered flat white pebble beads.\n\nBANKS: the river is bordered by rolling sculpted banks and terraces, each a separate raised mass of tiny beads, shading through dusted rose, mauve, pale lilac, sage green, olive, ochre and warm tan, forming layered hills that step back into the distance.\n\nLEFT TREES: tall slender trees with dark charcoal-bead trunks rise from the left bank, their canopies built from dense clusters of golden-yellow, apricot and orange beads, one large canopy swelling across the upper left corner.\n\nRIGHT TREES: taller white trees dominate the right, their trunks the same dark bead-work, their crowns a dense cloud of pearl-white and cream beads, branches spreading across the upper right and reaching to the top edge.\n\nDISTANCE: a wall of autumn forest in red, rust, orange and gold beads lines both sides of a pale misty clearing, dissolving into soft grey fog at its base.\n\nCATHEDRAL: at the exact centre stands a white baroque cathedral with a tall ribbed central dome, a smaller dome on each flank, thin bell towers with cupolas, arched windows and gold bead finials on every spire, its silhouette soft-edged and glowing through the fog.\n\nSKY: a pale silver-grey bead sky, slightly iridescent with faint lilac and peach blush low on the horizon behind the cathedral. Two small pale bead moons hang in the upper centre, one brighter, one faint.\n\nPALETTE: pearl white, dusty rose, mauve, sage, ochre, apricot gold, rust orange, turquoise blue, charcoal. Beaded texture throughout, serene, dreamlike, clean and unlettered.",
+      "promptSourceUrl": "https://x.com/churvikv/status/2113559219874017464",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113559219874017464-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113559219874017464-1.webp"
+      ]
+    },
+    {
+      "id": "sea-turtle-floating-film-studio",
+      "title": "Sea Turtle Carrying a Floating Film Studio",
+      "titleZh": "驮着浮岛片场的海龟",
+      "category": "illustration",
+      "author": {
+        "name": "Wilzap",
+        "handle": "wilzap",
+        "url": "https://x.com/wilzap"
+      },
+      "sourceUrl": "https://x.com/wilzap/status/2112169111291908222",
+      "publishedAt": "2026-10-19T13:08:52Z",
+      "prompt": "A stylized 3D cartoon fantasy scene of a giant ancient sea turtle swimming through a starry night sky, carrying an entire floating island on its shell. The island is a magical film studio: tiny glowing mushroom houses, a waterfall made of flowing film strips, and a crooked wizard tower with a giant projector lens for an eye. At the base of the waterfall, the film strips look rough, blocky, and pixelated, like broken stained glass. As they spill over a glowing crystal ledge, a swarm of tiny lantern fairies hammers and polishes them, and they transform mid-fall into crisp, shimmering, ultra-detailed film that glows like liquid gold. At the very top, the wizard tower beams the finished movie across the sky like an aurora, showing a vivid dragon soaring through clouds. Chunky rounded shapes, soft clay-like 3D textures, exaggerated cartoon proportions, glowing bioluminescent accents, deep indigo sky with magenta and electric teal highlights, cinematic rim lighting, volumetric light rays, tilt-shift depth of field, ultra detailed, 16:9.",
+      "promptSourceUrl": "https://x.com/wilzap/status/2112169114043068422",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112169111291908222-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112169111291908222-1.webp"
+      ]
+    },
+    {
+      "id": "painterly-anime-style-reference",
+      "title": "Painterly Anime Style Reference vs GPT 2.5",
+      "titleZh": "油画感动漫风格参考 vs GPT 2.5",
+      "category": "comparison",
+      "author": {
+        "name": "Blunt James",
+        "handle": "0xjaimes_",
+        "url": "https://x.com/0xjaimes_"
+      },
+      "sourceUrl": "https://x.com/0xjaimes_/status/2109529856731935196",
+      "publishedAt": "2026-10-12T06:21:25Z",
+      "prompt": "ART STYLE REFERENCE: <<<image_1>>> image1\nUse image1 as the visual art-style reference. Preserve its painterly anime aesthetic, expressive brushwork, textured paint surfaces, soft luminous lighting, delicate rendering, airy atmosphere, and restrained pastel colours. Do not drift into photorealism or 3D/CGI.\nCHARACTER DESIGN — SUMMER IN A DREAM\nCreate a beautiful, original young adult woman with a height of approximately 170 cm and a slender, graceful build. Her presence feels gentle, free-spirited, and quietly enchanting, like someone from a beautiful summer memory.\nFace and Features\n- Delicate, softly sculpted facial features.\n- Expressive, clear pale-blue eyes.\n- Fair skin with subtle warmth and a natural rosy blush.\n- Small, natural-looking nose and softly defined lips.\n- Minimal makeup; preserve her natural beauty.\n- A peaceful, dreamy expression with a subtle hint of happiness.\nHair — Signature Feature\nExceptionally long, flowing hair in an almost-white colour, resembling pale platinum silver with a delicate pearl sheen. The hair should appear luminous under sunlight, with subtle cool-blue and silver reflections. Fine individual strands blend into soft, expressive painterly shapes. Her hair falls well past her waist and moves gracefully in the breeze.\nHer hair colour must remain consistent across every scene. It should never become blonde, grey, or pure featureless white.\nOutfit — Locked Design\nShe wears a light blue flowing summer dress made from lightweight, airy fabric. The dress has a simple, elegant silhouette, a softly fitted upper section, and a flowing skirt that moves naturally in the wind.\nThe colour is a delicate sky blue, with subtle variations caused by sunlight and shadows. The fabric feels light, soft, and almost weightless.\nNo armour, no elaborate accessories, no dramatic jewellery, and no outfit changes.\nCHARACTER SHEET LAYOUT\nCreate a clean, professional character reference sheet against a simple, pale, warm-neutral background.\nLEFT SECTION — FACE REFERENCE:\nOne large, clear, straight-on portrait of her face. Show her pale-blue eyes, delicate features, and distinctive almost-white hair in beautiful painterly detail.\nCENTRE SECTION — FULL-BODY REFERENCE:\nA complete, front-facing standing view showing her entire silhouette, the length of her hair, the full design of her light blue dress, and her proportions. Her height is approximately 170 cm. Her posture is relaxed and natural.\nRIGHT SECTION — EXPRESSION REFERENCES:\nThree smaller, clearly front-facing facial expressions of the SAME character:\n1. Peaceful, neutral expression.\n2. Eyes gently closed, enjoying a warm summer breeze.\n3. A subtle, genuine smile.\nAll expressions must preserve the exact same facial structure, eye colour, hairstyle, and hair colour.\nARTISTIC DIRECTION\nUse the painterly anime aesthetic of <<<image_1>>> : loose but sophisticated digital painting, visible directional brushstrokes, textured paint surfaces, softly rendered skin, flowing hair, expressive shapes, delicate details, diffused sunlight, gentle shadows, subtle reflected colour, and an airy pastel atmosphere.\nThe finished image should feel like a beautifully illustrated animation-production reference sheet rather than a photorealistic fashion illustration.\nSTRICT CONSISTENCY RULES\n- One character, shown from different views and expressions.\n- Preserve facial identity and proportions.\n- Preserve the almost-white, pearl-silver hair.\n- Preserve the light blue flowing dress.\n- Maintain the same painterly rendering throughout.\n- No duplicate characters, unnecessary accessories, text, watermarks, or decorative clutter.\n- No 3D rendering, photorealism, or changes to the character design.",
+      "promptSourceUrl": "https://x.com/0xjaimes_/status/2109529864910860724",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109529856731935196-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109529856731935196-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109529856731935196-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "steampunk-factory-sketch",
+      "title": "Steampunk Factory Sketch vs GPT 2.5 Sunburst",
+      "titleZh": "蒸汽朋克工厂素描 vs GPT 2.5 Sunburst",
+      "category": "comparison",
+      "author": {
+        "name": "miroburn",
+        "handle": "miroburn",
+        "url": "https://x.com/miroburn"
+      },
+      "sourceUrl": "https://x.com/miroburn/status/2107518516643373283",
+      "publishedAt": "2026-10-06T17:09:04Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107518516643373283-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107518516643373283-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107518516643373283-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "anime-character-consistency",
+      "title": "Anime Character Consistency vs GPT Image 2.5",
+      "titleZh": "动漫角色一致性 vs GPT Image 2.5",
+      "category": "comparison",
+      "author": {
+        "name": "ブンサダカ",
+        "handle": "bunsadak",
+        "url": "https://x.com/bunsadak"
+      },
+      "sourceUrl": "https://x.com/bunsadak/status/2112750547958985085",
+      "publishedAt": "2026-10-21T03:39:18Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112750547958985085-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112750547958985085-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112750547958985085-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112750547958985085-3.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "engraved-banana-nb2-vs-nb21",
+      "title": "Engraved Banana: Nano Banana 2 vs 2.1",
+      "titleZh": "刻字香蕉：Nano Banana 2 vs 2.1",
+      "category": "comparison",
+      "author": {
+        "name": "Pranav Reddy",
+        "handle": "AI_Screening",
+        "url": "https://x.com/AI_Screening"
+      },
+      "sourceUrl": "https://x.com/AI_Screening/status/2107493789724233839",
+      "publishedAt": "2026-10-06T15:30:49Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107493789724233839-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107493789724233839-1.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "ethereal-city-cyclist",
+      "title": "Ethereal City Cyclist vs ChatGPT Image 2.5",
+      "titleZh": "梦幻城市骑行少女 vs ChatGPT Image 2.5",
+      "category": "comparison",
+      "author": {
+        "name": "Karata",
+        "handle": "karatademada",
+        "url": "https://x.com/karatademada"
+      },
+      "sourceUrl": "https://x.com/karatademada/status/2107897048041414870",
+      "publishedAt": "2026-10-07T18:13:13Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107897048041414870-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107897048041414870-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107897048041414870-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "squid-game-playground",
+      "title": "Squid Game-Style Playground vs GPT Image 2",
+      "titleZh": "鱿鱼游戏风游乐场 vs GPT Image 2",
+      "category": "comparison",
+      "author": {
+        "name": "Jo Aiba",
+        "handle": "aibabbler",
+        "url": "https://x.com/aibabbler"
+      },
+      "sourceUrl": "https://x.com/aibabbler/status/2110313414023172520",
+      "publishedAt": "2026-10-14T10:15:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110313414023172520-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110313414023172520-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2110313414023172520-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "autumn-palm-dollhouse-for-your-character",
+      "title": "Autumn Palm-Sized Dollhouse for Your Character",
+      "titleZh": "给你的角色做秋日掌上小屋",
+      "category": "remix",
+      "author": {
+        "name": "チヒロ｜きぐるみっこ🎨",
+        "handle": "OoChihiroOO",
+        "url": "https://x.com/OoChihiroOO"
+      },
+      "sourceUrl": "https://x.com/OoChihiroOO/status/2113056534397956149",
+      "publishedAt": "2026-10-21T23:55:11Z",
+      "prompt": "添付キャラクターをテーマにした、秋を感じる手のひらサイズのミニチュアドールハウス。超精密でフォトリアルな3Dレンダリング。\n\nキャラクターの顔・体型・衣装・配色を忠実に再現し、小さな立体マスコットフィギュアとして室内に配置する。\n\n家の外観や内装、家具はキャラクターの特徴に合わせてデザイン。正面が開いたドールハウスには、木製家具、紅葉、どんぐり、かぼちゃ、温かなランタン、秋らしい小物が並ぶ。\n\nリアルな女性の手のひらに、ドールハウス全体がちょこんと乗っている構図。室内と外観の両方が見える斜め前からのアングル。\n\n精巧な手作りミニチュアの質感、温かな秋の日差し、柔らかな背景ボケ、映画のようなライティング、マクロ商品撮影、8K UHD。\n\n文字なし。キャラクターの改変なし。1:1スクエア。",
+      "promptSourceUrl": "https://x.com/OoChihiroOO/status/2113056540009857113",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113056534397956149-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113056534397956149-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113056534397956149-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113056534397956149-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113056534397956149-4.webp"
+      ]
+    },
+    {
+      "id": "camera-motions-cheat-sheet",
+      "title": "Camera Motions Cheat Sheet for AI Video",
+      "titleZh": "AI 视频运镜速查图",
+      "category": "poster",
+      "author": {
+        "name": "Wilzap",
+        "handle": "wilzap",
+        "url": "https://x.com/wilzap"
+      },
+      "sourceUrl": "https://x.com/wilzap/status/2111472301719871892",
+      "publishedAt": "2026-10-17T15:00:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111472301719871892-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111472301719871892-1.webp"
+      ]
+    },
+    {
+      "id": "artistic-styles-prompt-studio",
+      "title": "Artistic Styles: Origami, Moth Queen, Fox Spirit, Snail Siege",
+      "titleZh": "艺术风格合集：折纸鲸、蛾后、狐灵、蜗牛攻城",
+      "category": "illustration",
+      "author": {
+        "name": "Alexandra Aisling",
+        "handle": "AllaAisling",
+        "url": "https://x.com/AllaAisling"
+      },
+      "sourceUrl": "https://x.com/AllaAisling/status/2111913708330860583",
+      "publishedAt": "2026-10-18T20:14:00Z",
+      "prompt": "1. layered cut paper diorama, a colossal whale made of intricately folded origami paper swimming through a sky above a paper cut village of rooftops and windmills, dozens of paper layers creating depth, soft cast shadows between layers, tiny paper villagers flying paper kites in the foreground for scale, paper clouds with deckled edges, warm backlight glowing through thin paper, cream, dusty blue, terracotta and sage green palette, handcrafted, delicate, dreamy, massive scale\n\n2. Art Nouveau poster illustration, a colossal moth empress with vast ornate wings spread over a gaslit belle epoque city at night, wings patterned with eyes, spirals and gold filigree, flowing sinuous linework, decorative floral border with whiplash curves, tiny elegant crowds on a stone bridge holding lanterns in the foreground, glowing moon halo behind her, flat color with gold metallic accents, plum, sage, ivory, antique gold and midnight teal palette, elegant, mystical, monumental scale\n\n3. 1990s hand drawn anime cel animation still, a colossal white nine tailed fox spirit lying curled across green mountain ridges above a valley of rice terraces, its tails flowing like rivers of silk and cloud, glowing red markings on its face, towering cumulus clouds, a tiny girl in a straw hat with a bicycle on a country road in the foreground for scale, lush hand painted watercolor background, clean cel shading, summer afternoon light, emerald, sky blue, white and vermilion palette, nostalgic, magical, massive scale\n\n4. medieval illuminated manuscript page, a colossal snail with an entire stone castle built on its shell crawling toward a tiny walled town, knights in chainmail with lances and shields charging it bravely in the foreground, flat medieval perspective, burnished gold leaf background, decorated initial letter and vine border with tiny strange creatures in the margins, aged vellum texture, cracked paint, lapis blue, vermilion, forest green, gold and parchment palette, whimsical, absurd, epic scale",
+      "promptSourceUrl": "https://x.com/AllaAisling/status/2111913708330860583",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111913708330860583-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111913708330860583-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111913708330860583-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111913708330860583-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111913708330860583-4.webp"
+      ],
+      "note": "The creator published one prompt per image in the image alt text; they are listed in image order."
+    },
+    {
+      "id": "scientist-geometric-wordmarks",
+      "title": "Experimental Wordmarks for Four Scientists",
+      "titleZh": "四位科学家的实验字标",
+      "category": "poster",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2113000873714442552",
+      "publishedAt": "2026-10-21T20:14:00Z",
+      "prompt": "2x2 grid, 16:9, do this for 4 famous scientists: CONCEPT ANCHOR 1:\n\"Experimental geometric wordmark — custom-built uppercase\nletterforms, monoline geometry, alternating thick and thin\nstrokes, deliberately interrupted character segments,\nmechanically precise shapes, optical alignment,\narchitectural negative space.\"\n\n::\n\nCONCEPT ANCHOR 2:\n\"Semantic symbol typography — recognizable visual symbols\nintegrated directly into the anatomy of letters, including\nmodified counters, transformed stems, symbolic crossbars,\nillustrative terminals, and conceptual ligatures.\"\n\n::\n\nCONCEPT ANCHOR 3:\n\"Vintage scientific and engineering lettering — parallel\ntechnical lines, concentric rings, rotational diagrams,\nrhythmic stroke repetition, exploded mechanical shapes,\ntechnical-drawing precision, scientific schematic clarity.\"\n\n::\n\nCONCEPT ANCHOR 4:\n\"Swiss modernist minimalist identity — immaculate white\nbackground, pure black graphic elements, striking negative\nspace, precisely controlled typography, asymmetrical visual\nbalance, intellectually playful reduction.\"\n\nINSTRUCTION:\n\nFind the precise visual intersection of these four concepts.\n\nIgnore the literal technological terminology\nand subject matter in the references.\n\nExtract only their visual design DNA.\n\nCreate an extraordinary experimental typographic\nwordmark for $ SUBJECT.\n\nThe letters must become an intelligent visual\nexpression of the subject's defining meaning.\n\nThis is not ordinary text decorated with icons.\n\nThe word itself must transform into a symbolic\npiece of visual engineering.\n\nSUBJECT ANALYSIS:\n\nFirst determine:\n\n1. The most recognizable word or short phrase\n   representing $ SUBJECT.\n\n2. Its strongest defining visual characteristic.\n\n3. Its dominant conceptual properties.\n\n4. Three to five relevant visual symbols.\n\n5. The geometric behaviors that best communicate\n   the subject.\n\n6. Which letters offer the most promising\n   opportunities for transformation.\n\nSEMANTIC TRANSFORMATION:\n\nIf the subject represents:\n\nMOTION:\nUse directional strokes, displacement, repeated\ncontours, kinetic breaks, and rhythmic geometry.\n\nNATURE:\nTranslate growth, branching, organic repetition,\nand environmental forms into letter anatomy.\n\nSCIENCE:\nUse scientific geometry, orbital paths, schematic\nforms, diagrams, and precision linework.\n\nMUSIC:\nIncorporate visual rhythm, wave structures,\noscillations, and musical relationships.\n\nARCHITECTURE:\nTransform stems and counters into arches,\nstructural supports, beams, and architectural voids.\n\nTECHNOLOGY:\nUse mechanical precision, circuitry, modular\nsystems, communication patterns, or interface geometry.\n\nEMOTION:\nUse spatial tension, expansion, compression,\ncontrast, distortion, or expressive continuity.\n\nHISTORY:\nUse carefully selected era-specific geometric\nor typographic influences.\n\nABSTRACT CONCEPTS:\nInvent a meaningful visual metaphor and\ntranslate it into letter construction.\n\nOTHER SUBJECTS:\nInfer a unique transformation appropriate\nto the subject's actual meaning.\n\nLETTERFORM CONSTRUCTION:\n\nStart with a custom geometric uppercase wordmark.\n\nTransform selected characters through:\n\n- parallel stroke multiplication\n- interrupted or fragmented stems\n- negative-space symbols\n- custom ligatures\n- extended horizontal bars\n- geometric letter substitutions\n- contour-line repetition\n- directional stroke bending\n- optical illusion effects\n- embedded subject-specific pictograms\n- carefully controlled line thickness\n- mathematical relationships between shapes\n\nPreserve character recognition.\n\nAt least two characters should exhibit\nmeaningful custom transformations.\n\nEvery transformation must serve the\nconcept rather than exist as decoration.\n\nCOMPOSITION:\n\nPresent ONE unified wordmark centered within\na generous white canvas.\n\nUse a horizontal composition for longer names.\n\nUse a compact stacked lockup when the text\nnaturally benefits from multiple lines.\n\nAllow selected characters to extend beyond\nthe standard letter height when necessary.\n\nMaintain carefully balanced optical spacing.\n\nLet negative space contribute as much\nas the black geometry.\n\nVISUAL STYLE:\n\n- pure black lettering\n- clean white background\n- high-contrast vector-like precision\n- crisp geometric contours\n- controlled thin parallel lines\n- variable stroke density\n- subject-driven symbolic elements\n- elegant modular structure\n- visually clever typographic surprises\n\nSTRICT RULES:\n\nNo unnecessary illustrations.\nNo photographic objects.\nNo gradients.\nNo 3D extrusion.\nNo decorative backgrounds.\nNo mockups.\nNo unrelated symbols.\nNo default electrical motifs.\n\nDo not sacrifice readability for cleverness.\n\nOUTPUT:\n\nA visually ingenious minimalist typographic\nidentity for $ SUBJECT where the wordmark itself\nbecomes a symbolic machine, diagram, sculpture,\nor optical expression of the subject.\n\nElegant from far away.\nSurprisingly intelligent up close.\nImmediately recognizable.\nDistinctly original.",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2113000873714442552",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113000873714442552-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113000873714442552-1.webp"
+      ]
+    },
+    {
+      "id": "tiger-in-the-jungle-stream",
+      "title": "Tiger in a Jungle Stream vs GPT Image 2.5",
+      "titleZh": "丛林溪流里的白虎 vs GPT Image 2.5",
+      "category": "comparison",
+      "author": {
+        "name": "Ivana",
+        "handle": "ivanainai",
+        "url": "https://x.com/ivanainai"
+      },
+      "sourceUrl": "https://x.com/ivanainai/status/2107903705144000810",
+      "publishedAt": "2026-10-07T18:39:40Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107903705144000810-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107903705144000810-1.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "frenzied-motion-hotel-suite",
+      "title": "Frenzied Motion in a Luxury Suite",
+      "titleZh": "豪华套房里的狂乱旋转",
+      "category": "portrait",
+      "author": {
+        "name": "BMX",
+        "handle": "bmx_ai13",
+        "url": "https://x.com/bmx_ai13"
+      },
+      "sourceUrl": "https://x.com/bmx_ai13/status/2108420943857029552",
+      "publishedAt": "2026-10-09T04:55:00Z",
+      "prompt": "Cinematic film still, a Korean woman in a luxury hotel suite, head tilted back, mouth open wide in a tense scream or ecstatic expression, dark hair flying. She is spinning violently, creating a heavy motion blur effect throughout the frame. Shot from a low angle with a Dutch tilt, left-heavy composition. Shot on ARRI Alexa Mini with Zeiss Master Anamorphic lenses, wide angle, 2.39:1 aspect ratio, 2.8K ARRIRAW. Warm saturated color palette, dominating orange and yellow tones. Nighttime interior, artificial soft lighting. Glowing, elongated streaks of light trail across the ceiling and frame due to the spinning motion. Crime thriller and action genre aesthetic, gritty, photorealistic, high detail, cinematic lighting, 8k resolution",
+      "promptSourceUrl": "https://x.com/bmx_ai13/status/2108420943857029552",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108420943857029552-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108420943857029552-1.webp"
+      ]
+    },
+    {
+      "id": "sleeping-cat-window-scene",
+      "title": "Sleeping Cat by the Window",
+      "titleZh": "窗边熟睡的猫",
+      "category": "comparison",
+      "author": {
+        "name": "Priya",
+        "handle": "glitch_catAI",
+        "url": "https://x.com/glitch_catAI"
+      },
+      "sourceUrl": "https://x.com/glitch_catAI/status/2107740006655967575",
+      "publishedAt": "2026-10-07T07:49:12Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107740006655967575-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107740006655967575-1.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "secret-shadow-instant-photo",
+      "title": "\"Secret Shadow\" Instant Photo",
+      "titleZh": "「秘密影子」拍立得",
+      "category": "remix",
+      "author": {
+        "name": "Raza",
+        "handle": "AIWithRaza",
+        "url": "https://x.com/AIWithRaza"
+      },
+      "sourceUrl": "https://x.com/AIWithRaza/status/2107548617687130522",
+      "publishedAt": "2026-10-06T19:08:41Z",
+      "prompt": "Create one \"Secret Shadow\" image per upload. Never combine photos.\n\nFormat: Vertical 16:9, presented as a single instant-film photo with a slightly thicker ivory bottom border.\n\nPhoto: Keep the uploaded photo faithful. Preserve the subject, pose, faces, colors and setting. Do not redesign, restyle or replace anything. Only adjust light and shading as much as the shadow requires.\n\nLight: Add one low, warm, late-afternoon light source from the side, consistent with the scene, so the main subject casts a long, crisp shadow across the nearest wall, floor or ground.\n\nShadow Logic: Ask what this subject secretly wishes it were doing right now, based on what the photo shows. The shadow does exactly that. For example, a person at a laptop might cast the shadow of someone asleep in a hammock, a dog waiting by the door might cast the shadow of a dog driving a car, and a coffee cup might cast the shadow of a smoking volcano. Choose one clear, specific, surprising wish for each upload. Never fall back on the same idea.\n\nShadow Rules: The shadow must begin exactly where the subject touches the surface and match its outline at the base, then transform as it stretches away. It must behave like a real shadow: dark, soft-edged, flat on the surface it falls on, bending over steps and corners, with no color or inner detail. Only the main subject gets a secret shadow; everything else casts normal shadows.\n\nCaption: Handwrite one short, dry, witty English caption in black ink on the bottom border, based on the shadow's wish. Under six words, understated, never inspirational.\n\nStyle: Real photography, warm golden light, subtle film grain, quiet and cinematic. It should feel like the shadow was always there and nobody noticed.\n\nNegative: No extra subjects or props, no colored or detailed shadows, no glow or magic effects, no change to faces or identity, no text except the caption, no watermark, no logo, no UI.",
+      "promptSourceUrl": "https://x.com/AIWithRaza/status/2107548877629088059",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107548617687130522-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107548617687130522-1.webp"
+      ]
+    },
+    {
+      "id": "one-year-later-same-prompt",
+      "title": "One Year Later: Nano Banana vs 2.1, Same Prompt",
+      "titleZh": "一年之隔：Nano Banana vs 2.1 同提示词",
+      "category": "comparison",
+      "author": {
+        "name": "Lex ღ Hart",
+        "handle": "Alaryn_Heart",
+        "url": "https://x.com/Alaryn_Heart"
+      },
+      "sourceUrl": "https://x.com/Alaryn_Heart/status/2108549038006030640",
+      "publishedAt": "2026-10-09T13:24:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108549038006030640-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108549038006030640-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108549038006030640-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "manga-word-dioramas",
+      "title": "Manga Title Word Dioramas",
+      "titleZh": "漫画名字母立体微缩景观",
+      "category": "poster",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2108464481034817845",
+      "publishedAt": "2026-10-09T07:48:00Z",
+      "prompt": "2x2 grid, 16:9, do this for 4 famous manga: Isometric 3D diorama where the word \"[$WORD]\" IS the landscape: each giant 3D letter is transformed into a miniature building, habitat, or scene built from the world of [$SUBJECT] (the model infers per-letter details). Tiny inhabitants and props from the subject live on and inside the letters. Reads as a word from afar, as a bustling micro-city up close. A motto on a plinth beneath. Tilt-shift, soft light, seamless white background, ultra-detailed, legible text",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2108464481034817845",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108464481034817845-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108464481034817845-1.webp"
+      ]
+    },
+    {
+      "id": "absurd-physics-infographic",
+      "title": "Absurd World of Physics Infographic",
+      "titleZh": "荒诞物理学信息图",
+      "category": "poster",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2112129130799968578",
+      "publishedAt": "2026-10-19T10:30:00Z",
+      "prompt": "2x2 grid, 16:9, do this for physics: INPUT: $ SUBJECT\n\nA = {\n  bold educational infographic,\n  segmented comic layout,\n  hand-lettered headers,\n  bright color zones,\n  doodles, arrows, icons,\n  speech bubbles,\n  explainer-chart readability\n}\n\nB = {\n  minimalist editorial cartoon,\n  simple black-and-white line art,\n  symbolic characters and objects,\n  deadpan humor,\n  clean visual jokes,\n  strong readability,\n  newspaper-strip clarity\n}\n\nC = {\n  cinematic 3D concept illustration,\n  cute stylized figures,\n  glossy rounded props,\n  emotional facial expressions,\n  staged metaphor scenes,\n  high-contrast lighting,\n  bold signage and slogan blocks\n}\n\nSUBJECT_CORE = stylize($ SUBJECT)\nwhere:\n- preserve the core meaning and symbolic identity of $ SUBJECT\n- reduce it into immediately readable characters, props, metaphors, or systems\n- make the concept understandable at a glance\n- allow the scene to feel both informative and satirical\n\nINFO_STRUCTURE = infer_explainer_system($ SUBJECT)\nwhere:\n- create one main headline idea\n- surround it with labeled subpoints, warning signs, benefits, trade-offs, or commentary\n- use boxes, banners, lists, arrows, side notes, and small callouts\n- include readable symbolic interactions between figures, objects, and ideas\n\nVISUAL_FUSION:\n- core figures rendered in cartoon language with thick outlines\n- some props or focal characters rendered as soft 3D toy-like objects\n- informational framework rendered like a comic infographic\n- humor rendered through ironic labels, visual metaphors, and contrast between cute form and serious meaning\n\nCOLOR_RULES:\n- strong poster palette\n- bright yellow, red, cyan, blue, green, white, and black\n- optional grayscale area for comic-strip contrast\n- avoid muddy realism or muted corporate palettes\n\nOUTPUT:\nA hybrid concept-poster for $ SUBJECT that combines infographic clarity, editorial satire, comic-strip readability, and toy-like 3D metaphor staging.",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2112129130799968578",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112129130799968578-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112129130799968578-1.webp"
+      ],
+      "note": "Prompt published in the same post."
+    },
+    {
+      "id": "dnd-campaign-keyframe",
+      "title": "D&D Game Night Keyframe",
+      "titleZh": "D&D 跑团之夜关键帧",
+      "category": "illustration",
+      "author": {
+        "name": "LilyFernwild",
+        "handle": "LilyFernwild",
+        "url": "https://x.com/LilyFernwild"
+      },
+      "sourceUrl": "https://x.com/LilyFernwild/status/2113286798679949700",
+      "publishedAt": "2026-10-22T15:10:10Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113286798679949700-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113286798679949700-1.webp"
+      ]
+    },
+    {
+      "id": "scifi-book-stripe-typography",
+      "title": "Sci-Fi Books in Optical Stripe Typography",
+      "titleZh": "光学条纹字体的科幻名著",
+      "category": "poster",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2109182713802707328",
+      "publishedAt": "2026-10-11T07:22:00Z",
+      "prompt": "2x2 grid, 16:9, do this for 4 famous scifi books  class OpticalStripeTypographicSilhouette:\n    def __init__(self, topic):\n        self.topic = topic\n        self.word = derive_short_display_word(topic)\n        self.silhouette = infer_iconic_silhouette(topic)\n\n        self.stripe_map = infer_contour_stripe_paths(topic, self.silhouette)\n        self.typography = integrate_word_into_body(self.word, self.silhouette)\n        self.negative_space = solve_white_space_for_readability(topic)\n\n    def silhouette_system(self):\n        return {\n            \"subject\": self.silhouette,\n            \"style\": \"flat black-and-white vector silhouette\",\n            \"recognition\": \"instant at thumbnail scale\"\n        }\n\n    def stripe_system(self):\n        return {\n            \"paths\": self.stripe_map,\n            \"behavior\": \"flowing contour bands that describe form\",\n            \"palette\": \"black stripes on white ground\",\n            \"texture\": \"none, pure graphic ink\"\n        }\n\n    def word_system(self):\n        return {\n            \"text\": self.word,\n            \"integration\": \"embedded inside silhouette through negative space\",\n            \"readability\": \"clear but discovered\"\n        }\n\n    def render(self):\n        return \"\"\"\n        Render as a clean optical typographic emblem:\n        iconic silhouette, flowing contour stripes,\n        hidden readable word, black ink on pure white.\n        \"\"\"",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2109182713802707328",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109182713802707328-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2109182713802707328-1.webp"
+      ]
+    },
+    {
+      "id": "armored-kitten-king",
+      "title": "Armored Kitten King, Camcorder Style",
+      "titleZh": "盔甲小猫国王，DV 画质",
+      "category": "comparison",
+      "author": {
+        "name": "Avocado AI",
+        "handle": "avocadoai_co",
+        "url": "https://x.com/avocadoai_co"
+      },
+      "sourceUrl": "https://x.com/avocadoai_co/status/2107777203194732625",
+      "publishedAt": "2026-10-07T10:17:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107777203194732625-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107777203194732625-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107777203194732625-2.webp"
+      ],
+      "note": "First of seven rounds; per-round prompts are in the creator's thread."
+    },
+    {
+      "id": "mixed-media-glasshouse-gathering",
+      "title": "Mixed-Media Characters in a Glasshouse",
+      "titleZh": "玻璃温室里的多画风角色聚会",
+      "category": "illustration",
+      "author": {
+        "name": "Iqra Saifi",
+        "handle": "IqrasaifiAI",
+        "url": "https://x.com/IqrasaifiAI"
+      },
+      "sourceUrl": "https://x.com/IqrasaifiAI/status/2107845577157529710",
+      "publishedAt": "2026-10-07T14:48:42Z",
+      "prompt": "A bustling, richly detailed candid snapshot of a crowded artistic gathering inside a grand 19th-century Victorian glasshouse during the daytime, In the foreground and midground, several distinct characters of different artistic media interact at outdoor wooden tables on a cobblestone floor:On the left, a bulky, tactile claymation-style character Seated at a wooden table in the center-left is a 2D anime-style young woman Sharing a table just behind them is an ink-black 1930s \"rubber-hose\" cartoon Across from the cartoon character is a 3D Pixar/Disney-style CGI teenage girl with curly brown hair, On the right, an elderly man rendered in a highly detailed, realistic photographic style sits at a table, Slightly behind him on the right, a 2D webtoon/comic-book-style young man with glassesThe background is a densely packed indoor art market and social gathering within the sprawling conservatory. Light filters through the arched iron-and-glass ceiling, highlighting hanging plants, ferns, climbing vines, and strings of warm fairy lights. The venue is filled with folding tables, display stalls, colorful woven tapestries/rugs hanging on the walls, and countless artworks",
+      "promptSourceUrl": "https://x.com/IqrasaifiAI/status/2107847009382097109",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107845577157529710-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107845577157529710-1.webp"
+      ]
+    },
+    {
+      "id": "oil-portrait-vs-qwen-image-3",
+      "title": "Painterly Portrait vs Qwen-Image 3.0",
+      "titleZh": "油画质感人像 vs Qwen-Image 3.0",
+      "category": "comparison",
+      "author": {
+        "name": "Doe",
+        "handle": "doe_naps",
+        "url": "https://x.com/doe_naps"
+      },
+      "sourceUrl": "https://x.com/doe_naps/status/2107447530061725966",
+      "publishedAt": "2026-10-06T12:27:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107447530061725966-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107447530061725966-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107447530061725966-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2107447530061725966-3.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "photo-to-halloween-costume",
+      "title": "Turn a Photo into a Halloween Costume",
+      "titleZh": "照片一键换万圣节装扮",
+      "category": "remix",
+      "author": {
+        "name": "さきすた AI artist",
+        "handle": "sakisuta_",
+        "url": "https://x.com/sakisuta_"
+      },
+      "sourceUrl": "https://x.com/sakisuta_/status/2112846374844944487",
+      "publishedAt": "2026-10-21T10:00:05Z",
+      "prompt": "参照画像の人物の衣装とメイクだけを、いまっぽい◯◯の仮装に変える。顔立ち、髪型、表情、ポーズ、背景、構図は参照画像のまま。",
+      "promptSourceUrl": "https://x.com/sakisuta_/status/2112846374844944487",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112846374844944487-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112846374844944487-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112846374844944487-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112846374844944487-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112846374844944487-4.webp"
+      ],
+      "note": "◯◯ is a placeholder for the costume you want."
+    },
+    {
+      "id": "parakeet-desk-setup",
+      "title": "Parakeet at the Desk Setup vs GPT 2.5 Sunburst",
+      "titleZh": "桌边鹦鹉 vs GPT 2.5 Sunburst",
+      "category": "comparison",
+      "author": {
+        "name": "山側_AIイラスト",
+        "handle": "AnotherYamagawa",
+        "url": "https://x.com/AnotherYamagawa"
+      },
+      "sourceUrl": "https://x.com/AnotherYamagawa/status/2111303588618371392",
+      "publishedAt": "2026-10-17T03:49:36Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111303588618371392-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111303588618371392-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111303588618371392-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "clay-pot-chicken-food-poster",
+      "title": "Clay Pot Pepper Chicken Food Poster",
+      "titleZh": "砂锅椒香鸡美食海报",
+      "category": "comparison",
+      "author": {
+        "name": "Loriel.AI",
+        "handle": "ou_zhen599",
+        "url": "https://x.com/ou_zhen599"
+      },
+      "sourceUrl": "https://x.com/ou_zhen599/status/2112200465832395025",
+      "publishedAt": "2026-10-19T15:13:28Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112200465832395025-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112200465832395025-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112200465832395025-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "jewelry-light-campaign",
+      "title": "Jewelry Light-and-Shadow Campaign",
+      "titleZh": "珠宝光影广告",
+      "category": "poster",
+      "author": {
+        "name": "Loriel.AI",
+        "handle": "ou_zhen599",
+        "url": "https://x.com/ou_zhen599"
+      },
+      "sourceUrl": "https://x.com/ou_zhen599/status/2112554653724623041",
+      "publishedAt": "2026-10-20T14:40:53Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112554653724623041-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112554653724623041-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112554653724623041-2.webp"
+      ]
+    },
+    {
+      "id": "one-logo-three-products-mockup",
+      "title": "One Logo, Three Product Mockups",
+      "titleZh": "一个 Logo，三件周边样机",
+      "category": "poster",
+      "author": {
+        "name": "Ramesh Dontha 🦉",
+        "handle": "EntrepreneursAI",
+        "url": "https://x.com/EntrepreneursAI"
+      },
+      "sourceUrl": "https://x.com/EntrepreneursAI/status/2112182085045694840",
+      "publishedAt": "2026-10-19T14:00:26Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112182085045694840-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112182085045694840-1.webp"
+      ]
+    },
+    {
+      "id": "1980s-fantasy-witch-film-still",
+      "title": "1980s Fantasy Witch Film Still",
+      "titleZh": "80 年代奇幻片女巫剧照",
+      "category": "portrait",
+      "author": {
+        "name": "nonameoasis",
+        "handle": "nonameoasis",
+        "url": "https://x.com/nonameoasis"
+      },
+      "sourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+      "publishedAt": "2026-10-08T16:32:48Z",
+      "prompt": "hq quality film scene of a classic blonde witch. 1980s fantasy film, 35 mm film No text, letters, numbers, typography, logos or watermarks.",
+      "promptSourceUrl": "https://x.com/nonameoasis/status/2108234166114341071",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108234166114341071-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108234166114341071-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108234166114341071-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108234166114341071-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2108234166114341071-4.webp"
+      ]
+    },
+    {
+      "id": "raccoon-christmas-elf",
+      "title": "Untrustworthy Raccoon Christmas Elf",
+      "titleZh": "不靠谱的浣熊圣诞精灵",
+      "category": "illustration",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "url": "https://x.com/heathergreen"
+      },
+      "sourceUrl": "https://x.com/heathergreen/status/2113556045121384836",
+      "publishedAt": "2026-10-23T09:00:03Z",
+      "prompt": "Illustrate a hilariously untrustworthy raccoon dressed as a Christmas elf in the style of a vintage 1950s holiday comic. The raccoon wears a crooked green elf hat, has cookie crumbs all over its face, and is caught stealing a cookie from a plate while standing in a pile of torn wrapping paper. A long strand of Christmas ribbon is tangled around its tail like a sash. Give it a wide-eyed, completely unconvincing innocent expression. Use thick hand-inked outlines, expressive cartoon features, retro halftone shading, imperfect vintage print texture, and a cheerful palette of pine green, cherry red, mustard gold, and aged cream. The design should feel like a collectible old-fashioned Christmas novelty illustration with a clear central character, simple background, and bold readable shapes. No mockup, no watermark, no text.",
+      "promptSourceUrl": "https://x.com/heathergreen/status/2113556045121384836",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113556045121384836-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113556045121384836-1.webp"
+      ]
+    },
+    {
+      "id": "retro-floral-skull",
+      "title": "Retro Floral Skull Illustration",
+      "titleZh": "复古花朵骷髅插画",
+      "category": "illustration",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "url": "https://x.com/heathergreen"
+      },
+      "sourceUrl": "https://x.com/heathergreen/status/2113435240056185335",
+      "publishedAt": "2026-10-23T01:00:01Z",
+      "prompt": "A retro-inspired illustration in a palette of pink, purple, yellow, orange, and warm off-white, featuring a whimsical skull with flowers blooming from its eye sockets, mushrooms sprouting from the top of its head, and tiny furry creatures climbing over it. Centered, balanced composition with bold hand-drawn outlines, playful vintage poster styling, subtle print texture and gentle grain, rich decorative details, and a warm, nostalgic mood.",
+      "promptSourceUrl": "https://x.com/heathergreen/status/2113435240056185335",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113435240056185335-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113435240056185335-1.webp"
+      ]
+    },
+    {
+      "id": "anime-portrait-nb21-vs-nb2-lite",
+      "title": "Anime Portrait: 2.1 vs 2.0 Lite",
+      "titleZh": "动漫头像：2.1 vs 2.0 Lite",
+      "category": "comparison",
+      "author": {
+        "name": "のぶたん",
+        "handle": "nobtan_x25",
+        "url": "https://x.com/nobtan_x25"
+      },
+      "sourceUrl": "https://x.com/nobtan_x25/status/2111954004876075446",
+      "publishedAt": "2026-10-18T22:54:07Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111954004876075446-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111954004876075446-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2111954004876075446-2.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "2000s-internet-cafe-webcam-couple",
+      "title": "Early-2000s Internet Cafe Webcam Couple",
+      "titleZh": "2000 年代网吧摄像头情侣照",
+      "category": "comparison",
+      "author": {
+        "name": "Fav Prompt",
+        "handle": "favprompt",
+        "url": "https://x.com/favprompt"
+      },
+      "sourceUrl": "https://x.com/favprompt/status/2112947693710360593",
+      "publishedAt": "2026-10-21T16:42:41Z",
+      "prompt": "A candid couple photo of the Woman's Look and Man's Look in the Setting, engaged in the Activity. Render it as the Camera Type, with soft focus, smeared facial detail, color noise, dim uneven indoor light and low-resolution compression. Use awkward webcam framing from a desk-level angle, with a slight tilt and casually cropped shoulders or arms. Include the Era Props naturally in the booth. The couple should look genuinely close and relaxed, with real skin, messy everyday hair and no heavy retouching. Use Face Reference for the matching faces when applicable. Make it feel like an unedited early-2000s personal photo from an old Facebook album or MSN chat, not a modern image with a retro filter. No date stamp, text, watermark, modern electronics or current fashion. Output in the Format.\n\nUse these details:\nWoman's Look: \"Young woman in her early 20s with straight black hair, a casual graphic T-shirt and a loose zip hoodie\"\nMan's Look: \"Young man in his early 20s with a thin mustache, tousled hair and a worn casual sweatshirt\"\nSetting: \"A cramped internet cafe booth with a laminate desk, worn carpet, beige walls and bulky CRT monitors\"\nActivity: \"Leaning close together and looking into the webcam during an online chat\"\nCamera Type: \"Low-resolution built-in webcam capture from a chunky desktop computer\"\nEra Props: [\"Wired earphones\", \"A burned CD in a paper sleeve\", \"A chunky desktop keyboard\"]\nFace Reference: \"Use attached photos for the matching person's face when provided; if none are attached, invent both faces\"\nFormat: \"4:3 landscape\"",
+      "promptSourceUrl": "https://x.com/favprompt/status/2112947693710360593",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112947693710360593-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112947693710360593-1.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "garden-dinner-four-models",
+      "title": "Garden Dinner Party, Four Models",
+      "titleZh": "花园晚宴：四模型对比",
+      "category": "comparison",
+      "author": {
+        "name": "Mitraico",
+        "handle": "Mitraicox",
+        "url": "https://x.com/Mitraicox"
+      },
+      "sourceUrl": "https://x.com/Mitraicox/status/2112904380941000984",
+      "publishedAt": "2026-10-21T13:50:34Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112904380941000984-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112904380941000984-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112904380941000984-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112904380941000984-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112904380941000984-4.webp"
+      ],
+      "note": "Same-prompt comparison posted by the creator; model order follows the creator's caption."
+    },
+    {
+      "id": "anime-thumbnail-autumn-tonkatsu",
+      "title": "Anime YouTube Thumbnail: Autumn Tonkatsu",
+      "titleZh": "动漫风 YouTube 缩略图：秋日炸猪排",
+      "category": "poster",
+      "author": {
+        "name": "くれとん",
+        "handle": "komaki_s60",
+        "url": "https://x.com/komaki_s60"
+      },
+      "sourceUrl": "https://x.com/komaki_s60/status/2112453261861191791",
+      "publishedAt": "2026-10-20T07:57:59Z",
+      "prompt": "【パラメータ】 参照画像：{参照画像} 上の見出し：{秋にピッタリなお店発見！} 下段見出し説明：{行列のできるトンカツ屋} 下段見出し：{和田福} 主題色：{赤} 感情：{驚き} 【画像】 出力画像の中でアスペクト比は16:9を維持し不要な部分はグレーで埋める。 【目的】 参照画像を題材・情報の参考として、人気AI解説系YouTubeチャンネルの高品質なサムネイルを生成する。日本語の可読性、鮮烈な色彩、アニメ美少女の魅力、緻密な描写を高水準で両立させる。 【構図・レイアウト】 画面左側約55%を文字領域、右側約45%を少女のイラスト領域とする。左側には上下2段の見出しを大胆に配置し、右側には少女の顔を大きく、胸元までを目安に描く。文字と少女の境界は適度に重ね、奥行きを作る。少女が文字の背景側に回るように配置。要素の優先順位を明確にする。左側の文字領域の上下中央に{参照画像}のオブジェクトを拡大して背景に配置する。 参照画像のコントラスト、サイズ、切り抜きはして良いが参照画像の差し替えはしない。 【文字デザイン】 上段に「{上の見出し}」を極太の日本語ゴシック体で配置する。文字色は黄色を基本とし、太い黒フチ、明るい外縁、立体的な影を重ねる。下段には「{下段見出し}」を大きく配置し、最重要語を視覚的に強調する。文字は画面幅を大胆に使う。続けて「{下段見出し説明}」を補足テキストとして配置し、見出しとのサイズ差を明確にし{下段見出し}の上に配置する。複数行に整理して密度と可読性を両立する。日本語を正確に描画し、誤字、欠字、文字化け、不自然な字形を避ける。文字の背後には十分なコントラストを確保する。 【少女のイラスト：画風のみ固定】 右側に、緻密で高品質な日本の商業アニメ調美少女を描く。固定するのは画風と描画品質のみとし、キャラクターのデザインは毎回自由に創作する。大きく透明感のある瞳、繊細なまつ毛、丁寧な線画、滑らかなグラデーション塗り、精密な髪の束、光沢のある髪、柔らかな肌の陰影、自然な頬の赤み、鮮やかなハイライトを特徴とする。髪型、髪色、瞳の色、顔立ちの個性、帽子、服装、アクセサリー、持ち物、ポーズはテーマに応じて毎回変える。帽子を使う場合は、動物モチーフや小さな装飾などを緻密に描き込む。衣服は襟、リボン、縫製、素材、重なりまで丁寧に表現する。テーマに合った独創的なシルエットと身振りを設計し、既存のキャラクターを模倣しない。表情・眉・目線・口元・ポーズには「{感情}」を一貫して反映する。少女の画風は常に統一しつつ、外見や衣装を固定化しない。 【色彩・背景】 「{主題色}」を画面全体の基調色にする。主題色を中心に、強い補色や高コントラストのアクセントを組み合わせる。背景には放射状グラデーション、光条、発光粒子、斜線、ハーフトーン、幾何学模様などを用いて、情報量の多い華やかな画面を構成する。背景は見出しの可読性を妨げないよう文字周辺を整理し、少女の周辺には緻密な装飾を加える。少女の輪郭にはリムライトを施し、背景から明瞭に分離する。 【最終品質】 高彩度、高コントラスト、精密な線画、豊かな陰影、シャープな輪郭、緻密な装飾。視線を「上段見出し→少女の顔→下段見出し」へ誘導する。参照画像は題材や必要な情報を把握するために利用し、その人物デザインや構図を無条件に複製しない。文字・少女・背景を一体化した、プロフェッショナルなYouTubeサムネイルに仕上げる。",
+      "promptSourceUrl": "https://x.com/komaki_s60/status/2112453631945703433",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112453261861191791-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112453261861191791-1.webp"
+      ],
+      "note": "Prompt published by the creator in a reply; the creator preferred GPT Image 2.5 for this brief."
+    }
+  ]
+}
