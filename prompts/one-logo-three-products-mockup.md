@@ -1,8 +1,8 @@
 # One Logo, Three Product Mockups
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112182085045694840-card.webp)](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=one-logo-three-products-mockup)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112182085045694840-card.webp)](https://chatimg.ai/prompts/nano-banana-2-1?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=one-logo-three-products-mockup#poster)
 
-**[▶ Try Nano Banana 2.1 on ChatImg](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=one-logo-three-products-mockup)** · [Source post](https://x.com/EntrepreneursAI/status/2112182085045694840)
+**[▶ Try Nano Banana 2.1 on ChatImg](https://chatimg.ai/prompts/nano-banana-2-1?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=one-logo-three-products-mockup#poster)** · [Source post](https://x.com/EntrepreneursAI/status/2112182085045694840)
 
 - Author / credit: Ramesh Dontha 🦉 (@EntrepreneursAI)
 - Prompt status: `not_published_in_reviewed_sources`
@@ -17,4 +17,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Nano Banana 2.1 work on ChatImg →](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts)
+[More Nano Banana 2.1 work on ChatImg →](https://chatimg.ai/prompts/nano-banana-2-1?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts)

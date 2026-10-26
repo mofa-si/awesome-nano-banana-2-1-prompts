@@ -31,7 +31,8 @@
     "cta": "Try Nano Banana 2.1 on ChatImg",
     "ctaZh": "在 ChatImg 直接用 Nano Banana 2.1 出图",
     "promptUrl": "https://chatimg.ai/image?model=nanobanana-2.1",
-    "promptParam": "q"
+    "promptParam": "q",
+    "pagesUrl": "https://chatimg.ai/prompts/nano-banana-2-1"
   },
   "mediaHosts": [
     "bibigpt-apps.chatvid.ai"

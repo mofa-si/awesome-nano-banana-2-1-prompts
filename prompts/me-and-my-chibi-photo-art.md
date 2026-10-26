@@ -1,6 +1,6 @@
 # Me and My Chibi: Photo Art
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112838116532953568-card.webp)](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=me-and-my-chibi-photo-art)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112838116532953568-card.webp)](https://chatimg.ai/prompts/nano-banana-2-1/me-and-my-chibi-photo-art?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=me-and-my-chibi-photo-art)
 
 **[▶ Use this prompt on ChatImg](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=me-and-my-chibi-photo-art)** · [Source post](https://x.com/July_AI_Creator/status/2112838116532953568)
 
@@ -57,4 +57,4 @@ Prompt source: https://x.com/July_AI_Creator/status/2112838121473880094
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Nano Banana 2.1 work on ChatImg →](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts)
+[More Nano Banana 2.1 work on ChatImg →](https://chatimg.ai/prompts/nano-banana-2-1?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts)

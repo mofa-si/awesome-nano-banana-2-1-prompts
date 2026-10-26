@@ -1,6 +1,6 @@
 # Anime YouTube Thumbnail: Autumn Tonkatsu
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112453261861191791-card.webp)](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=anime-thumbnail-autumn-tonkatsu)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112453261861191791-card.webp)](https://chatimg.ai/prompts/nano-banana-2-1/anime-thumbnail-autumn-tonkatsu?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=anime-thumbnail-autumn-tonkatsu)
 
 **[▶ Use this prompt on ChatImg](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=anime-thumbnail-autumn-tonkatsu)** · [Source post](https://x.com/komaki_s60/status/2112453261861191791)
 
@@ -23,4 +23,4 @@ Prompt source: https://x.com/komaki_s60/status/2112453631945703433
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Nano Banana 2.1 work on ChatImg →](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts)
+[More Nano Banana 2.1 work on ChatImg →](https://chatimg.ai/prompts/nano-banana-2-1?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts)

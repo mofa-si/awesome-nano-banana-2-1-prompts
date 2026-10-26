@@ -1,6 +1,6 @@
 # Rooftop Parking Deck at Golden Hour (JSON prompt)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114469301709332567-card.webp)](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=rooftop-parking-golden-hour-json)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114469301709332567-card.webp)](https://chatimg.ai/prompts/nano-banana-2-1/rooftop-parking-golden-hour-json?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=rooftop-parking-golden-hour-json)
 
 **[▶ Use this prompt on ChatImg](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts&utm_content=rooftop-parking-golden-hour-json)** · [Source post](https://x.com/hardik_lut83675/status/2114469301709332567)
 
@@ -55,4 +55,4 @@ Prompt source: https://x.com/hardik_lut83675/status/2114469301709332567
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Nano Banana 2.1 work on ChatImg →](https://chatimg.ai/image?model=nanobanana-2.1&utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts)
+[More Nano Banana 2.1 work on ChatImg →](https://chatimg.ai/prompts/nano-banana-2-1?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-1-prompts)
