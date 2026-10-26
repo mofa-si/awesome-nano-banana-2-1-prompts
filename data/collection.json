@@ -7,7 +7,7 @@
   "description": "A curated collection of Google Nano Banana 2.1 (gemini-nano-banana-2.1) images shared on X — portraits, posters, photo remixes, illustration and same-prompt model comparisons — credited to each creator, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的 Google Nano Banana 2.1（gemini-nano-banana-2.1）作品：人像大片、海报排版、照片改造、插画与同提示词模型对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Nano Banana 2.1",
-  "collectedOn": "2026-10-25",
+  "collectedOn": "2026-10-26",
   "publicationCutoffUtc": "2026-10-06T00:00:00Z",
   "topics": [
     "nano-banana",
@@ -1849,6 +1849,182 @@
         "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2112453261861191791-1.webp"
       ],
       "note": "Prompt published by the creator in a reply; the creator preferred GPT Image 2.5 for this brief."
+    },
+    {
+      "id": "witch-girl-spell-casting-poses",
+      "title": "Witch Girl Spell-Casting Poses",
+      "titleZh": "魔女少女施法姿势三连",
+      "category": "illustration",
+      "author": {
+        "name": "のぶたん",
+        "handle": "nobtan_x25",
+        "url": "https://x.com/nobtan_x25"
+      },
+      "sourceUrl": "https://x.com/nobtan_x25/status/2113967365897724083",
+      "publishedAt": "2026-10-24T12:14:30Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113967365897724083-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113967365897724083-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113967365897724083-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113967365897724083-3.webp"
+      ]
+    },
+    {
+      "id": "zanshin-archer-vs-creatures",
+      "title": "Zanshin: Archer and Mage vs. Creatures",
+      "titleZh": "残心：弓手与魔法师对决怪物",
+      "category": "illustration",
+      "author": {
+        "name": "のぶたん",
+        "handle": "nobtan_x25",
+        "url": "https://x.com/nobtan_x25"
+      },
+      "sourceUrl": "https://x.com/nobtan_x25/status/2113939813762220427",
+      "publishedAt": "2026-10-24T10:25:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113939813762220427-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113939813762220427-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113939813762220427-2.webp"
+      ]
+    },
+    {
+      "id": "honda-fk8-cyber-garage",
+      "title": "Honda Civic Type R (FK8) Cyber Garage",
+      "titleZh": "赛博车库里的本田 FK8",
+      "category": "scenes",
+      "author": {
+        "name": "姫崎はるか",
+        "handle": "281haruka",
+        "url": "https://x.com/281haruka"
+      },
+      "sourceUrl": "https://x.com/281haruka/status/2113953199199793183",
+      "publishedAt": "2026-10-24T11:18:12Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113953199199793183-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2113953199199793183-1.webp"
+      ]
+    },
+    {
+      "id": "oil-pastel-autumn-window-cat",
+      "title": "Oil-Pastel Autumn Window with Cat",
+      "titleZh": "油画棒风格：秋日窗边的女孩与猫",
+      "category": "illustration",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "url": "https://x.com/heathergreen"
+      },
+      "sourceUrl": "https://x.com/heathergreen/status/2114114713890230723",
+      "publishedAt": "2026-10-24T22:00:00Z",
+      "prompt": "A cozy autumn afternoon, viewed from behind a woman sitting on the floor beside a tall window, quietly enjoying a warm drink while her cat sits beside her, both gazing out at the fall scenery. The woman has shoulder-length auburn hair, wears a soft cream oversized sweater, rust-colored leggings, and warm tan socks. A brown tabby-and-white cat sits close beside her, its tail curled comfortably around its paws.\n\nOutside the window, a large golden-yellow tree with loose, windswept branches sheds amber, ochre, and muted red leaves. A few pumpkins rest near the windowsill, and a simple strand of warm white round bulb fairy lights drapes casually along the window frame. Soft autumn sunlight filters through the glass, casting gentle, imperfect shadows across the floor.\n\nRendered in expressive oil pastel artwork on textured heavyweight paper, with visible pastel strokes, layered pigment, softly smudged edges, broken color, and tactile chalky texture. Warm earthy palette of burnt sienna, rust, ochre, golden mustard, cream, olive green, and charcoal. Intimate, peaceful, slightly nostalgic mood, charming imperfect details, artistic mark-making, beautiful composition, rich tactile surfaces, handmade fine-art feel. Portrait-oriented composition, no text, no lettering, no watermark.",
+      "promptSourceUrl": "https://x.com/heathergreen/status/2114114713890230723",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114114713890230723-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114114713890230723-1.webp"
+      ]
+    },
+    {
+      "id": "golden-hour-rooftop-menswear",
+      "title": "Golden-Hour Rooftop Menswear Portrait",
+      "titleZh": "黄金时刻天台男装大片",
+      "category": "portrait",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "url": "https://x.com/pictsbyai"
+      },
+      "sourceUrl": "https://x.com/pictsbyai/status/2114270237004628019",
+      "publishedAt": "2026-10-25T08:18:00Z",
+      "prompt": "A candid, medium-full editorial photograph of a confident young handsome male model with a chiselled bone structure and sharp jawline, captured in a thoughtful gaze looking away toward the upper left horizon on an outdoor high-rise urban rooftop terrace during the golden hour, framed in a 9:16 aspect ratio. He stands with an asymmetrical, natural posture, his body turned at a 45-degree angle, with both hands casually inserted into the pockets of his tailored charcoal wool overcoat, slightly pulling the coat's edges forward. He wears a high-contrast cream, ribbed turtleneck sweater that frames his neck, partially visible under the heavy, textured dark overcoat. His medium-short, dark brown hair is styled in a classic cut, swept back and to the left with natural, wavy volume, featuring loose flyaway curls on his left forehead and a matte finish. Natural 45-degree side lighting from the low, golden-hour sun on the camera's left illuminates his left cheekbone, nose bridge, brow ridge, and the cream turtleneck, while casting soft, gradual shadow edges across the right side of his face, neck, and the folds of his dark coat, with a gentle, cool sky-blue fill on the shadow side. He is positioned center-right, leaning near a foreground rooftop parapet wall that features weathered gray stone coping, a tan brick base with recessed mortar joints, and a brushed steel tubular handrail. The background, captured with a shallow depth of field, blurs into a deep, creamy bokeh of an urban skyline, balanced on the far left by a tall, modern glass skyscraper reflecting the warm golden sunset, alongside aged mid-century commercial towers with boxy dark brown and terracotta tan masonry facades catching the orange sunlight. The cinematic image, characteristic of a classic menswear luxury campaign, boasts tack-sharp detail on the subject against the soft, warm golden-hour atmosphere, retaining a rich color profile of charcoal, soft sky blue-gray, cream, and warm amber, shot straight on with the characteristic natural clarity of a full-frame digital camera using an 85mm lens at f/2.0, with preserved shadow details in the wool fabric and natural skin textures.",
+      "promptSourceUrl": "https://x.com/pictsbyai/status/2114270237004628019",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114270237004628019-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114270237004628019-1.webp"
+      ]
+    },
+    {
+      "id": "rooftop-parking-golden-hour-json",
+      "title": "Rooftop Parking Deck at Golden Hour (JSON prompt)",
+      "titleZh": "黄金时刻天台停车场人像（JSON 提示词）",
+      "category": "portrait",
+      "author": {
+        "name": "Ryan Fox",
+        "handle": "hardik_lut83675",
+        "url": "https://x.com/hardik_lut83675"
+      },
+      "sourceUrl": "https://x.com/hardik_lut83675/status/2114469301709332567",
+      "publishedAt": "2026-10-25T21:29:01Z",
+      "prompt": "{\n  \"image_type\": \"Photorealistic outdoor lifestyle portrait of a young woman on a rooftop parking deck at golden hour, natural sunset photography, authentic skin texture, warm cinematic color grading, subtle 35mm film grain, realistic hair and fabric details\",\n  \"aspect_ratio\": \"9:16\",\n  \"subject\": {\n    \"description\": \"A young adult woman approximately 22–26 years old with South Asian facial features, a naturally proportioned average-to-slim build, gently rounded shoulders, and a medium-light warm tan complexion with golden olive undertones. Her skin has realistic fine pores, subtle pigmentation, tiny natural marks, and slight variations in tone across her cheeks, forehead, and upper chest. She stands upright in the center of an open rooftop parking area, facing the camera directly. Her shoulders are relaxed, her posture is comfortable, and her arms hang naturally at her sides, partially concealed by an open brown hoodie. Her long, voluminous dark hair falls over both shoulders and extends down to her waist. The photograph captures her from the top of her head to the upper hips, with the lower edge cropping part of her clothing. Her appearance is casual and natural, with minimal makeup and a relaxed, approachable presence.\",\n    \"face\": \"An oval face with softly defined cheekbones, naturally rounded cheeks, a gently tapered jawline, and a small rounded chin. Her nose is straight and moderately narrow, with a softly rounded tip and a natural highlight along the bridge. Her eyebrows are dark brown to black, medium-thick, naturally full, and gently arched, with visible individual hairs. Her eyes are almond-shaped, medium-sized, and warm brown with subtle amber undertones. Her eyelashes are naturally defined, with minimal mascara and no dramatic eyeliner. Her lips are medium-full, muted rosy pink with warm peach undertones, a softly defined Cupid's bow, and visible natural lip lines. Her skin displays realistic pores, faint natural marks around the cheeks, subtle under-eye texture, and a natural warm flush. Golden-hour light creates an orange-gold highlight along the viewer's right side of her face, while softer ambient light illuminates the opposite cheek. Preserve natural facial asymmetry, realistic skin texture, and believable facial proportions.\",\n    \"expression\": \"A gentle, relaxed closed-mouth smile with slightly raised lip corners and softly rounded cheeks. She looks directly into the camera with calm, friendly eye contact. Her eyebrows are relaxed, her forehead is naturally smooth with subtle texture, and her head is held upright with only a slight natural tilt. Her expression conveys quiet confidence, warmth, and casual happiness without a broad grin or exaggerated emotion.\",\n    \"hair\": \"Very dark espresso-brown hair with subtle warm chestnut highlights, long and thick, extending from a soft center part to approximately the waist. The parting is nearly centered but slightly irregular and natural. The roots and upper sections are relatively smooth, with gentle volume at the crown. From the temples downward, the hair develops into abundant loose waves, soft S-shaped curls, and irregular natural bends. Face-framing sections sweep outward from the forehead and curve around the cheekbones, creating a subtle curtain effect without covering the eyes. Thick sections fall over both shoulders, with a fuller mass of wavy hair extending down the viewer's left side of her chest. The ends are slightly tousled and uneven rather than perfectly styled. Fine flyaway hairs are visible around the crown and against the blue sky. Low-angle sunlight creates delicate copper-brown highlights on individual strands while the deeper layers remain dark brown. No bangs, ponytail, braids, or elaborate hairstyling.\",\n    \"accessories\": \"No prominent jewelry or visible accessories. Her ears are mostly concealed by her hair. No sunglasses, necklaces, earrings, hats, or decorative hair accessories.\"\n  },\n  \"outfit\": {\n    \"top\": \"A fitted, light ivory-white cropped tank top made from fine-ribbed cotton-stretch jersey. It has medium-width shoulder straps, a rounded scoop neckline, and a close-fitting silhouette through the chest and waist. Fine vertical ribbing is clearly visible across the front, with subtle horizontal stretch lines and natural fabric tension around the torso. The neckline has narrow matching ribbed binding, and the hem finishes just above the waist, exposing a small section of the abdomen. The material is opaque, matte, and softly textured, reflecting the warm sunset light with a creamy off-white tone rather than pure digital white. No graphics, logos, embroidery, buttons, or visible labels.\",\n    \"outer_layer\": \"An open, oversized muted cocoa-brown or dusty mauve-brown zip-up hoodie made from medium-weight cotton fleece or brushed sweatshirt fabric. The hoodie has a relaxed fit, a soft matte surface, long sleeves, a simple hood resting behind the neck, and a central metal zipper that remains fully open. The two front edges hang vertically on either side of the white tank top. Narrow metallic zipper teeth and pull details are visible along the front opening. The sleeves are roomy and extend down toward the wrists, with natural folds near the elbows and cuffs. The shoulder seams sit slightly below the natural shoulders, creating a relaxed casual silhouette. Warm sunlight gives the outer fabric a reddish-brown glow along the illuminated edges, while the shaded sections appear darker cocoa brown. No printed graphics, logos, patches, or readable text.\",\n    \"bottom\": \"Only a narrow portion of dark navy or black high-waisted bottoms is visible along the bottom edge beneath the cropped tank top. The fabric appears matte and fitted, with no prominent belt, buttons, visible pattern, or decorative details.\",\n    \"shoes\": \"Not visible because the portrait is cropped around the upper hips.\",\n    \"bag\": \"No bag visible.\"\n  },\n  \"pose\": \"A relaxed, straight-on standing portrait. The woman faces the camera squarely, with her torso aligned toward the lens and both shoulders at approximately the same height. Her arms hang naturally beside her body, with the hands mostly outside the lower frame or concealed by the long sleeves of the open hoodie. Her elbows remain relaxed and slightly bent. Her head is upright, her chin level, and her eyes directed into the camera. Her shoulders are relaxed rather than pushed backward, and her body weight is distributed naturally between both legs. Her long hair falls over the front of both shoulders, partly covering the edges of the hoodie and extending down the center of her torso. The hoodie hangs open without being held by either hand. Her posture is balanced and unforced, as if standing still for a casual photograph on a rooftop shortly before sunset. Preserve realistic anatomy, natural shoulder proportions, and correct garment draping.\",\n  \"setting\": {\n    \"location\": \"An open-air rooftop parking lot or elevated parking deck during late golden hour. The setting features a wide expanse of blue sky, distant rugged mountains on the horizon, a low concrete perimeter wall, and a gray asphalt parking surface marked with white painted parking lines. The scene is outdoors in a dry, clear climate, with warm sunset sunlight and a cool blue sky. The overall environment feels quiet, open, and spacious.\",\n    \"foreground\": \"The woman occupies the center of the foreground, extending from approximately the upper-middle of the image to the bottom edge. Her dark wavy hair frames the white ribbed tank top and open brown hoodie. The lower portion of the frame includes her cropped torso and a narrow glimpse of dark bottoms. Behind her, a broad gray asphalt parking surface occupies the lower-middle background. The asphalt has a coarse aggregate texture, tiny scattered stones, and subtle variations in gray. White painted parking-space lines extend diagonally across the surface, with one line visible behind her on the viewer's right and another faintly visible toward the left. At the extreme lower-left edge, a small pale concrete parking stop or curb intrudes into the frame. The parking deck is empty in the visible area, with no nearby people or vehicles.\",\n    \"background\": \"A low gray-beige concrete parapet wall runs horizontally across the image behind the woman, approximately at shoulder-to-head transition height. The wall has a slightly weathered surface, subtle horizontal construction seams, faint vertical joints, and soft sunset shadows. Beyond the wall, a distant mountain range appears on the horizon, most visible on the viewer's left. The mountains have rugged, layered silhouettes with muted mauve, dusty rose, and blue-gray tones. The leftmost peaks catch the last warm sunlight, producing pink-orange highlights along their ridges, while the more distant ranges fade into cool haze. The upper half of the image is dominated by a clear, expansive sky, saturated soft blue at the top and transitioning to pale cyan and warm cream near the horizon. A delicate golden glow is visible close to the horizon on the viewer's right. There are no prominent clouds, buildings, trees, signs, or readable text. The skyline remains uncluttered and natural.\",\n    \"props\": \"A gray concrete rooftop perimeter wall, coarse gray asphalt, white painted parking-space markings, a small pale concrete parking stop near the lower-left edge, and distant rugged mountains. No visible cars, signage, furniture, or other people.\"\n  },\n  \"lighting\": \"Natural golden-hour sunlight from a low angle on the viewer's right, illuminating the woman's face, hair, upper chest, and the right side of her brown hoodie with a soft amber-orange glow. The light creates warm highlights across her forehead, cheeks, nose, and individual hair strands, while the opposite side of her face remains softly illuminated by cool ambient skylight. Shadows are directional but relatively gentle, with no harsh midday overhead shadows. The white tank top reflects the warm sunlight and appears creamy ivory, while the brown hoodie develops rich reddish-cocoa highlights along its folds and edges. The concrete wall and asphalt receive warm side lighting, and the distant mountains display subtle pink-orange highlights. The sky remains cool blue, producing a pleasing warm-subject, cool-background contrast. Use a natural color temperature around 4000–5000 K for the direct sunset light, balanced with cooler blue skylight. No artificial flash, no studio lighting, and no exaggerated rim lighting.\",\n  \"camera\": {\n    \"device_feel\": \"A modern smartphone or full-frame digital camera producing a natural outdoor portrait with a subtle nostalgic 35mm film finish. The photograph should feel like a candid personal portrait taken during the final minutes before sunset, combining realistic digital detail with gentle film-like color, restrained grain, and naturally warm skin tones.\",\n    \"angle\": \"A vertical portrait photographed from approximately chest or eye level, with the camera directly in front of the woman at a distance of roughly 1.5–2 meters. The camera is nearly level with the subject, producing a straight-on perspective without noticeable distortion. The woman's face is positioned around the upper-middle of the frame, while her torso fills the lower-middle. The horizon and concrete wall run horizontally behind her, with the distant mountain peaks visible on the viewer's left. A large amount of open blue sky fills the upper portion of the composition, occupying roughly one-third to two-fifths of the frame. Her shoulders and hair frame the white tank top centrally.\",\n    \"lens\": \"Approximately 40–50 mm full-frame equivalent, similar to a standard portrait lens or the main camera of a modern smartphone with natural perspective. Avoid ultra-wide-angle distortion, exaggerated facial proportions, or excessive telephoto compression.\",\n    \"focus\": \"The woman's eyes, face, hair, and upper torso are sharply focused. Individual hair strands, fine ribbing in the tank top, hoodie zipper teeth, and natural skin texture are visible. The concrete wall and parking lines remain clear enough to establish the rooftop environment. The distant mountains are slightly softened by atmospheric haze but remain recognizable. Use moderate depth of field, keeping the background legible without artificial portrait-mode blur or synthetic cutout edges.\",\n    \"quality\": \"High-resolution vertical 9:16 photograph with a natural golden-hour cinematic grade. Use clear sky blue, warm amber skin highlights, chestnut-brown hair, muted brown outerwear, creamy ivory fabric, and cool gray concrete. Add subtle organic film grain, gentle highlight roll-off, realistic atmospheric haze, and natural microcontrast. Preserve skin pores, flyaway hairs, fabric ribbing, zipper details, concrete texture, and asphalt grain. Avoid excessive HDR, over-sharpening, extreme saturation, artificial skin smoothing, or an overly orange color cast.\"\n  },\n  \"mood\": \"Peaceful, warm, youthful, approachable, and quietly cinematic. A casual rooftop portrait captured at golden hour, combining a clear blue sky, distant sunlit mountains, a simple brown hoodie, and a white ribbed tank top. The atmosphere feels open, relaxed, and authentic, like a spontaneous photograph taken during a quiet evening.\",\n  \"negative_prompt\": \"No beauty filter, no plastic skin, no excessive skin smoothing, no airbrushed complexion, no extra fingers or distorted hands, no fused fingers, no missing fingers, no malformed palms, no duplicated arms, no extra limbs, no unnatural wrists, no incorrect shoulder joints, no cartoon or CGI look, no illustration, no 3D render, no text or watermark, no logos, no brand names, no artificial facial symmetry, no exaggerated smile, no visible teeth, no heavy makeup, no dramatic eyeliner, no bright lipstick, no unnatural glossy skin, no blonde hair, no short bob, no ponytail, no braids, no blunt bangs, no perfectly straight hair, no elaborate updo, no sunglasses, no prominent jewelry, no hats, no hair accessories, no missing brown hoodie, no zipped-up hoodie, no closed jacket, no leather jacket, no black hoodie, no bright red hoodie, no missing ivory ribbed tank top, no long-sleeved inner shirt, no high neckline, no patterned clothing, no graphics on the tank top, no missing cropped hem, no excessive exposed abdomen, no visible shoes, no handbag, no indoor setting, no bedroom, no studio backdrop, no city skyline, no dense forest, no beach, no snow-covered mountains, no dramatic storm clouds, no heavy fog, no nighttime lighting, no harsh midday sun, no direct flash, no artificial rim lighting, no excessive lens flare, no fisheye distortion, no stretched anatomy, no exaggerated body proportions, no sloping or asymmetrical horizon, no distorted concrete wall, no warped parking lines, no duplicated parking markings, no crowded parking lot, no visible cars, no additional people, no unreadable signage, no excessive bokeh, no artificial background blur, no excessive film scratches, no heavy dust damage, no extreme vignette, no digital glitching, no motion blur, no low resolution, no horizontal composition.\"\n}",
+      "promptSourceUrl": "https://x.com/hardik_lut83675/status/2114469301709332567",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114469301709332567-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114469301709332567-1.webp"
+      ]
+    },
+    {
+      "id": "lonely-hoodie-street-portrait",
+      "title": "Hoodie Portrait in a Blurred Crowd",
+      "titleZh": "人潮中的连帽衫人像",
+      "category": "portrait",
+      "author": {
+        "name": "Heisenberg",
+        "handle": "rovvmut_",
+        "url": "https://x.com/rovvmut_"
+      },
+      "sourceUrl": "https://x.com/rovvmut_/status/2114234919815959038",
+      "publishedAt": "2026-10-25T05:57:40Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114234919815959038-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114234919815959038-1.webp"
+      ]
+    },
+    {
+      "id": "margarine-day-breakfast-anime",
+      "title": "Margarine Day Breakfast (anime)",
+      "titleZh": "人造黄油日的早餐（动漫风）",
+      "category": "illustration",
+      "author": {
+        "name": "よった~公儀介錯人やぶにらみ黙示録~子貸し腕貸し仕る/天の裁きは待ってはおれぬ/必殺必中万屋稼業",
+        "handle": "9YGMEQ63135ka5O",
+        "url": "https://x.com/9YGMEQ63135ka5O"
+      },
+      "sourceUrl": "https://x.com/9YGMEQ63135ka5O/status/2114311575465251034",
+      "publishedAt": "2026-10-25T11:02:16Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114311575465251034-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114311575465251034-1.webp"
+      ]
+    },
+    {
+      "id": "aerovia-eyewear-poster-gpt-vs-nb",
+      "title": "Eyewear Poster: GPT Image 2.5 vs Nano Banana 2.1",
+      "titleZh": "墨镜海报：GPT Image 2.5 对比 Nano Banana 2.1",
+      "category": "comparison",
+      "author": {
+        "name": "Loriel.AI",
+        "handle": "ou_zhen599",
+        "url": "https://x.com/ou_zhen599"
+      },
+      "sourceUrl": "https://x.com/ou_zhen599/status/2114043771960852718",
+      "publishedAt": "2026-10-24T17:18:06Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114043771960852718-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114043771960852718-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114043771960852718-2.webp"
+      ],
+      "note": "Left: GPT Image 2.5, right: Nano Banana 2.1. The creator published only the GPT Image 2.5 prompt, so no prompt is listed here."
     }
   ]
 }
