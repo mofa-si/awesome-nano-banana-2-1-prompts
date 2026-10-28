@@ -7,7 +7,7 @@
   "description": "A curated collection of Google Nano Banana 2.1 (gemini-nano-banana-2.1) images shared on X — portraits, posters, photo remixes, illustration and same-prompt model comparisons — credited to each creator, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的 Google Nano Banana 2.1（gemini-nano-banana-2.1）作品：人像大片、海报排版、照片改造、插画与同提示词模型对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Nano Banana 2.1",
-  "collectedOn": "2026-10-26",
+  "collectedOn": "2026-10-28",
   "publicationCutoffUtc": "2026-10-06T00:00:00Z",
   "topics": [
     "nano-banana",
@@ -75,6 +75,438 @@
     }
   ],
   "entries": [
+    {
+      "id": "moving-day-sunlit-room",
+      "title": "Moving Day in a Sunlit Room",
+      "titleZh": "阳光房间里的搬家日",
+      "category": "scenes",
+      "author": {
+        "name": "InspiredDZN",
+        "handle": "inspiredDZN",
+        "url": "https://x.com/inspiredDZN"
+      },
+      "sourceUrl": "https://x.com/inspiredDZN/status/2114752603905265685",
+      "publishedAt": "2026-10-26T16:14:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114752603905265685-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114752603905265685-1.webp"
+      ]
+    },
+    {
+      "id": "kaede-two-years-flux-vs-nb21",
+      "title": "Kaede, Two Years Apart: FLUX.1 (2024) vs Nano Banana 2.1",
+      "titleZh": "同一角色隔两年重画：FLUX.1（2024）对比 Nano Banana 2.1",
+      "category": "comparison",
+      "author": {
+        "name": "かえで＠mousou_world",
+        "handle": "mousouWorld2024",
+        "url": "https://x.com/mousouWorld2024"
+      },
+      "sourceUrl": "https://x.com/mousouWorld2024/status/2115213200354689247",
+      "publishedAt": "2026-10-27T22:45:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115213200354689247-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115213200354689247-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115213200354689247-2.webp"
+      ],
+      "note": "The creator re-generated the same scene and outfit of the original character Kaede, first posted with FLUX.1 on 2024-10-27 (left), using Nano Banana 2.1 (right)."
+    },
+    {
+      "id": "rolls-royce-street-style-menswear",
+      "title": "Street-Style Menswear by a White Rolls-Royce",
+      "titleZh": "白色劳斯莱斯旁的街拍男装",
+      "category": "portrait",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "url": "https://x.com/pictsbyai"
+      },
+      "sourceUrl": "https://x.com/pictsbyai/status/2114632624950092003",
+      "publishedAt": "2026-10-26T08:18:00Z",
+      "prompt": "A full-body, eye-level street-style photograph captures a young adult man centered in the frame, leaning casually backward against the front right fender of a pristine off-white Rolls-Royce Cullinan SUV. He has brown hair, styled swept-back without a hard part, displaying natural volume, a matte finish, and minor flyaways. His face is turned at a forty-five-degree angle toward the viewer's left, holding a contemplative, confident, and composed expression with a relaxed gaze, neutral eyebrows, and closed, unsmiling lips. He wears a deep navy V-neck cardigan buttoned over an untucked light blue collared shirt, paired with relaxed light heather gray sweatpants and chunky forest green and cream retro runner sneakers. His posture is relaxed with slightly sloped shoulders, his weight supported by the luxury vehicle behind him and his left foot planted on the ground while his right ankle crosses casually over his left. His arms are folded organically across his lower chest, with four relaxed fingers of his right hand resting lightly on his left bicep and inner elbow area. In the foreground, rough, dark charcoal-gray asphalt stretches across the street with a faint white line marking in the bottom right corner, leading to the midground where the dominant white SUV sits angled on the left and center, showcasing silver multi-spoke wheels, classic serif RR monogram badges on the center cap and fender, chrome window trim, and a noticeable circular reflection distortion on the front right bumper corner. To the right of the vehicle, an open sidewalk paved with rectangular light beige-gray concrete slabs creates an asymmetric, layered balance, while a matte black Victorian-style metal street lamp with a glass lantern top rises directly behind the subject. The deep background reveals a quiet, upscale London-style residential neighborhood featuring matte off-white stucco-rendered masonry and painted brick architecture; on the left stands a smooth-textured townhouse adorned with an ornate black wrought-iron balcony railing, and on the right stretches a slightly weathered cream garden wall displaying subtle vertical water streaking beneath coping stones, a classical stone balustrade, a black paneled door, and an exterior wall sconce. Along the upper right wall ledge sits a row of brown terracotta pots thriving with trailing pink geraniums and green foliage, while dense, dark forest-green deciduous trees and climbing ivy frame the upper portion of the scene. The environment is bathed in soft, moderate, natural overcast daylight from a single diffused overhead sky source coming from above and slightly to the left, supplemented by ambient bounce fill from the surrounding white walls and reflective car body. This neutral-to-cool lighting casts short shadows with soft, gradual edges that gently sculpt the right side of the subject's face and deepen into gray and black beneath the car chassis, while preserving specular highlights across his forehead, cheekbone, the glossy car hood, and the windshield. Dominated by a cool, neutral color palette of off-white, charcoal, deep navy, forest green, heather gray, and a subtle light blue accent, the image exhibits moderate saturation and low-to-medium contrast, evoking a calm, sophisticated, and affluent old-money lifestyle mood. Shot straight-on with a 35mm lens at f/4, ISO 200, and a 1/250s shutter speed, this clean, grain-free digital photograph maintains tack-sharp focus on the subject's clothing textures and the smooth glossy vehicle while rendering the identifiable background architecture in a slightly soft, deep depth of field, finished with post-processing that preserves natural skin tones alongside a subtle contrast boost, slightly cooled highlights, and muted foliage greens, all framed in a 3:4 aspect ratio.",
+      "promptSourceUrl": "https://x.com/pictsbyai/status/2114632624950092003",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114632624950092003-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114632624950092003-1.webp"
+      ]
+    },
+    {
+      "id": "lakeside-tuxedo-espresso",
+      "title": "Tuxedo and Espresso on a Lakeside Balcony",
+      "titleZh": "湖畔阳台上的燕尾服与浓缩咖啡",
+      "category": "portrait",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "url": "https://x.com/pictsbyai"
+      },
+      "sourceUrl": "https://x.com/pictsbyai/status/2114995012962234778",
+      "publishedAt": "2026-10-27T08:18:00Z",
+      "prompt": "A young handsome man with light stubble along his jawline stands in profile on the right third of the frame, dressed in an impeccably tailored black shawl-lapel tuxedo, a crisp white pleated dress shirt, a black bow tie, and a neatly folded white pocket square. His sandy blonde to light brown hair is styled in a classic tapered scissor cut, cleanly tapered around the ears to the mid-neck on the back and sides, while the longer three-to-four-inch layered top is swept forward and slightly to the right, showcasing a natural wavy texture with a matte, light-hold finish, subtle golden-hour frizz, and loose flyaways at the crown without any harsh part line. With centered weight and level shoulders, he projects a calm, deliberately posed expression with relaxed eyebrows as he gazes serenely to the left across the water, his lips pursed against the rim of a crisp white ceramic cup mid-sip. His relaxed right hand is raised to his mouth, holding the teacup with his index and middle fingers curled through and around the handle, his thumb resting against the side, and his ring and pinky fingers tucked neatly underneath, while his left arm hangs naturally down along his side toward the lower frame edge. He stands on an outdoor lakeside terrace overlooking an Italian alpine lake resembling Lake Como, asymmetrically balanced by a weathered stone balcony pillar in the bottom-left foreground and a black painted iron balustrade with a curved top scroll spanning the lower third. The pillar features a smooth, warm beige-gray square limestone cap with a beveled edge and fine stone pitting atop an unfinished, patchy gray rough-cast stucco base. Beyond the terrace in the midground, pristine deep blue lake water stretches out with fine wind ripples and a tiny distant white boat wake on the left. In the background, steep mountain slopes covered in thriving, muted olive-brown mixed deciduous and evergreen alpine forests rise dramatically, with clusters of pastel lakeside village buildings nestled along the shoreline and a single small white cumulus cloud floating in the expansive clear blue sky above the peak. The scene is illuminated by bright, highly directional, hard golden-hour sunlight coming from a low angle on the front-left, creating a serene, affluent, and romantic atmosphere with high contrast and a warm complementary color palette. Preserved warm highlights catch the subject's forehead, nose bridge, cheekbone, right hand, the white ceramic cup, and the top of the limestone pillar cap, while long, deep black shadows with harsh defined edges fall across the back of his head and suit, cast a sharp diagonal line across the stone pillar cap, and drape across the distant mountain slopes, all subtly balanced by soft, cool ambient skylight filling the shaded areas. Captured straight-on as a clean, tack-sharp digital photograph typical of a 26mm to 35mm lens at f/2.8 to f/5.6, ISO 64, and 1/1000s shutter speed, the image maintains a deep depth of field that keeps the foreground pillar, the subject, the lake ripples, and the distant mountain ridges in crisp focus, blending Old Money lifestyle aesthetics, classic European luxury travel photography, and editorial menswear portraiture with grain-free realism, minimal retouching that preserves natural skin and hair textures, and subtle warm color grading in the highlights, framed in a 3:4 aspect ratio.",
+      "promptSourceUrl": "https://x.com/pictsbyai/status/2114995012962234778",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114995012962234778-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114995012962234778-1.webp"
+      ]
+    },
+    {
+      "id": "botanical-conservatory-portrait",
+      "title": "Portrait Behind Monstera Leaves in a Conservatory",
+      "titleZh": "温室龟背竹叶后的人像",
+      "category": "portrait",
+      "author": {
+        "name": "BMX",
+        "handle": "bmx_ai13",
+        "url": "https://x.com/bmx_ai13"
+      },
+      "sourceUrl": "https://x.com/bmx_ai13/status/2114613454292283394",
+      "publishedAt": "2026-10-26T07:01:49Z",
+      "prompt": "Inside a hyper realistic, lush botanical conservatory. Face is partially obscured by large, vibrant Monstera leaves and hanging ferns. Lighting: dappled sunlight breaking through a glass ceiling, creating intricate shadow patterns on skin. Wearing a simple, high quality linen shirt. Depth of field: shallow, with a soft bokeh effect on the tropical greenery in the background. Feels intimate and ethereal.",
+      "promptSourceUrl": "https://x.com/bmx_ai13/status/2114613454292283394",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114613454292283394-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114613454292283394-1.webp"
+      ]
+    },
+    {
+      "id": "winter-drama-casting-portrait",
+      "title": "Winter-Drama Casting Portrait",
+      "titleZh": "冬季剧集选角定妆照",
+      "category": "portrait",
+      "author": {
+        "name": "BMX",
+        "handle": "bmx_ai13",
+        "url": "https://x.com/bmx_ai13"
+      },
+      "sourceUrl": "https://x.com/bmx_ai13/status/2115237459349094411",
+      "publishedAt": "2026-10-28T00:21:24Z",
+      "prompt": "Photoreal chest up casting portrait of a fictional Bangladeshi American woman, 24, broad cheekbones, brown eyes, black hair in a low bun, subtle fatigue around the eyes, natural asymmetry and skin texture, oatmeal sweater, soft side window light, muted gray background, contemporary winter drama, 3:4",
+      "promptSourceUrl": "https://x.com/bmx_ai13/status/2115237459349094411",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115237459349094411-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115237459349094411-1.webp"
+      ]
+    },
+    {
+      "id": "math-typographic-logos-gpt-vs-nb",
+      "title": "Math Typographic Logos: GPT Image 2.5 vs Nano Banana 2.1",
+      "titleZh": "数学主题字形 Logo：GPT Image 2.5 对比 Nano Banana 2.1",
+      "category": "comparison",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2114728003737391525",
+      "publishedAt": "2026-10-26T14:37:00Z",
+      "prompt": "2x2 grid, 16:9, do this 4 math topics,   A clever, striking typographic illustration on a pure white background::5  The Typography: The word \"[WORD/CONCEPT]\" written in massive, bold font. The letters stretch, bend, and warp to perfectly form the physical shape of AI_INFER(a symbol representing the word)::5  The Details: AI_INFER(Highly stylized textures, flowing ribbons, ink splatters, or mechanical parts seamlessly blending into the letters)::4  The Palette: AI_INFER(A bold, thematic color scheme fitting the concept), high contrast, graphic design, vector art style::4  Style: Award-winning typography, Dribbble shot, logo design, gestalt illusion::3  3D render, messy, illegible, text overlay, unreadable, photography::-4",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2114728003737391525",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114728003737391525-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114728003737391525-1.webp"
+      ],
+      "note": "Top row: GPT Image 2.5, bottom row: Nano Banana 2.1, same prompt."
+    },
+    {
+      "id": "philosopher-blueprint-logos",
+      "title": "Philosopher Blueprint Logos",
+      "titleZh": "哲学家蓝图字标",
+      "category": "poster",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2114640426112303535",
+      "publishedAt": "2026-10-26T08:49:00Z",
+      "prompt": "2x2 grid, 16:9, do this for 4 famous philosophers: class Engineering_Blueprint_Logo:\n    def __init__(self, subject=\"[NAME]\", invention=\"[INVENTION/CONCEPT]\"):\n        self.canvas = \"Pure white background, 1-bit monochrome black ink graphic design\"\n        self.layout_engine = \"AI_INFER(Determine if the layout should be Orbital, Vertical, or Horizontal based on the physics of the invention)\"\n        \n    def generate_schematic(self):\n        # AI INFERENCE: Deduce the heavy typography\n        typography = f\"Massive, bold, sans-serif block letters spelling '{subject}'. The text structure aligns with the {self.layout_engine}.\"\n        \n        # The Splicing Illusion\n        cutout = f\"A flat, minimalist silhouette of {invention} slices directly through the typography. Where it overlaps the black text, it is drawn in pure white negative space.\"\n        \n        # The Hairline Details\n        drafting_marks = \"Hundreds of razor-thin (0.25pt) technical lines, crosshairs, orbital arcs, and measurement nodes intersecting the letters.\"\n        \n        return [typography, cutout, drafting_marks, self.canvas]\n\n# EXECUTE: Render as a flawless, scalable vector logo. The contrast between thick letterforms and delicate drafting lines is paramount.",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2114640426112303535",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114640426112303535-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114640426112303535-1.webp"
+      ]
+    },
+    {
+      "id": "quilled-paper-days-in-history",
+      "title": "Quilled-Paper Sculptures: 4 Days That Changed History",
+      "titleZh": "衍纸雕塑：改变历史的 4 天",
+      "category": "illustration",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2115058179193381063",
+      "publishedAt": "2026-10-27T12:29:00Z",
+      "prompt": "2x2 grid, 16:9, 4 days that changed history: RENDER_CHAIN = \"[$SUBJECT :: flow_strips :: nested_quilling_sculpture :: raking_macro]\"\n\nFUSION_RULES = {\n    \"flow_analysis\": \"compute edge-direction field θ and curvature field κ across $ SUBJECT; derive flow vector field F = ∇θ; curl(F) drives coil tightness, divergence(F) drives coil spacing\",\n    \"strip_conversion\": \"convert every streamline of F into a tightly coiled quilling strip; coil radius = 1/|κ| at that point; strip follows the flow without breaking it\",\n    \"recursion\": \"each large coil recursively contains 2–4 smaller nested coils aligned to the same local flow direction; recursion depth capped so the silhouette stays readable\",\n    \"material\": \"dyed paper quilling strips, satin finish, low specular, visible fibrous edges; gilded tips (gold leaf) at terminal ends of strips only; no other material\",\n    \"support\": \"shallow white plinth, no visible armature, no wire, no plastic\",\n    \"lighting\": \"global illumination + soft top fill; hard raking key from ~20° above horizon, aligned to F; reveals micro-relief on every coil edge and paper fiber\",\n    \"camera\": \"shallow DOF f/1.8; focal plane on the nearest coil edge cluster; paper fibers resolved at the focal plane; background coils fall into soft bokeh\",\n    \"result\": \"a quilled-paper sculpture of $ SUBJECT in which every curve becomes nested spirals of razor-clean paper geometry\",\n    \"negative\": \"wire armature, plastic, glossy resin, painted illustration, flat 2D, 3D render sheen, blurred paper fibers, random coils off-flow, pasted-on decoration\"\n}\n\nOUTPUT = (RENDER_CHAIN :: FUSION_RULES) - NEGATIVE_SET\nRENDER: ONE macro photograph of the sculpture.",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2115058179193381063",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115058179193381063-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115058179193381063-1.webp"
+      ]
+    },
+    {
+      "id": "melting-objects-dali",
+      "title": "Melting Everyday Objects, Dali-Style",
+      "titleZh": "达利风：融化的日常物件",
+      "category": "illustration",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2115144749032333331",
+      "publishedAt": "2026-10-27T18:13:00Z",
+      "prompt": "2x2 grid, do this for 4 popular objects, including Tesla Optimus Robot {<instructions>\nInput = Rigid Object \nAct as a Surrealist Painter (Dali style) but photoreal.\nFunction Melt_It ($ Object)\n Anchor:  `[$Object] :: [Melting Wax/Plastic]::5`\n Morphology:  `Surrealist distortion, [$Object] losing its structural integrity and dripping like hot wax, pooling on the floor, stretching and warping while retaining identifiable features::4`\n Material Physics:  `Viscous fluid dynamics, semi-solid state, glossy wet sheen, stretching textures, realistic melting physics::3`\n Illumination:  `Hot desert sun, hard shadows, high contrast, warm color palette::2`\n Render Stack  `Surrealist photography, 8k, sharp focus, Salvador Dali aesthetic in Unreal Engine::1`\n Negative:  `[Solid, rigid, straight lines, cold, frozen, broken shards]:: -1`\n Output: Generate prompt for [$Object].\n</instructions>\n\n}",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2115144749032333331",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115144749032333331-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115144749032333331-1.webp"
+      ]
+    },
+    {
+      "id": "cat-driving-dog-car-village",
+      "title": "Cat Driving a Dog Car Through a Village",
+      "titleZh": "小猫开着狗狗车穿过村庄",
+      "category": "scenes",
+      "author": {
+        "name": "Dmitry Lyalin",
+        "handle": "LyalinDotCom",
+        "url": "https://x.com/LyalinDotCom"
+      },
+      "sourceUrl": "https://x.com/LyalinDotCom/status/2114886747700035948",
+      "publishedAt": "2026-10-27T01:07:48Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114886747700035948-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114886747700035948-1.webp"
+      ]
+    },
+    {
+      "id": "gates-of-underworld-4-engines",
+      "title": "Gates of the Underworld: 4 Image Engines, One Prompt",
+      "titleZh": "冥界之门：4 个生图模型同一提示词",
+      "category": "comparison",
+      "author": {
+        "name": "Jonathan DJ Powers",
+        "handle": "DJpowers69",
+        "url": "https://x.com/DJpowers69"
+      },
+      "sourceUrl": "https://x.com/DJpowers69/status/2114913812113740036",
+      "publishedAt": "2026-10-27T02:55:20Z",
+      "prompt": "Two impossibly gigantic ancient obsidian gates rise between towering volcanic cliffs at the edge of the underworld. The gates are intricately carved with colossal skulls, forgotten inscriptions, and weathered stone reliefs. Vast molten lava waterfalls pour down the surrounding cliffs into a glowing chasm. A narrow black stone bridge crosses the abyss toward the sealed gates. Violent orange firelight radiates through cracks between the enormous doors while atmospheric smoke rises into a dark crimson sky. Tiny distant ruins establish the overwhelming scale of the structure. Ultra-wide cinematic composition, physically accurate volcanic illumination, extreme surface micro-detail, dramatic atmospheric depth, massive volumetric smoke formations, extraordinary optical realism, Hollywood dark-fantasy epic, 16:9.",
+      "promptSourceUrl": "https://x.com/DJpowers69/status/2114913812113740036",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114913812113740036-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114913812113740036-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114913812113740036-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114913812113740036-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114913812113740036-4.webp"
+      ],
+      "note": "Order: GPT Image 2.5 Sunburst, Nano Banana 2.1, Nano Banana Pro, Seedream 5.0 Pro."
+    },
+    {
+      "id": "eyes-behind-the-phone",
+      "title": "Eyes Behind the Phone",
+      "titleZh": "手机后的那双眼睛",
+      "category": "portrait",
+      "author": {
+        "name": "Ashish Solanki | Thumbnail Strategist",
+        "handle": "aashishdesigns",
+        "url": "https://x.com/aashishdesigns"
+      },
+      "sourceUrl": "https://x.com/aashishdesigns/status/2114634498491248804",
+      "publishedAt": "2026-10-26T08:25:27Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114634498491248804-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114634498491248804-1.webp"
+      ]
+    },
+    {
+      "id": "dark-luxury-jewelry-gpt-vs-nb",
+      "title": "Dark-Luxury Jewelry Panels: GPT Image 2.5 vs Nano Banana 2.1",
+      "titleZh": "暗黑奢华珠宝四联：GPT Image 2.5 对比 Nano Banana 2.1",
+      "category": "comparison",
+      "author": {
+        "name": "Loriel.AI",
+        "handle": "ou_zhen599",
+        "url": "https://x.com/ou_zhen599"
+      },
+      "sourceUrl": "https://x.com/ou_zhen599/status/2114788899461689844",
+      "publishedAt": "2026-10-26T18:38:59Z",
+      "prompt": "Create a premium overseas luxury jewelry campaign poster for original brand NOIRÉLIA, centered on THE VEIL RELIC COLLECTION. The image is a full-bleed vertical 2x2 editorial macro collage with dark beauty photography, black negative space, tactile lace, wet skin highlights, black satin glove texture, pearl-crystal jewelry, and a glossy black scarab brooch. The concept is quiet dark ornament: beauty hidden in shadow through intimate fragments of face, hand, skin, lace, pearl, and black crystal.\n\nDivide the poster into four equal rectangular panels with clean internal seams and no outer decorative border. Use extreme macro close-up framing in every panel. Upper-left: a 20+ adult model’s eyes and upper face partly veiled by black lace. Upper-right: a black satin-gloved hand holding one pearl between the fingers, with a fine crystal bracelet at the wrist. Lower-left: a glossy black scarab-shaped brooch resting on textured skin or matte black fabric, wrapped with a fine crystal chain. Lower-right: a macro profile of lips, nose, and cheek with a black crystal thorn face chain crossing the skin.\n\nKeep one restrained dark editorial rhythm across all panels: black backgrounds, tight cropping, high tactile detail, and selective highlights. Remove any large central headline. Let the middle seam stay clean so the four macro images breathe. Tiny brand text appears only in one or two corners, never spanning across the image. The eye, pearl, scarab brooch, and face chain create four quiet focal points without typographic interruption.\n\nThe hero products are NOIRÉLIA’s luxury accessories: black lace veil mask, pearl-crystal bracelet, glossy black scarab brooch, and black crystal thorn face chain. Each object must feel physically credible and commercially manufacturable: visible lace fibers, sharp crystal facets, softly reflective pearl surface, glossy sculptural black enamel scarab shell, and tiny precise metal settings. Brand identity comes from material consistency and minimal corner text, not a large slogan.\n\nUse only 20+ adult models with mature non-childlike facial features. Skin is realistic, with natural pores, soft highlights, and believable anatomy. Expressions are restrained and editorial: calm eyes, relaxed lips, no exaggerated seduction, no open-mouth pose. Hands must have correct anatomy, natural knuckles, clean nails, and believable finger pressure around the pearl.\n\nThe lace crosses the eyes without hiding the gaze. The satin glove creates a matte-dark field around the single pearl. The scarab brooch sits diagonally, with the crystal chain draped across its shell and body. The face chain follows cheek and lip contours, catching tiny highlights without cutting unnaturally into the skin. No large text should interrupt seams or cover jewelry.\n\nBackgrounds are deep black, charcoal grey, and muted shadow with no room details. Depth comes from macro focus, skin texture, lace layers, satin folds, jewelry reflections, and shallow falloff into darkness. Keep the collage minimal: no extra flowers, no insects other than the brooch, no cluttered fashion props, no decorative frame, no social handles.\n\nUse narrow directional soft light from upper left and very small specular jewelry highlights. Palette: 75% black and charcoal, 12% skin bronze and muted warm highlights, 8% pearl white and crystal sparkle, 5% silver-black metal glints. The pearl and crystal points provide contrast; black lace, satin glove, and enamel carry the dark brand identity. Shadows stay detailed, never dead black over jewelry or facial features.\n\nRender as high-end macro editorial photography. Lace shows fine mesh, frayed threads, and scalloped edges. Satin glove shows soft folded sheen, not plastic shine. Skin is luminous and real, never plastic. Pearl is softly reflective; crystals are sharp and faceted; black enamel scarab has curved glossy reflections and tiny carved leg details. Any typography is tiny, crisp, perfectly spaced, and not distressed.\n\nUse only English text, extremely minimal. No large central headline. Upper-left corner, tiny thin uppercase:\n“NOIRÉLIA”\nLower-right corner, tiny thin uppercase:\n“VEIL RELIC”\nOptional bottom-left micro category line:\n“LACE / PEARL / BLACK CRYSTAL”\nDo not add social handles, slogans, artist names, fake awards, prices, certifications, random small print, copied phrases, real brand marks, real product names, or real person names.\n\nOutput: full-bleed vertical 2x2 luxury campaign collage with clean panel seams. Preserve the four-panel macro structure, black lace beauty language, satin glove and single pearl, scarab jewelry motif, tactile skin and jewelry detail, refined dark luxury mood, and strict minimal text discipline. Avoid collapsed grid structure, uneven panels, large central headline, text covering jewelry, extra faces, full-body fashion pose, cluttered props, random insects, broken hand anatomy, distorted eyes or lips, plastic skin, muddy lace, fake pearls, blurry crystals, excessive glitter, cyberpunk neon, cartoon gothic styling, chaotic collage overload, low-resolution macro texture, or cheap costume jewelry look.",
+      "promptSourceUrl": "https://x.com/ou_zhen599/status/2114788899461689844",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114788899461689844-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114788899461689844-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114788899461689844-2.webp"
+      ],
+      "note": "Left: GPT Image 2.5, right: Nano Banana 2.1, same prompt."
+    },
+    {
+      "id": "cozy-autumn-mug-illustration",
+      "title": "Cozy Seasonal Mug Illustration",
+      "titleZh": "温暖的秋冬热饮插画",
+      "category": "illustration",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "url": "https://x.com/heathergreen"
+      },
+      "sourceUrl": "https://x.com/heathergreen/status/2114886547958804844",
+      "publishedAt": "2026-10-27T01:07:00Z",
+      "prompt": "A cozy, modern still-life illustration of a hand holding a dark rust-colored ceramic mug filled with a warm seasonal drink, garnished with two bright orange slices, cinnamon sticks, and fresh evergreen sprigs. The hand and forearm enter the composition from the RIGHT side of the image, palm turned upward to support the mug. The person has deep burgundy nail polish and wears a burnt mustard-yellow sleeve with a small cream geometric check pattern and a dark olive cuff.\n\nThe background is a soft muted sage green with scattered translucent cream and pale golden circles suggesting gentle bokeh. Minimal, elegant composition with generous negative space, warm autumn and winter colors, tactile handmade charm, and a quiet cozy atmosphere.\n\nDrawn entirely with alcohol art markers on lightly textured paper, featuring bold opaque marker strokes, visible overlapping color layers, subtle streaking, expressive hand-drawn outlines, slight variations in ink saturation, and crisp blocks of color with imperfect organic edges. Rich rust, burnt orange, burgundy, mustard, forest green, and sage palette. Contemporary editorial illustration, stylish hand-drawn artwork, simplified shapes, confident linework, beautifully rendered citrus and ceramic textures. Portrait composition, no text, no lettering, no watermark, no photorealism, no 3D rendering.",
+      "promptSourceUrl": "https://x.com/heathergreen/status/2114886547958804844",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114886547958804844-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114886547958804844-1.webp"
+      ]
+    },
+    {
+      "id": "silver-gray-cat-portrait",
+      "title": "Silver-Gray Cat in Morning Light",
+      "titleZh": "晨光里的银灰色大猫",
+      "category": "scenes",
+      "author": {
+        "name": "SimonAIstudios",
+        "handle": "simon_designs2",
+        "url": "https://x.com/simon_designs2"
+      },
+      "sourceUrl": "https://x.com/simon_designs2/status/2114865504670417063",
+      "publishedAt": "2026-10-26T23:43:23Z",
+      "prompt": "Ultra-photorealistic cinematic photograph of a large adult domestic cat with thick silver-gray fur, subtle darker gray stripes, a broad fluffy chest, sturdy legs, large paws, and calm green eyes. The cat is noticeably much larger than a one-month-old kitten, but still has realistic domestic-cat proportions, not the size of a wild cat. Gentle, intelligent expression, natural relaxed posture, standing on all four paws. Full body visible, realistic whiskers and individual fur strands, natural morning daylight, cinematic depth of field, detailed photographic realism. The cat should look strong and dependable rather than aggressive. No collar, no clothing, no accessories, no humans, no text, no watermark.",
+      "promptSourceUrl": "https://x.com/simon_designs2/status/2114865504670417063",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114865504670417063-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114865504670417063-1.webp"
+      ]
+    },
+    {
+      "id": "zombie-drive-in-carhop",
+      "title": "Zombie Carhop at the Drive-In",
+      "titleZh": "汽车影院的僵尸服务员",
+      "category": "illustration",
+      "author": {
+        "name": "Mainstream Madness",
+        "handle": "HairnetNation",
+        "url": "https://x.com/HairnetNation"
+      },
+      "sourceUrl": "https://x.com/HairnetNation/status/2115256541762961880",
+      "publishedAt": "2026-10-28T01:37:13Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115256541762961880-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115256541762961880-1.webp"
+      ]
+    },
+    {
+      "id": "hollow-sun-cosmic-horror",
+      "title": "The Hollow Sun: Cosmic Horror Reference Frames",
+      "titleZh": "空心太阳：宇宙恐怖参考帧",
+      "category": "scenes",
+      "author": {
+        "name": "AIARTGALLARY",
+        "handle": "AIARTGALLARY",
+        "url": "https://x.com/AIARTGALLARY"
+      },
+      "sourceUrl": "https://x.com/AIARTGALLARY/status/2114704776852033692",
+      "publishedAt": "2026-10-26T13:04:42Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114704776852033692-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114704776852033692-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114704776852033692-2.webp"
+      ],
+      "note": "The creator made these reference images with Nano Banana 2.1 and animated them with Seedance 2.0 for a short."
+    },
+    {
+      "id": "left-handed-writer-4-models",
+      "title": "Left-Handed Writer: 4 Models, One Prompt",
+      "titleZh": "左撇子写字：4 个模型同一提示词",
+      "category": "comparison",
+      "author": {
+        "name": "Kıvanç Yüksel",
+        "handle": "thejoyrises",
+        "url": "https://x.com/thejoyrises"
+      },
+      "sourceUrl": "https://x.com/thejoyrises/status/2115065997224710439",
+      "publishedAt": "2026-10-27T13:00:04Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115065997224710439-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115065997224710439-1.webp"
+      ],
+      "note": "Only Nano Banana 2.1 put the pen in her left hand; the prompt itself was not published."
+    },
+    {
+      "id": "autumn-flat-lay-3d",
+      "title": "Autumn Flat-Lay in Stylized 3D",
+      "titleZh": "风格化 3D 秋日平铺",
+      "category": "scenes",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "url": "https://x.com/heathergreen"
+      },
+      "sourceUrl": "https://x.com/heathergreen/status/2115247182060380565",
+      "publishedAt": "2026-10-28T01:00:02Z",
+      "prompt": "A richly layered autumn flat-lay arrangement viewed directly from above, featuring miniature orange pumpkins, golden-yellow flowers, burnt-orange chrysanthemums, deep burgundy maple leaves, rusty red foliage, and scattered ochre leaves arranged across a deep charcoal-brown background. The objects are artfully scattered with a natural, organic rhythm, filling the composition from edge to edge. Pumpkins of different sizes are nestled between flowers and leaves, with delicate stems, softly defined ridges, and subtle variations in shape. Large autumn blooms feature layered petals with gently rounded edges, while maple leaves display sculptural veins and softly curled tips.\n\nRendered in a sophisticated soft matte 3D style, with smooth tactile surfaces, gently rounded forms, subtle ambient occlusion, soft diffused studio lighting, delicate contact shadows, and velvety non-reflective materials. The pumpkins resemble finely crafted matte ceramic or soft sculpted clay, the flowers have thick dimensional petals, and the leaves have softly embossed veins and gently raised edges. Beautifully restrained surface detail, smooth gradients of color, understated depth, and a premium handcrafted decorative-object aesthetic.\n\nColor palette of vivid burnt orange, pumpkin orange, golden mustard, warm ochre, crimson, dusty burgundy, muted rust, and deep earthy brown. The dark background creates dramatic contrast and allows the warm autumn colors to glow. Balanced distribution of flowers, pumpkins, and foliage, with varied sizes and orientations, natural overlaps, no obvious grid, and no central focal object. Edge-to-edge seamless-looking composition with elements partially cropped along the borders, like an elegant seasonal decorative pattern.\n\nStraight-down overhead camera angle, evenly distributed composition, soft cinematic illumination, matte finish, refined stylized 3D rendering, tactile sculptural details, cozy autumn atmosphere. No glossy plastic, no metallic surfaces, no photorealistic photography, no text, no lettering, no watermark.",
+      "promptSourceUrl": "https://x.com/heathergreen/status/2115247182060380565",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115247182060380565-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115247182060380565-1.webp"
+      ]
+    },
+    {
+      "id": "halloween-black-cats-storybook",
+      "title": "Vintage Halloween Storybook: Black Cats Prowl",
+      "titleZh": "复古万圣节绘本：黑猫夜游",
+      "category": "poster",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "url": "https://x.com/heathergreen"
+      },
+      "sourceUrl": "https://x.com/heathergreen/status/2115006337767907690",
+      "publishedAt": "2026-10-27T09:03:00Z",
+      "prompt": "A spooky, richly detailed vintage Halloween storybook illustration. Across the top, clearly display the exact text: “When black cats prowl and pumpkins gleam, may luck be yours on Halloween.” Below it, groups of sleek black cats prowl down a cobblestone street toward the viewer, framed by charming vintage homes and towering gnarled trees. Glowing jack-o’-lanterns line the sidewalks, casting warm amber light against cool moonlit shadows; add a thin veil of mist, dramatic silhouettes, intricate textures, and an atmospheric, whimsical-yet-eerie mood. Balanced poster composition, crisp focal details, cohesive antique color palette.",
+      "promptSourceUrl": "https://x.com/heathergreen/status/2115006337767907690",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115006337767907690-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115006337767907690-1.webp"
+      ]
+    },
+    {
+      "id": "light-novel-manga-pages",
+      "title": "Light-Novel Manga Pages (Flow)",
+      "titleZh": "轻小说改编漫画分镜（Flow）",
+      "category": "illustration",
+      "author": {
+        "name": "のぶたん",
+        "handle": "nobtan_x25",
+        "url": "https://x.com/nobtan_x25"
+      },
+      "sourceUrl": "https://x.com/nobtan_x25/status/2114670461082812694",
+      "publishedAt": "2026-10-26T10:48:21Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114670461082812694-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114670461082812694-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114670461082812694-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114670461082812694-3.webp"
+      ]
+    },
     {
       "id": "dandelion-dew-launch-set",
       "title": "Dew-Covered Dandelion Launch Set",
