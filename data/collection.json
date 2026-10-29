@@ -7,7 +7,7 @@
   "description": "A curated collection of Google Nano Banana 2.1 (gemini-nano-banana-2.1) images shared on X — portraits, posters, photo remixes, illustration and same-prompt model comparisons — credited to each creator, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的 Google Nano Banana 2.1（gemini-nano-banana-2.1）作品：人像大片、海报排版、照片改造、插画与同提示词模型对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Nano Banana 2.1",
-  "collectedOn": "2026-10-28",
+  "collectedOn": "2026-10-29",
   "publicationCutoffUtc": "2026-10-06T00:00:00Z",
   "topics": [
     "nano-banana",
@@ -75,6 +75,168 @@
     }
   ],
   "entries": [
+    {
+      "id": "old-money-private-jet-cabin",
+      "title": "Old-Money Lounging in a Private Jet Cabin",
+      "titleZh": "私人飞机客舱里的老钱风男装",
+      "category": "portrait",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "url": "https://x.com/pictsbyai"
+      },
+      "sourceUrl": "https://x.com/pictsbyai/status/2115357400672993667",
+      "publishedAt": "2026-10-28T08:18:00Z",
+      "prompt": "A young adult man with sun-kissed tan skin (#C28B6B) and medium-brown wavy hair in a tousled mid-length shag reaching his mid-ears and upper nape—complete with loose curls, natural temple flyaways, a matte finish, and dark sunglasses pushed atop his head—lounges in a posed-candid medium shot at the center-left. He wears an unbuttoned cobalt royal blue linen shirt (#21468B) with rolled sleeves, ivory white shorts (#EAE6DA), a chest pendant necklace, a silver wristwatch on his left wrist, and two silver Cartier-style bangles on his right wrist. With a calm, direct gaze and neutral eyebrows, he leans right into a pristine cream leather private jet captain's chair with his torso turned 15 degrees, right shoulder dipped, and left leg elevated. His relaxed right hand forms a loose fist against his chin, while his left hand rests on his thigh holding a white triple-lens iPhone Pro in a white MagSafe case with the index finger along the top edge and remaining fingers curled beneath. Surrounding him in deep spatial depth is a luxury aircraft cabin featuring a matte warm-beige microsuede headliner (#D5D0C0) with subtle nap shading, recessed circular reading lights, a metallic sconce, three oval windows showing bright sky, a glossy dark mahogany side console (#3B2219) holding white napkins and a water bottle edge on the right, and rear cream leather seats with seatbelt buckles and a wood bulkhead monitor on the left. Soft 45-degree daylight from the right windows mixes with warm overhead LED cove lighting and cream interior bounce fill, creating medium contrast with short, soft-edged gray shadows along his left cheek, under his chin, and inside shirt folds, paired with blown-out window exteriors and subtle specular highlights on his forehead, cheek, and silver jewelry. Captured in a realistic old-money lifestyle aesthetic on a 24mm–28mm smartphone lens at f/1.8, ISO 160, and 1/120s from a low one-point perspective with deep depth of field, slightly soft sharpness, low digital sensor noise, warm color grading, and lifted shadows, framed in a 9:16 vertical aspect ratio.",
+      "promptSourceUrl": "https://x.com/pictsbyai/status/2115357400672993667",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115357400672993667-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115357400672993667-1.webp"
+      ],
+      "note": "Post: created with Nano Banana 2.1 in the Gemini app."
+    },
+    {
+      "id": "burgundy-smoke-portraits",
+      "title": "Burgundy Smoke Portraits",
+      "titleZh": "勃艮第烟雾里的人像",
+      "category": "portrait",
+      "author": {
+        "name": "FAEIZ",
+        "handle": "Faeiz4Ai",
+        "url": "https://x.com/Faeiz4Ai"
+      },
+      "sourceUrl": "https://x.com/Faeiz4Ai/status/2115359737654988865",
+      "publishedAt": "2026-10-28T08:27:17Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115359737654988865-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115359737654988865-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115359737654988865-2.webp"
+      ]
+    },
+    {
+      "id": "oc-in-four-historical-uniforms",
+      "title": "One Character in Four Historical Uniforms",
+      "titleZh": "同一角色换上四国军礼服",
+      "category": "illustration",
+      "author": {
+        "name": "Lex ღ Hart",
+        "handle": "Alaryn_Heart",
+        "url": "https://x.com/Alaryn_Heart"
+      },
+      "sourceUrl": "https://x.com/Alaryn_Heart/status/2115519971316891843",
+      "publishedAt": "2026-10-28T19:04:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115519971316891843-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115519971316891843-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115519971316891843-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115519971316891843-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115519971316891843-4.webp"
+      ],
+      "note": "British, Austro-Hungarian, Prussian, Italian; Nano Banana 2.1 Thinking High."
+    },
+    {
+      "id": "ballgown-satin-sleep-masks-sunrise",
+      "title": "Ballgown and Satin Sleep Masks at Sunrise",
+      "titleZh": "日出百叶窗光影里的礼服与眼罩",
+      "category": "portrait",
+      "author": {
+        "name": "BMX",
+        "handle": "bmx_ai13",
+        "url": "https://x.com/bmx_ai13"
+      },
+      "sourceUrl": "https://x.com/bmx_ai13/status/2115259504862597255",
+      "publishedAt": "2026-10-28T01:49:00Z",
+      "prompt": "A 2026 high fashion editorial morning portrait of a Gen Z Korean female model wearing an opulent champagne silk tulle ballgown, holding two oversized pearl trimmed satin sleep eye masks symmetrically covering her eyes, harsh golden sunrise light casting dramatic Venetian blind shadows across her face, luxury Seoul penthouse background with creamy bokeh, shot on Canon EOS R5, RF 85mm f/1.8 lens, razor sharp focus, Vogue Korea aesthetic, 8k RAW photo",
+      "promptSourceUrl": "https://x.com/bmx_ai13/status/2115259504862597255",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115259504862597255-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115259504862597255-1.webp"
+      ]
+    },
+    {
+      "id": "neon-crosswalk-street-luxury",
+      "title": "Neon Crosswalk Street-Luxury Editorial",
+      "titleZh": "霓虹斑马线上的街头奢华大片",
+      "category": "portrait",
+      "author": {
+        "name": "Mr Das",
+        "handle": "MrDasCreates",
+        "url": "https://x.com/MrDasCreates"
+      },
+      "sourceUrl": "https://x.com/MrDasCreates/status/2115476480365089198",
+      "publishedAt": "2026-10-28T16:11:11Z",
+      "prompt": "{\n  \"aspect_ratio\": \"9:16\",\n  \"subject\": \"The same instantly recognizable beautiful woman, perfectly consistent in face, hair, skin and body, captured in a bold, cinematic street-luxury moment\",\n  \"appearance\": {\n    \"hair\": \"sleek high ponytail with a few loose strands, glossy chestnut brown, subtle wind lift\",\n    \"face\": \"identical refined face, captivating eyes with a calm intimidating focus, clean natural makeup, softly defined cheekbones, neutral lips\",\n    \"skin\": \"realistic natural skin texture, subtle glow from neon reflections, visible pores, no smoothing\",\n    \"body\": \"consistent sculptural hourglass silhouette, strong posture, long powerful legs, elegant athletic definition\"\n  },\n  \"outfit\": {\n    \"top\": \"black structured corset-inspired blazer top (fully fashion, not lingerie), sharp lapels, cinched waist, matte premium fabric\",\n    \"bottom\": \"high-waisted charcoal tailored wide-leg trousers with a long clean drape and slit detail at the ankle\",\n    \"outer_layer\": \"short cropped leather jacket in deep espresso brown, slightly oversized shoulders, worn open\",\n    \"details\": \"clean silhouette, elevated street couture, confident and refined without vulgarity\",\n    \"accessories\": {\n      \"jewelry\": \"single statement ear cuff in brushed gold, no necklace\",\n      \"footwear\": \"black pointed-toe stiletto ankle boots with minimal detailing\",\n      \"extra\": \"small structured mini-bag in ivory with a short handle\"\n    }\n  },\n  \"pose\": \"standing centered in frame mid-crosswalk, one foot forward like a runway step paused in time; shoulders squared, chin slightly down with eyes locked into the lens; one hand lifting the jacket collar against the wind, the other holding the mini-bag low by her thigh; expression controlled, fearless, magnetic\",\n  \"setting\": {\n    \"location\": \"high-end downtown street corner at night\",\n    \"environment\": \"wet asphalt reflecting neon signage, passing blurred headlights, faint mist in the air\",\n    \"background\": \"luxury storefront glass, glowing city billboards, distant traffic bokeh\"\n  },\n  \"lighting\": {\n    \"type\": \"neon cinematic night lighting\",\n    \"sources\": [\n      \"bright magenta and cyan neon reflections from nearby signage\",\n      \"soft warm headlight glow from behind for depth\",\n      \"subtle rim light catching hair edges and shoulders\"\n    ],\n    \"effect\": \"high-contrast editorial mood, glossy reflections on pavement, dramatic depth with smooth gradients\"\n  },\n  \"camera\": {\n    \"style\": \"high-end cinematic fashion street photography\",\n    \"perspective\": \"eye-level with slight forward push-in, giving intimacy and power without distortion\",\n    \"focus\": \"tack-sharp on her eyes and face, creamy falloff into motion blur behind\",\n    \"depth_of_field\": \"moderate shallow cinematic separation\"\n  },\n  \"style\": {\n    \"aesthetic\": \"luxury street editorial with cinematic grit\",\n    \"mood\": \"dominant, iconic, effortless authority\",\n    \"realism\": \"hyper-realistic, tactile, premium\",\n    \"avoid\": [\n      \"rooftops\",\n      \"rainfall on skin emphasis\",\n      \"beach aesthetics\",\n      \"gym visuals\",\n      \"bikini or lingerie looks\",\n      \"plastic skin\",\n      \"static mannequin pose\"\n    ]\n  }\n}",
+      "promptSourceUrl": "https://x.com/MrDasCreates/status/2115476480365089198",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115476480365089198-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115476480365089198-1.webp"
+      ],
+      "note": "Prompt is structured JSON."
+    },
+    {
+      "id": "las-calaveras-biker-crew",
+      "title": "Las Calaveras: Day-of-the-Dead Biker Crew",
+      "titleZh": "亡灵节骷髅妆机车帮",
+      "category": "scenes",
+      "author": {
+        "name": "Mainstream Madness",
+        "handle": "HairnetNation",
+        "url": "https://x.com/HairnetNation"
+      },
+      "sourceUrl": "https://x.com/HairnetNation/status/2115259781246242971",
+      "publishedAt": "2026-10-28T01:50:06Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115259781246242971-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115259781246242971-1.webp"
+      ]
+    },
+    {
+      "id": "halloween-at-lot-13",
+      "title": "Halloween at Lot 13: Witch, Bride and Vampire",
+      "titleZh": "13 号营地的万圣夜：女巫、新娘与吸血鬼",
+      "category": "scenes",
+      "author": {
+        "name": "Mainstream Madness",
+        "handle": "HairnetNation",
+        "url": "https://x.com/HairnetNation"
+      },
+      "sourceUrl": "https://x.com/HairnetNation/status/2115248242716004755",
+      "publishedAt": "2026-10-28T01:04:15Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115248242716004755-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115248242716004755-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115248242716004755-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115248242716004755-3.webp"
+      ]
+    },
+    {
+      "id": "iceberg-pendant-lights-restaurant",
+      "title": "Iceberg Pendant Lights in a Greenlandic Restaurant",
+      "titleZh": "格陵兰餐厅里的冰山吊灯",
+      "category": "scenes",
+      "author": {
+        "name": "Cortney Harrington",
+        "handle": "CortneyReindeer",
+        "url": "https://x.com/CortneyReindeer"
+      },
+      "sourceUrl": "https://x.com/CortneyReindeer/status/2115289113897402836",
+      "publishedAt": "2026-10-28T03:46:39Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115289113897402836-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115289113897402836-1.webp"
+      ],
+      "note": "Post: lights designed with Nano Banana 2, this still made with Nano Banana 2.1."
+    },
     {
       "id": "moving-day-sunlit-room",
       "title": "Moving Day in a Sunlit Room",
