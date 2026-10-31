@@ -7,7 +7,7 @@
   "description": "A curated collection of Google Nano Banana 2.1 (gemini-nano-banana-2.1) images shared on X — portraits, posters, photo remixes, illustration and same-prompt model comparisons — credited to each creator, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的 Google Nano Banana 2.1（gemini-nano-banana-2.1）作品：人像大片、海报排版、照片改造、插画与同提示词模型对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Nano Banana 2.1",
-  "collectedOn": "2026-10-29",
+  "collectedOn": "2026-10-31",
   "publicationCutoffUtc": "2026-10-06T00:00:00Z",
   "topics": [
     "nano-banana",
@@ -2620,6 +2620,399 @@
         "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2114043771960852718-2.webp"
       ],
       "note": "Left: GPT Image 2.5, right: Nano Banana 2.1. The creator published only the GPT Image 2.5 prompt, so no prompt is listed here."
+    },
+    {
+      "id": "porsche-bucket-seat-portrait",
+      "title": "Cornflower Shirt in a Porsche Bucket Seat",
+      "titleZh": "保时捷座椅上的浅蓝条纹衬衫",
+      "category": "portrait",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "url": "https://x.com/pictsbyai"
+      },
+      "sourceUrl": "https://x.com/pictsbyai/status/2115719788748042652",
+      "publishedAt": "2026-10-29T08:18:00Z",
+      "prompt": "A young handsome male in his early 20s sits right of center in the driver's bucket seat of a Porsche 718 GTS, wearing a cornflower blue (#5C82B8) and white vertical-striped button-down shirt—unbuttoned at the collar with a navy embroidered polo logo on the left chest—paired with baggy light acid-wash denim jeans (#9EB5C4). His medium-length, wavy light-brown hair reaches mid-ear and the nape of the neck, parted slightly left of center in a tousled flow with upward-swept curtain bangs, a natural matte finish, and loose flyaway strands at the crown and temple. With his torso angled 45 degrees toward the wheel, right shoulder extended forward, and left shoulder pulled back, he turns his head in near-full profile to his left, looking sharply backward with wide, alert eyes, relaxed eyebrows, and slightly parted lips in a candid, focused expression. His right hand grips the 11 o'clock position of the black Alcantara steering wheel with fingers wrapped over the rim and thumb tucked behind, while his relaxed left hand rests on the black Alcantara center console with curled index and middle fingertips lightly touching the edge, displaying a stainless steel link watch with a black dial on his wrist. In the foreground, a pristine black leather and Alcantara passenger bucket seat with crimson red (#B81D24) contrast stitching and a red seatbelt buckle frames the bottom-right, while the midground features the Porsche crest steering wheel, a red nylon door pull loop, an instrument hood with red stitching, and a sloped center console housing a silver metallic shift knob, leather boot, glossy black sans-serif labeled buttons alongside faint red GTS headrest embroidery. Beyond the driver's window, an aged utilitarian garage wall of unfinished, patchy matte olive-brown and beige-gray plaster shows vertical dark stains, weathered streaks, and a dimly visible electrical box and pipes. A single, hard, camera-mounted flash fires from the passenger side in a high-contrast, low-key setup, casting short, harsh, deep jet-black (#0B0B0D) shadows against the headrest and into the cabin while creating crisp specular highlights across his warm peach skin (#DFA389) at the forehead, nose bridge, and cheek, as well as the shift knob and watch bezel, evoking a sophisticated yet candid late-night atmosphere. Captured from a slightly high angle on the passenger side using a 35mm lens at f/4, 1/60s, and ISO 400, this realistic digital photograph features tack-sharp focus, deep depth of field, minimal shadow noise, crushed blacks, warmed skin tones, and a 2000s digicam and old-money aesthetic, framed in a 3:4 vertical aspect ratio.",
+      "promptSourceUrl": "https://x.com/pictsbyai/status/2115719788748042652",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115719788748042652-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115719788748042652-1.webp"
+      ]
+    },
+    {
+      "id": "night-helipad-leather-portrait",
+      "title": "Leather Jacket on a Night Helipad",
+      "titleZh": "夜里停机坪上的皮衣肖像",
+      "category": "portrait",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "url": "https://x.com/pictsbyai"
+      },
+      "sourceUrl": "https://x.com/pictsbyai/status/2116082175980568841",
+      "publishedAt": "2026-10-30T08:18:00Z",
+      "prompt": "A medium-long editorial night portrait of a young handsome man with light brown hair styled in a medium-length swept-back flow and curtain cut reaching his mid-ear and nape, featuring wavy layered volume on top, natural separation, subtle crown flyaways, and a natural satin finish. He stands centered in front of a pristine, high-gloss black and red turbine helicopter with its left cabin door open and twin rotor blades overhead, alongside an aviation fuel tanker truck and a low white rope stanchion barrier in the foreground on an olive-gray concrete tarmac with expansion joint cracks and dark tire marks. His head is turned 90 degrees into a left side profile with closed, neutral relaxed lips, relaxed eyelids, and a composed, confident expression while looking away to the left, and both hands are casually inserted inside the welt pockets of an oversized black leather zip-up collared bomber jacket and he is wearing black wide-leg trousers. The scene is illuminated by artificial night airfield floodlights and front-left key lighting creating a warm golden-neutral cast with high contrast, sharp specular highlights on the glossy leather jacket and helicopter paint, deep black shadows, and soft ambient fill, captured in a realistic digital photography style with subtle low-light grain and framed in a 4:5 vertical aspect ratio.",
+      "promptSourceUrl": "https://x.com/pictsbyai/status/2116082175980568841",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116082175980568841-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116082175980568841-1.webp"
+      ]
+    },
+    {
+      "id": "red-beanie-fashion-portrait",
+      "title": "Red Beanie, Studio Fashion Portrait",
+      "titleZh": "红毛线帽棚拍男装肖像",
+      "category": "portrait",
+      "author": {
+        "name": "Harboris",
+        "handle": "harboriis",
+        "url": "https://x.com/harboriis"
+      },
+      "sourceUrl": "https://x.com/harboriis/status/2116049356562587715",
+      "publishedAt": "2026-10-30T06:07:35Z",
+      "prompt": "Create an ultra-realistic, high-end men's fashion editorial portrait of a handsome young man in his early 20s, with a naturally attractive appearance and a relaxed, slightly confident expression.\n\nSubject: A young man with thick, naturally wavy dark brown hair, soft curls falling across his forehead, defined eyebrows, warm natural skin tone, subtle freckles, a well-defined jawline, and realistic facial features. He has deep brown eyes and looks directly into the camera with a subtle, relaxed smile.\n\nHeadwear: A dark brown and muted rust-red knitted beanie with a thick ribbed texture and a wide folded cuff, sitting naturally on his head. Some loose curls of hair are visible around his forehead and ears.\n\nOutfit: A vibrant red casual jacket with a slightly oversized fit, raised wide collar, front zipper, and visible metallic snap buttons. The jacket is worn partially open, revealing a clean white crew-neck T-shirt underneath.\n\nPose and Expression: A close-up to medium portrait, with the subject's head slightly tilted to one side. His shoulders are relaxed, his body faces slightly toward the camera, and his eyes look directly into the lens. Natural, effortless masculine styling.\n\nBackground: A simple, smooth light grey studio backdrop with subtle natural tonal variations and no distracting objects.\n\nLighting: Soft natural studio lighting coming from the front-left side, creating gentle shadows across the face and highlighting the skin texture, hair, knitted beanie, and red jacket. Warm, balanced exposure with realistic shadows.\n\nPhotography Style: Premium contemporary men's fashion campaign, minimalist editorial photography, candid yet polished aesthetic, authentic skin texture, natural imperfections, realistic fabric details, subtle cinematic color grading.\n\nCamera and Quality: Professional DSLR photography, 85mm portrait lens, f/2.8 aperture, shallow depth of field, sharp focus on the eyes, high-resolution details, vertical 2:3 composition, photorealistic quality.\n\nImportant Details: Maintain natural facial proportions, realistic wavy hair, detailed knitted fabric, accurate red jacket texture, authentic skin pores, and natural lighting. Avoid plastic-looking skin, excessive retouching, artificial facial features, or CGI effects.",
+      "promptSourceUrl": "https://x.com/harboriis/status/2116049356562587715",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116049356562587715-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116049356562587715-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116049356562587715-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116049356562587715-3.webp"
+      ]
+    },
+    {
+      "id": "lilac-eyepatch-mirror-selfie",
+      "title": "Lilac Eye Patches and an Iced Coffee",
+      "titleZh": "淡紫色眼膜和一杯冰咖啡",
+      "category": "portrait",
+      "author": {
+        "name": "Emma",
+        "handle": "Emmma___0",
+        "url": "https://x.com/Emmma___0"
+      },
+      "sourceUrl": "https://x.com/Emmma___0/status/2116021471957201018",
+      "publishedAt": "2026-10-30T04:16:47Z",
+      "prompt": "Create an aesthetic, close-up mirror selfie of a young woman. She has long, beautifully styled hair with voluminous waves. She is wearing patterned, lilac-colored under-eye patches, and her lips are coated in lip gloss. She is dressed in a white, form-fitting spaghetti-strap top. In one hand, she holds a glass of iced coffee, sipping through a straw, while her other hand holds a burgundy smartphone—visible in the mirror’s reflection.Her hands are adorned with gold bracelets and rings, complemented by a vibrant red manicure. The background is light and minimalist, illuminated by bright, natural light.",
+      "promptSourceUrl": "https://x.com/Emmma___0/status/2116021471957201018",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116021471957201018-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116021471957201018-1.webp"
+      ]
+    },
+    {
+      "id": "lime-suit-parking-garage",
+      "title": "Lime Suit, Four Poses in a Parking Garage",
+      "titleZh": "车库里的四格青柠西装",
+      "category": "portrait",
+      "author": {
+        "name": "Easy A.I.",
+        "handle": "92digitalartArt",
+        "url": "https://x.com/92digitalartArt"
+      },
+      "sourceUrl": "https://x.com/92digitalartArt/status/2116192901864583200",
+      "publishedAt": "2026-10-30T15:37:59Z",
+      "prompt": "Create a single photorealistic fashion editorial image arranged as a precise 2×2 grid of four equally sized photographs, separated by thin, clean white gutters. Overall square format. Each panel depicts the SAME beautiful adult woman, age 25, in a different extreme but anatomically believable pose.\n\nCHARACTER AND WARDROBE LOCK:\nThe exact same woman appears in all four panels: an oval face, defined cheekbones, almond-shaped brown eyes, straight dark eyebrows, a small straight nose, full natural lips and a sleek dark pixie haircut. Natural skin texture and understated editorial makeup. She wears the exact same oversized acid-green tailored suit, black fitted tank top, chunky black leather loafers and small silver hoop earrings in every panel. Maintain identical facial structure, haircut, body proportions, clothing colours and accessories throughout. Expressions change, identity does not.\n\nSHARED SETTING:\nAn underground parking garage with concrete columns, painted white parking lines and overhead fluorescent strip lights. Consistent cool ambient lighting, restrained warm light in the distance, believable shadows and realistic fabric colours. The four photographs belong to the same fashion campaign.\n\nTOP LEFT — THE SHOE-FIRST SQUAT:\nShe drops into a deep, wide squat with both feet firmly planted, knees opening naturally outward. Her torso leans forward between her thighs. One elbow rests on its corresponding knee while the other hand loosely grips her jacket lapel. Her right loafer sits very close to the lens, oversized in the foreground. Chin lowered, she looks upward into the camera with a wicked asymmetric grin and one eyebrow raised.\nCamera at floor level, 16mm ultra-wide lens angled upward. Keep her face unobstructed between the knees, with a clearly readable connection between hips, legs and feet.\n\nTOP RIGHT — THE SIDEWAYS HUMAN KNOT:\nShe sits sideways on a low concrete parking barrier, pelvis fully supported. Her left foot rests firmly on the ground while her right knee is lifted toward her chest, right foot resting on the barrier. She bends her torso sideways to her left, plants her left palm on the barrier beside her hip, and curves her right arm over her head. Her face looks toward the lens beneath the raised arm, framed by the open space between elbow and shoulder. Mouth open in a fierce, spontaneous laugh.\nLow three-quarter camera position, 20mm wide lens, slight Dutch tilt. Show the supporting hand, seated hips and grounded foot so the unusual pose remains physically understandable.\n\nBOTTOM LEFT — THE OVERHEAD SPRAWL:\nShe lies on her back on clean concrete, her jacket spread beneath her shoulders. Her left leg extends diagonally across the frame, while her right knee bends outward with the right foot flat on the ground. Her left arm extends away from the body, palm relaxed. Her right hand reaches straight upward toward the overhead camera, fingers naturally spread, positioned beside rather than over her face. She gives the lens a theatrical mock gasp, eyes wide, lips parted with a hint of amusement.\nDirect overhead 20mm shot, full body visible. The reaching hand appears larger through proximity while her face remains clearly readable. White parking lines create a graphic composition around her body.\n\nBOTTOM RIGHT — THE FORWARD-FOLD AMBUSH:\nShe stands with feet wider than hip width and knees softly bent, folding forward at the hips toward the camera. Her left palm rests on her left thigh for support. Her right hand reaches toward the lens in a playful open-handed attempt to grab it. Her head lifts just enough for direct eye contact, neck naturally aligned. A crooked triumphant grin, nose slightly scrunched, one eye narrowed.\nCamera low and close, 18mm wide lens aimed upward. The reaching hand occupies one side of the foreground, not the centre, leaving her entire face visible. Keep enough of her hips and both legs in frame to explain the forward fold.\n\nPHOTOGRAPHIC FINISH:\nAuthentic high-fashion photography, lively imperfect timing, detailed skin, individual hair strands, visible fabric weave, believable suit folds and realistic leather. Bold perspective comes from camera placement and relative distance, never from stretched anatomy. Crisp expressive eyes, coherent lighting and contact shadows. Each panel has a distinct silhouette, expression and composition.\n\nLAYOUT AND ANATOMY CONSTRAINTS:\nExactly four panels. Exactly one instance of the same woman per panel. Four distinct poses, no repeated composition. No body parts crossing between panels. Exactly two arms and two legs per woman, anatomically coherent hands, connected shoulders and hips, plausible joint angles. Preserve the same face even when expression and camera angle change.\n\nNo extra people, identity drift, outfit changes, duplicated limbs, fused fingers, dislocated joints, stretched faces, plastic skin, CGI rendering, illustration, captions, lettering, logos or watermarks.",
+      "promptSourceUrl": "https://x.com/92digitalartArt/status/2116192901864583200",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116192901864583200-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116192901864583200-1.webp"
+      ]
+    },
+    {
+      "id": "four-panel-beauty-collage",
+      "title": "Four-Panel Beauty Collage from One Selfie",
+      "titleZh": "一张自拍做成的四格美容大片",
+      "category": "remix",
+      "author": {
+        "name": "Areeba",
+        "handle": "TheVirtualMuse",
+        "url": "https://x.com/TheVirtualMuse"
+      },
+      "sourceUrl": "https://x.com/TheVirtualMuse/status/2115657618710786506",
+      "publishedAt": "2026-10-29T04:10:57Z",
+      "prompt": "Create a single, ultra-realistic 2×2 photographic collage in a vertical 9:16 aspect ratio, featuring the same adult woman in four distinct beauty portraits. The final image should look like four genuine smartphone photographs taken during the same indoor photoshoot, with consistent identity, hair, makeup, wardrobe, and environment. Prioritize realistic facial anatomy, crisp eye detail, natural skin texture, and accurate sunlight.\n\nIDENTITY LOCK\n\nUse the uploaded selfie as the reference for her face only. The hair, makeup, wardrobe, pose, lighting, and setting come from this prompt. Preserve her recognizable facial features, facial proportions, eye shape, nose, lips, eyebrows, cheekbones, and jawline. Keep her light blue-gray eyes and skin tone consistent across all four panels. Do not create four different women, change her apparent age, or excessively beautify her.\n\nPANEL LAYOUT\n\nFour equal portrait panels in a clean 2×2 grid, with straight, consistent borders and no overlapping images or extra panels.\n\nTop-left: A frontal medium close-up. She faces the camera directly with an intense, confident gaze and her chin slightly lowered. Her voluminous black hair frames both sides of her face and falls over her shoulders. The crop reaches about the upper chest.\n\nTop-right: A close-up three-quarter view with her head turned slightly. A thick section of jet-black hair sweeps diagonally across her left eye (the viewer's left), covering it, while her right eye looks toward the camera. Her lips are relaxed and slightly parted. A small silver hoop earring is visible.\n\nBottom-left: A medium close-up facing forward, looking directly into the camera with a calm, sultry expression. A warm patch of direct sunlight crosses her right cheek and forehead, with realistic shadows over the rest of her face. Her long black hair forms layers around her face and chest.\n\nBottom-right: An extreme close-up from a three-quarter side angle. The crop emphasizes one light blue-gray eye, the cheekbone, the nose, and her glossy nude-pink lips, which are slightly parted. Her black hair frames the outer edge of the face and falls along the neck. A delicate silver chain with a small cross pendant is visible near the lower edge.\n\nHAIR\n\nLong, thick, voluminous layered black hair with soft curtain-like framing pieces, a lifted crown, and large flowing layers around the shoulders. The hair is deep jet black with cool, restrained charcoal reflections where daylight hits the strands. It looks natural and glossy, with individual strands, fine flyaways, and realistic shadow depth. Do not change the hair to brown, chestnut, copper, auburn, blonde, or gray.\n\nMAKEUP & SKIN\n\nNatural peach-nude eyeshadow, sharp but slim black eyeliner, defined dark eyebrows, realistic eyelashes, softly contoured cheeks, and glossy nude-pink lips with a subtle darker lip liner. Skin is fair-to-golden with natural warmth, realistic tonal variation, a dewy highlight on the cheekbones and nose bridge, and visible pores. Avoid excessive airbrushing or plastic-looking skin.\n\nWARDROBE & ACCESSORIES\n\nA minimalist black camisole with realistic fabric texture and natural folds. A small silver hoop earring and a fine silver chain necklace with a delicate cross pendant. Keep the same wardrobe and accessories in all four panels.\n\nSETTING & LIGHTING\n\nA clean indoor space with off-white walls, a window frame in the upper-left area, and subtle architectural edges. Strong natural golden daylight from a nearby window creates distinct geometric sunlight across her face and hair, with deep but detailed shadows. Keep sunlit areas bright without blowing out the skin, and keep catchlights in the eyes. No neon lighting, no colored backgrounds, no furniture, no text.\n\nCAMERA & OPTICS\n\nRealistic modern smartphone photography, 35mm-equivalent lens, natural close-up perspective with subtle optical distortion, mild background separation, sharp eyes, eyelashes, eyebrows, and lips, and balanced exposure. The image should look like an authentic, lightly edited smartphone photograph.\n\nVisible natural skin pores, individual eyelashes, fine eyebrow hairs, realistic iris patterns, natural lip lines, detailed black hair strands, fine flyaways, realistic fabric fibers, and accurate silver reflections. Natural daylight color with neutral skin tones, deep black hair, and no heavy filters or excessive orange tones.\n\nClean photograph only. No text, watermarks, logos, or interface elements.\n\nNEGATIVE PROMPT\n\ndifferent woman in each panel, inconsistent identity, altered facial proportions, different eye color, brown hair, chestnut hair, copper hair, auburn hair, blonde hair, gray hair, blue hair, flat hair, short hair, missing hair volume, different clothing, missing necklace, oversized earrings, flat lighting, excessive orange lighting, blown-out face, blurry eyes, blurry lips, plastic skin, excessive airbrushing, artificial glow, overprocessed makeup, distorted face, extra fingers, deformed hands, cartoon, anime, illustration, digital painting, 3D render, CGI, low resolution, pixelation, excessive sharpening, text, watermark, logo, uneven grid, unequal panels, extra panels, overlapping panels, 4:5 aspect ratio",
+      "promptSourceUrl": "https://x.com/TheVirtualMuse/status/2115657618710786506",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115657618710786506-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115657618710786506-1.webp"
+      ],
+      "note": "Prompt asks for an uploaded selfie as the face reference."
+    },
+    {
+      "id": "chibi-fortune-500-grid",
+      "title": "Chibi Fortune 500 Logos, Two Models",
+      "titleZh": "两个模型画的财富 500 强吉祥物",
+      "category": "comparison",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2115861723639132498",
+      "publishedAt": "2026-10-29T17:42:00Z",
+      "prompt": "2x2 grid, 16:9, do this for 4 x fortune 500 companies: CONCEPT ANCHOR 1: \"Cute chibi cultural character — oversized head, simplified features, toy-like proportions, expressive pose, collectible mascot energy\"\n\n::\n\nCONCEPT ANCHOR 2: \"Typographic object logo — letters physically become the subject’s shape or container\"\n\n::\n\nCONCEPT ANCHOR 3: \"Floating pictogram aura — abstract icons, smell lines, motion marks, mini symbols, cultural shorthand, simple hand-drawn marks\"\n\nINSTRUCTION:\nFind the exact visual center of these styles.\nIgnore the literal food, animal, drink, and location.\nMake the style transform any subject.\n\nRender $ SUBJECT as a cute cultural idol poster where a toy-like character presents the subject while the typography and surrounding icons become part of the visual storytelling.\n\nSTYLE RULES:\n- Create one central chibi mascot or simplified character embodying $ SUBJECT’s attitude.\n- Give it one iconic prop, object, tool, container, or symbolic item related to the subject.\n- Turn the subject’s name into huge bold typography behind, below, or integrated into the character.\n- Add black pictogram icons around the figure like a thought cloud, aroma cloud, idea burst, or cultural sticker sheet.\n- Use simplified facial features, chunky shapes, rounded toy proportions, and clean silhouette.\n- Add poster-style microtext: side notes, slogans, tiny labels, category words, and cultural phrases.\n- Use a strong graphic hierarchy: big title, central mascot, prop, icon aura, slogan.\n- The final look should feel like a sticker, merch graphic, food poster, album cover, or collectible toy box art.\n\nOUTPUT:\nA playful chibi-poster identity where $ SUBJECT becomes a cute mascot surrounded by symbolic icons and bold typographic branding.",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2115861723639132498",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115861723639132498-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115861723639132498-1.webp"
+      ],
+      "note": "Author ran the same chibi-logo prompt on GPT Image 2.5 and Nano Banana 2.1."
+    },
+    {
+      "id": "scifi-metaphor-grid",
+      "title": "Four Science-Fiction Movies as Editorial Metaphors",
+      "titleZh": "四部科幻片的编辑式隐喻",
+      "category": "poster",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "url": "https://x.com/Gdgtify"
+      },
+      "sourceUrl": "https://x.com/Gdgtify/status/2116149873053520259",
+      "publishedAt": "2026-10-30T12:47:00Z",
+      "prompt": "2x2 grid, 16:9, do this for 4 famous scifi movies: class UniversalEditorialMetaphor:\n\n    def __init__(self, topic):\n        self.topic = topic\n\n        self.semantics = infer_semantic_structure(topic)\n        self.thesis = infer_visual_thesis(topic)\n        self.mood = infer_editorial_tone(topic)\n\n        self.metaphors = generate_candidate_metaphors(\n            topic,\n            count=12\n        )\n\n        self. best_metaphor = self. select_best_metaphor()\n\n    def select_best_metaphor(self):\n        return max(\n            self.metaphors,\n            key=lambda m:\n                0.35 * semantic_accuracy(m)\n              + 0.25 * conceptual_originality(m)\n              + 0.25 * visual_clarity(m)\n              + 0.15 * silhouette_strength(m)\n        )\n\n    def visual_actors(self):\n        return {\n            \"primary\": infer_dominant_form(\n                self. best_metaphor\n            ),\n            \"secondary\": infer_consequence_or_partner(\n                self. best_metaphor\n            ),\n            \"interaction\": infer_decisive_action(\n                self. best_metaphor\n            )\n        }\n\n    def composition(self):\n        return {\n            \"geometry\": \"asymmetric\",\n            \"primary_scale\": \"monumental\",\n            \"secondary_scale\": \"small\",\n            \"camera\": \"flat editorial orthographic\",\n            \"cropping\": \"dramatic boundary intrusion\",\n            \"negative_space\": \"dominant\",\n            \"focal_point\": \"physical interaction\"\n        }\n\n    def typography(self):\n        return {\n            \"heading\": derive_chapter_title(self.topic),\n            \"embedded_word\": infer_single_action_label_if_needed(\n                self.topic\n            ),\n            \"density\": \"minimal\"\n        }\n\n    def render_style(self):\n        return {\n            \"background\": \"warm ivory\",\n            \"foreground\": \"near-black\",\n            \"interior_lines\": \"fine white contours\",\n            \"shadows\": None,\n            \"gradients\": None,\n            \"texture\": \"minimal editorial print\",\n            \"format\": \"wide conceptual illustration\"\n        }\n\n    def render(self):\n        return compose(\n            actors=self.visual_actors(),\n            metaphor=self. best_metaphor,\n            layout=self.composition(),\n            typography=self.typography(),\n            style=self.render_style()\n        )\n\nFINAL_IMAGE = UniversalEditorialMetaphor(\n    topic=\"[TOPIC]\"\n).render()",
+      "promptSourceUrl": "https://x.com/Gdgtify/status/2116149873053520259",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116149873053520259-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116149873053520259-1.webp"
+      ]
+    },
+    {
+      "id": "four-model-window-portrait",
+      "title": "Same Face, Four Image Models by a Window",
+      "titleZh": "同一张脸，四个模型的窗边肖像",
+      "category": "comparison",
+      "author": {
+        "name": "川越あい(ラブりんって呼んでෆ)",
+        "handle": "kawagoe_ai",
+        "url": "https://x.com/kawagoe_ai"
+      },
+      "sourceUrl": "https://x.com/kawagoe_ai/status/2115920360235548778",
+      "publishedAt": "2026-10-29T21:35:00Z",
+      "prompt": "※お顔とお洋服の写真を添付してね。\n\n顔・髪: 添付の顔写真に準拠\n髪の状態: 乾いた通常の状態\n表情: 目は自然に開き、視線は右下、口元は閉じ微かに笑み、眉は自然、わずかに微笑む\nトップス: 添付の衣装写真に準拠\nボトムス: 画角外\n足元: 画角外\n服の状態: 乱れなし、乾いた通常の着用\n小物: 小さなハートモチーフのシルバーネックレスと片耳に1つだけ付けた小さなスタッドピアス（フープ・揺れるタイプではない）\nポーズ: 上体を支える台に両肘をついて体を支える、腰はカメラ側、肩は右斜め前を向く、上体は前方に約20度倒す、頭頂と腰を結ぶ体の軸は右に約5度傾く、顔は右斜め下を向く、両手は右耳元に添えてアクセサリーをつける仕草、肘を支点に曲げた両腕\n前後: 右耳と両手が最もカメラに近く画面の1割を占める、ピントは顔と手に合っている、画面手前の遮蔽物に深いボケ、遠近の誇張なし、体全体がほぼ同じ距離\n構図: バストアップショット、画面下端が胸の下で切れる、頭頂は上から1割、胸下は上から9割の位置、人物は画面中央に位置する、カメラは斜め上からのアイレベルよりやや高め、標準レンズ\n場所: 室内、朝から日中、春、晴れ、窓から光が差し込む部屋、観葉植物と家具が奥に写る、奥行きは浅く全体に柔らかいボケ\n光: 窓からの自然光・斜め後方からの逆光、温かい色温度、ハイキー、低いコントラスト、柔らかい影、強いリムライトあり、フレアあり、白飛びなし\n撮影: 街中スナップ、撮影者は被写体の正面から距離約1m、焦点距離50mm感、絞り開放感、粒状感なし、低彩度と低コントラストの傾向、かすみのある空気感\n質感: 肌の質感、汗や濡れなし、浅い被写界深度、温かみのある色調\n画風: 実写・フォトリアル（アニメ・イラスト・CG・絵画は不可）、自然な光とボケ感のある一眼レフ写真風\n比率: 縦9:16 / 1080x1920px（横長不可）",
+      "promptSourceUrl": "https://x.com/kawagoe_ai/status/2115920360235548778",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115920360235548778-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115920360235548778-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115920360235548778-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115920360235548778-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115920360235548778-4.webp"
+      ],
+      "note": "Panels labeled by the author: 1 ChatGPT, 2 Gemini, 3 gemini-nano-banana-2.1-2k, 4 gemini-2.5-flash-image-preview. Prompt asks for an attached face photo and outfit photo."
+    },
+    {
+      "id": "reverse-angle-stone-ruins",
+      "title": "Reverse Angle in Stone Ruins",
+      "titleZh": "石质废墟里的反打镜头",
+      "category": "remix",
+      "author": {
+        "name": "Marco",
+        "handle": "ai_artworkgen",
+        "url": "https://x.com/ai_artworkgen"
+      },
+      "sourceUrl": "https://x.com/ai_artworkgen/status/2116217421077848340",
+      "publishedAt": "2026-10-30T17:15:25Z",
+      "prompt": "show me the reverse angle shot of this exact scene. keep the subject's position and pose identical. maintain subject, outfit, and environment consistency.",
+      "promptSourceUrl": "https://x.com/ai_artworkgen/status/2116217421077848340",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116217421077848340-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116217421077848340-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116217421077848340-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116217421077848340-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116217421077848340-4.webp"
+      ],
+      "note": "One scene, then a reverse-angle instruction, then more shots using the face as a reference."
+    },
+    {
+      "id": "moe-maid-character-sheet",
+      "title": "Moe Maid Character Sheet",
+      "titleZh": "萌系女仆角色设定",
+      "category": "illustration",
+      "author": {
+        "name": "のぶたん",
+        "handle": "nobtan_x25",
+        "url": "https://x.com/nobtan_x25"
+      },
+      "sourceUrl": "https://x.com/nobtan_x25/status/2116096673927839893",
+      "publishedAt": "2026-10-30T09:15:36Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116096673927839893-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116096673927839893-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116096673927839893-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116096673927839893-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116096673927839893-4.webp"
+      ],
+      "note": "Designed in Gemini, drawn on Flow with Nano Banana 2.1. Prompt not pasted."
+    },
+    {
+      "id": "hunter-manga-page",
+      "title": "A Hunter Finds the Prey, Manga Page",
+      "titleZh": "猎人找到猎物的漫画页",
+      "category": "illustration",
+      "author": {
+        "name": "のぶたん",
+        "handle": "nobtan_x25",
+        "url": "https://x.com/nobtan_x25"
+      },
+      "sourceUrl": "https://x.com/nobtan_x25/status/2116109368219648162",
+      "publishedAt": "2026-10-30T10:06:03Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116109368219648162-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116109368219648162-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116109368219648162-2.webp"
+      ],
+      "note": "Name draft first, then the comic page. Prompt not pasted."
+    },
+    {
+      "id": "studio-headshot-two-models",
+      "title": "Studio Headshot, ChatGPT Image vs Nano Banana 2.1",
+      "titleZh": "棚拍头像：ChatGPT 图像对 Nano Banana 2.1",
+      "category": "comparison",
+      "author": {
+        "name": "A.D.BARRY",
+        "handle": "aiwithadb",
+        "url": "https://x.com/aiwithadb"
+      },
+      "sourceUrl": "https://x.com/aiwithadb/status/2116130182931288233",
+      "publishedAt": "2026-10-30T11:28:46Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116130182931288233-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116130182931288233-1.webp"
+      ],
+      "note": "Same headshot brief on the two models. Prompt not pasted."
+    },
+    {
+      "id": "ice-queen-two-models",
+      "title": "Ice Queen, Same Prompt, Two Models",
+      "titleZh": "同一提示词的冰雪女王，两个模型",
+      "category": "comparison",
+      "author": {
+        "name": "Elegance AI",
+        "handle": "Zulqifal4",
+        "url": "https://x.com/Zulqifal4"
+      },
+      "sourceUrl": "https://x.com/Zulqifal4/status/2116159434959278440",
+      "publishedAt": "2026-10-30T13:25:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116159434959278440-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116159434959278440-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116159434959278440-2.webp"
+      ],
+      "note": "Author says Nano Banana 2.1 and GPT Image 2.5 shared one prompt. The prompt text is not in the post."
+    },
+    {
+      "id": "fictional-metro-map",
+      "title": "A 14-Station Fictional Metro Map",
+      "titleZh": "14 个站的虚构地铁线路图",
+      "category": "scenes",
+      "author": {
+        "name": "ミントブルー",
+        "handle": "MBE2nd",
+        "url": "https://x.com/MBE2nd"
+      },
+      "sourceUrl": "https://x.com/MBE2nd/status/2116246741855228018",
+      "publishedAt": "2026-10-30T19:11:55Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116246741855228018-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116246741855228018-1.webp"
+      ],
+      "note": "Station names planned with Gemini 3.8 Flash, map drawn with Nano Banana 2.1. Prompt not pasted."
+    },
+    {
+      "id": "rockabilly-diner-barefoot",
+      "title": "Barefoot Rockabilly Dolls at the Diner",
+      "titleZh": "餐厅停车场上的赤脚洛卡比莉玩偶",
+      "category": "illustration",
+      "author": {
+        "name": "Mainstream Madness",
+        "handle": "HairnetNation",
+        "url": "https://x.com/HairnetNation"
+      },
+      "sourceUrl": "https://x.com/HairnetNation/status/2115859338090963014",
+      "publishedAt": "2026-10-29T17:32:31Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115859338090963014-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115859338090963014-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115859338090963014-2.webp"
+      ],
+      "note": "Made with Nano Banana 2.1. Prompt not pasted."
+    },
+    {
+      "id": "rockabilly-garage-pinup",
+      "title": "Barefoot Rockabilly Queens and a Chrome Bumper",
+      "titleZh": "铬保险杠旁的赤脚洛卡比莉",
+      "category": "illustration",
+      "author": {
+        "name": "Mainstream Madness",
+        "handle": "HairnetNation",
+        "url": "https://x.com/HairnetNation"
+      },
+      "sourceUrl": "https://x.com/HairnetNation/status/2115644276956893666",
+      "publishedAt": "2026-10-29T03:17:57Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115644276956893666-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115644276956893666-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115644276956893666-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115644276956893666-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2115644276956893666-4.webp"
+      ],
+      "note": "Made with Nano Banana 2.1. Prompt not pasted."
+    },
+    {
+      "id": "autumn-maple-lunch",
+      "title": "Maple Leaves and a Hot Pot Lunch",
+      "titleZh": "红叶和一顿火锅午饭",
+      "category": "scenes",
+      "author": {
+        "name": "Zimo",
+        "handle": "Zimo41650079726",
+        "url": "https://x.com/Zimo41650079726"
+      },
+      "sourceUrl": "https://x.com/Zimo41650079726/status/2116314459023241296",
+      "publishedAt": "2026-10-30T23:41:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116314459023241296-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116314459023241296-1.webp"
+      ],
+      "note": "Maple-leaf series, made with Nano Banana 2.1. Prompt not pasted."
+    },
+    {
+      "id": "doorbell-cam-pink-creature",
+      "title": "Doorbell Camera and a Pink Creature",
+      "titleZh": "门铃摄像头里的粉色生物",
+      "category": "illustration",
+      "author": {
+        "name": "SuperbainK_4",
+        "handle": "chimeneaelecpro",
+        "url": "https://x.com/chimeneaelecpro"
+      },
+      "sourceUrl": "https://x.com/chimeneaelecpro/status/2116292165420671405",
+      "publishedAt": "2026-10-30T22:12:25Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116292165420671405-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116292165420671405-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116292165420671405-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/nano-banana-2-1/2116292165420671405-3.webp"
+      ],
+      "note": "Posted as Nano Banana 2.1. Prompt not pasted."
     }
   ]
 }
